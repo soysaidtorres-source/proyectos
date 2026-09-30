@@ -19,7 +19,7 @@
 - **Titulares de 5 palabras o menos,** con un gancho claro: una pregunta que duele, una curiosidad o un número.
 - **$10 USD siempre visible:** baja la barrera y atrae a gente que sí puede comprar, no solo curiosos.
 - **Botón = beneficio + mensaje,** por ejemplo "ENVÍANOS UN MENSAJE Y TE ENSEÑAMOS CÓMO…". Promete algo a cambio de escribir.
-- **Etiqueta "CURSO ONLINE":** aclara desde el anuncio que es un curso, para que no escriba gente buscando otra cosa. Eso baja el costo por venta.
+- **Etiqueta "CURSO ONLINE · MY 4X4 ACADEMY":** aclara desde el anuncio que es un curso, para que no escriba gente buscando otra cosa. Eso baja el costo por venta.
 
 **6 ángulos para probar:**
 
@@ -48,7 +48,7 @@ CREA: un anuncio vertical 4:5 para Instagram y Facebook, final y listo para publ
 ESCENA (fotografía hiperrealista): Sam, con suéter negro de cuello alto, en una cocina acogedora de noche, sentado a la mesa. Sostiene una libreta abierta llena de bocetos y notas adhesivas de ideas de negocio (SIN texto legible). Mira directo a la cámara con una sonrisa cálida y cómplice, como diciendo "yo te ayudo a arrancar". Con la otra mano señala hacia abajo, hacia el botón. Sobre la mesa, un foco (bombilla) encendido. Luz cálida de lámpara, fondo desenfocado. La cara de Sam es grande y ocupa al menos el 30% del anuncio. Degradado azul marino semitransparente en la parte superior para que el titular contraste.
 
 TEXTOS (escríbelos EXACTAMENTE así, con acentos y signos):
-- Etiqueta pequeña arriba, pastilla blanca con texto azul marino #0B1660: "CURSO ONLINE · SAM GONZÁLEZ"
+- Etiqueta pequeña arriba, pastilla blanca con texto azul marino #0B1660: "CURSO ONLINE · MY 4X4 ACADEMY"
 - Pre-titular, blanco con extrusión 3D azul marino #0B1660: "¿TU IDEA SIGUE EN PAUSA?"
 - Titular gigante en 2 líneas, blanco ultra grueso con extrusión 3D azul marino #0B1660 profunda: "HOY ARRANCA"
 - Cinta tipo listón con degradado turquesa #00B3AD a azul #0068A0, texto blanco condensado: "LAS BASES PARA CONVERTIRLA EN NEGOCIO"
@@ -74,7 +74,7 @@ CREA: un anuncio vertical 4:5, final y listo para publicar, con tipografía inte
 ESCENA (fotografía hiperrealista, estilo retrato de estudio): Sam, con suéter negro de cuello alto, sobre fondo oscuro azul marino con un halo de luz turquesa detrás. Se inclina un poco hacia la cámara con una mano junto a la boca, como a punto de contarte un secreto, con una sonrisa pícara y la mirada directa a la cámara. Retrato de pecho hacia arriba, con su cara GRANDE (40% del anuncio). A su lado flota un candado 3D turquesa abriéndose, con luz saliendo de adentro (símbolo de "desbloquear").
 
 TEXTOS (escríbelos EXACTAMENTE así, con acentos):
-- Etiqueta pequeña arriba, pastilla blanca con texto azul marino #0B1660: "CURSO ONLINE · SAM GONZÁLEZ"
+- Etiqueta pequeña arriba, pastilla blanca con texto azul marino #0B1660: "CURSO ONLINE · MY 4X4 ACADEMY"
 - Pre-titular, blanco con extrusión 3D azul marino #0B1660: "LO QUE NADIE TE DICE"
 - Titular gigante en 2 líneas, blanco ultra grueso con extrusión 3D azul marino #0B1660 profunda y borde fino turquesa: "ANTES DE EMPRENDER"
 - Cinta tipo listón con degradado turquesa #00B3AD a azul #0068A0, texto blanco condensado: "DESBLOQUEA EL SECRETO DEL EMPRENDIMIENTO"
@@ -100,7 +100,7 @@ CREA: un anuncio vertical 4:5, final y listo para publicar, con tipografía inte
 ESCENA (fotografía hiperrealista): Sam, con camisa blanca arremangada y lentes, detrás del mostrador de un pequeño negocio (una cafetería o tienda local cálida). Con una mano sostiene una caja registradora abierta CASI VACÍA y con la otra se ajusta los lentes, mirando a la cámara con una ceja levantada y media sonrisa, como diciendo "¿a dónde se fue tu dinero?". Sobre el mostrador, recibos y una calculadora. Productos genéricos SIN marcas. Luz cálida de tarde. Su cara es grande y ocupa al menos el 30% del anuncio. Degradado azul marino semitransparente arriba.
 
 TEXTOS (escríbelos EXACTAMENTE así, con acentos y signos):
-- Etiqueta pequeña arriba, pastilla blanca con texto azul marino #0B1660: "CURSO ONLINE · SAM GONZÁLEZ"
+- Etiqueta pequeña arriba, pastilla blanca con texto azul marino #0B1660: "CURSO ONLINE · MY 4X4 ACADEMY"
 - Pre-titular, blanco con extrusión 3D azul marino #0B1660: "¿VENDES Y VENDES…"
 - Titular gigante en 2 líneas, blanco ultra grueso con extrusión 3D azul marino #0B1660 profunda: "Y NO VES LA GANANCIA?"
 - Cinta tipo listón con degradado turquesa #00B3AD a azul #0068A0, texto blanco condensado: "APRENDE EL CICLO COMERCIAL DE TU NEGOCIO"
@@ -126,7 +126,7 @@ CREA: un anuncio vertical 4:5, final y listo para publicar, con tipografía inte
 ESCENA (fotografía hiperrealista, estilo documental): Sam, con camisa blanca arremangada, dentro de una pequeña tienda de abarrotes mexicana. Sostiene frente a la cámara una libreta vieja de "fiados" llena de anotaciones (letras borrosas, NO legibles). Con la otra mano levanta el dedo índice en señal de advertencia. Mira directo a la cámara con expresión seria y preocupada, como alertándote de un peligro. Anaqueles con productos genéricos SIN marcas detrás. Luz cálida de tarde. Su cara es grande y ocupa al menos el 30% del anuncio. Degradado azul marino semitransparente arriba.
 
 TEXTOS (escríbelos EXACTAMENTE así, con acentos y signos):
-- Etiqueta pequeña arriba, pastilla blanca con texto azul marino #0B1660: "CURSO ONLINE · SAM GONZÁLEZ"
+- Etiqueta pequeña arriba, pastilla blanca con texto azul marino #0B1660: "CURSO ONLINE · MY 4X4 ACADEMY"
 - Pre-titular, blanco con extrusión 3D azul marino #0B1660: "⚠️ EL ERROR #1 QUE"
 - Titular gigante en 2 líneas, blanco ultra grueso con extrusión 3D azul marino #0B1660 profunda: "QUIEBRA NEGOCIOS"
 - Cinta tipo listón con degradado turquesa #00B3AD a azul #0068A0, texto blanco condensado: "FIAR SIN CONTROL Y VENDER SIN ESTRATEGIA"
@@ -152,7 +152,7 @@ CREA: un anuncio vertical 4:5, final y listo para publicar, con tipografía inte
 ESCENA (fotografía hiperrealista): Sam en la mitad inferior derecha, recortado a la altura del pecho, mirando a la cámara con seguridad. Ventanal de la ciudad al atardecer detrás, desenfocado. Luz cálida sobre su rostro. Su cara es grande y ocupa al menos el 30% del anuncio. Degradado azul marino semitransparente en la parte superior e izquierda para que los textos contrasten. Una flecha curva turquesa sale desde las viñetas hacia el botón.
 
 TEXTOS (escríbelos EXACTAMENTE así, con acentos):
-- Etiqueta pequeña arriba, pastilla blanca con texto azul marino #0B1660: "CURSO ONLINE"
+- Etiqueta pequeña arriba, pastilla blanca con texto azul marino #0B1660: "CURSO ONLINE · MY 4X4 ACADEMY"
 - Pre-titular, blanco con extrusión 3D azul marino #0B1660: "25 AÑOS FORMANDO EMPRENDEDORES"
 - Titular gigante en 2 líneas, blanco ultra grueso con extrusión 3D azul marino #0B1660 profunda: "EL MÉTODO 4X4"
 - Dos viñetas cortas en blanco con palomita turquesa, a la izquierda de Sam: "✔ +10,000 FACILITADORES FORMADOS" y "✔ AUTOR DE 4X4 EMPRENDEDORES"
@@ -178,7 +178,7 @@ CREA: un anuncio vertical 4:5, final y listo para publicar, con tipografía inte
 ESCENA (fotografía hiperrealista, divertida): Sam, con suéter negro de cuello alto, sonriendo con la boca abierta y cara de "¿en serio?", mirando a la cámara. En una mano sostiene una rebanada de pizza con queso estirándose; en la otra, un celular que muestra una clase en línea (pantalla SIN texto legible), como si los estuviera pesando en una balanza. Cocina moderna cálida detrás, desenfocada. Su cara es grande y ocupa al menos el 30% del anuncio. Degradado azul marino semitransparente arriba.
 
 TEXTOS (escríbelos EXACTAMENTE así, con acentos):
-- Etiqueta pequeña arriba, pastilla blanca con texto azul marino #0B1660: "CURSO ONLINE · SAM GONZÁLEZ"
+- Etiqueta pequeña arriba, pastilla blanca con texto azul marino #0B1660: "CURSO ONLINE · MY 4X4 ACADEMY"
 - Pre-titular, blanco con extrusión 3D azul marino #0B1660: "POR MENOS QUE UNA PIZZA 🍕"
 - Titular gigante en 2 líneas, blanco ultra grueso con extrusión 3D azul marino #0B1660 profunda: "APRENDE A EMPRENDER"
 - Cinta tipo listón con degradado turquesa #00B3AD a azul #0068A0, texto blanco condensado: "25 AÑOS DE EXPERIENCIA EN UN CURSO"
