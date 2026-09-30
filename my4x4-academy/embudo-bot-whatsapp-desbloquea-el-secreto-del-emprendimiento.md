@@ -1,10 +1,11 @@
 # DESBLOQUEA EL SECRETO DEL EMPRENDIMIENTO – Embudo Low Ticket por WhatsApp (Bot SelleChat)
 
-**Cliente:** Sam González – My 4x4 Academy
-**Producto:** Curso "Desbloquea el Secreto del Emprendimiento" (plan de estudio en my4x4academy.com)
+**Cliente:** Sam González – My 4x4 Academy / Fundación E
+**Producto:** Curso "Desbloquea el Secreto del Emprendimiento": 1 módulo, 6 temas
+**Precio:** **$10 USD**, pago único
 **Entrada al bot:** clic al anuncio (Click-to-WhatsApp) o palabra clave **EMPRENDE**
-**Pago y entrega:** checkout de My 4x4 Academy → acceso automático a la plataforma
-**Link de la oferta:** https://www.my4x4academy.com/studyPlan/desbloquea-el-secreto-del-emprendimiento?catalog=public&origin=premium
+**Pago y entrega:** registro y pago en la plataforma de My 4x4 Academy → acceso al curso dentro de la plataforma
+**Link del curso:** https://www.my4x4academy.com/studyPlan/desbloquea-el-secreto-del-emprendimiento
 
 Es la misma estructura de los bots de CashTube y Ganando con Forex, adaptada a Sam. El texto va con formato de WhatsApp (los asteriscos ponen negritas), así que se puede copiar y pegar tal cual en SelleChat.
 
@@ -12,35 +13,40 @@ Es la misma estructura de los bots de CashTube y Ganando con Forex, adaptada a S
 
 ## LEER PRIMERO
 
-- **Un solo link de pago.** Todo cierra en el checkout de My 4x4 Academy. El bot no cobra ni revisa comprobantes: calienta, resuelve dudas y manda al link. *Si la plataforma no acepta OXXO o transferencia, activa el Flujo 3B (pago manual, igual que en CashTube).*
-- **Datos por rellenar** (van en [CORCHETES]): precio real y precio de lanzamiento, lista final de módulos, bonos que apruebe Sam, garantía (si hay), link de checkout, testimonios y audio de Sam.
-- **La autoridad de Sam es el diferencial.** En emprendimiento sobran gurús que prometen "hazte rico". Sam tiene más de 25 años formando emprendedores con Fundación E (desde 1999), más de 10,000 facilitadores formados en su metodología y el libro *4x4 Emprendedores Todo Terreno*, que va en su 3ª edición y ha salido en Milenio y AméricaEconomía. El copy vende **experiencia real, un método y claridad**, no ingresos garantizados.
-- **Metáfora de marca:** tu negocio es un vehículo 4x4. No necesitas acelerar más, necesitas **tracción**. Úsala en los anuncios y en el bot para que todo suene a una sola marca.
+- **Un solo link.** Todo cierra en la página del curso: la persona da clic en *Registrarse*, crea su cuenta y paga los $10 USD. El bot no cobra, solo calienta, resuelve dudas y manda al link.
+- **El precio está en dólares.** En México conviene decir siempre el equivalente en pesos ("$10 USD, unos [≈$XXX] MXN") para que no se asusten. Revisa qué métodos acepta el checkout: si es solo tarjeta o PayPal, activa el **Flujo 3B** (OXXO o transferencia manual, como en CashTube). Eso suele subir mucho las ventas low ticket en México.
+- **Hay que explicar el registro.** La página pide *Registrarse* antes de pagar. Es un paso extra que puede hacer que la gente abandone, por eso el Flujo 2 y el Flujo 3 lo explican en 3 pasos.
+- **Datos por rellenar** (van en [CORCHETES]): equivalente en MXN, valor de referencia, bonos que apruebe Sam, garantía (si hay), testimonios y audio de Sam.
+- **La autoridad de Sam es el diferencial.** Tiene más de 25 años formando emprendedores con Fundación E (desde 1999), más de 10,000 facilitadores formados en su metodología y el libro *4x4 Emprendedores Todo Terreno*, que va en su 3ª edición y ha salido en Milenio y AméricaEconomía. El copy vende **experiencia real y bases de negocio**, no ingresos garantizados.
+- **Gancho de marca:** el creativo del curso ya pregunta *"¿Tienes una gran idea pero no sabes cómo dar el primer paso?"*. Úsalo como hilo en los anuncios y en el bot, junto con la metáfora 4x4: no te falta esfuerzo, te falta **tracción**.
 
 ---
 
 ## OFERTA (Value Stack)
 
-**Promesa:** Descubre lo que nadie te dice antes de emprender y arma tu plan de acción para arrancar (o destrabar) tu negocio con la metodología 4x4 de Sam González, aunque empieces desde cero.
+**Promesa (de la página):** Transforma tu pasión en ganancias. Aprende a diseñar un negocio sólido, atraer clientes y entender el ciclo de negocio desde sus bases, paso a paso.
 
 **Título de la oferta:**
-*Desbloquea el Secreto del Emprendimiento:* el método 4x4 con el que Sam González ha formado a miles de emprendedores durante más de 25 años, para que dejes de dar vueltas y le des tracción a tu idea o negocio.
+*Desbloquea el Secreto del Emprendimiento:* las bases de negocio que Sam González ha enseñado durante más de 25 años, para que tu gran idea deje de ser idea y se convierta en un negocio que vende.
 
-**Qué aprende** *(confirmar con los módulos reales del curso; esta propuesta sigue los 4 pilares del libro de Sam)*:
-1. **ELIGE:** cómo validar tu idea y elegir el negocio correcto antes de invertir.
-2. **EMPODÉRATE:** cómo romper los miedos y bloqueos que frenan a la mayoría.
-3. **EMPRENDE:** el terreno real del emprendimiento y cómo ganar tracción en los primeros pasos.
-4. **EVOLUCIONA:** cómo hacer crecer y adaptar tu negocio para que no se estanque.
-5. Tu **plan de acción** personal, paso a paso.
+**Contenido real del curso: Módulo 1, "Inspiración para el emprendimiento y la innovación" (6 temas):**
+1. Bienvenida
+2. Las bases del ciclo comercial
+3. Compras
+4. Generación de Propuesta de Valor
+5. Estrategias efectivas para las ventas
+6. Ventas a crédito y manejo del riesgo
 
-**Bonos sugeridos** *(elegir con Sam; que sean fáciles de entregar dentro de la plataforma)*:
+**Bonos sugeridos** *(opcionales; subir el valor percibido cuesta poco y ayuda a vender a $10)*:
 - 🎁 BONO 1: Ebook de notas *4x4 Emprendedores* (el imprimible que ya existe).
-- 🎁 BONO 2: Plantilla de Plan de Acción / Modelo de Negocio en 1 página.
-- 🎁 BONO 3: Checklist "Antes de invertir un peso en tu negocio".
+- 🎁 BONO 2: Plantilla de Propuesta de Valor en 1 página.
+- 🎁 BONO 3: Checklist "Antes de vender a crédito".
 - 🎁 BONO 4: Acceso a la Comunidad de WhatsApp de emprendedores 4x4.
 
-**Precio:** valor real [PRECIO REAL, ej. $990 MXN] → precio de lanzamiento **[PRECIO LOW TICKET]**.
-*Referencia de tus otros low tickets: CashTube $65 MXN y Forex $150 MXN. Para un curso con la autoridad de Sam, $147–$297 MXN es un rango sano. Pruébalo con anuncios.*
+*Si Sam no quiere bonos, borra el Mensaje 2 del Flujo 2. El precio de $10 USD ya es muy accesible y el bot funciona igual.*
+
+**Precio:** **$10 USD** (≈ [$XXX] MXN), pago único.
+*Anclaje opcional: si Sam lo aprueba, muestra un valor de referencia real, por ejemplo lo que cuesta una asesoría o su curso completo ([VALOR DE REFERENCIA]). No inventes un "precio antes" que nunca existió.*
 
 ---
 
@@ -48,75 +54,68 @@ Es la misma estructura de los bots de CashTube y Ganando con Forex, adaptada a S
 
 **MENSAJE 1**
 
-¡Hola! 👋 Qué gusto que quieras darle tracción a tu emprendimiento 🚙💨
+¡Hola! 👋 ¿Tienes una gran idea pero no sabes cómo dar el primer paso? 🚙💨
 
-Te cuento rápido de qué se trata 👇
+Estás en el lugar correcto, te cuento rápido 👇
 
 **MENSAJE 2**
 
-*DESBLOQUEA EL SECRETO DEL EMPRENDIMIENTO* es el curso donde descubres *lo que nadie te dice antes de emprender* y armas tu plan de acción paso a paso, aunque estés empezando desde cero 🧠
+*DESBLOQUEA EL SECRETO DEL EMPRENDIMIENTO* es el curso donde aprendes a *diseñar un negocio sólido, atraer clientes y entender el ciclo de negocio desde sus bases*, paso a paso y aunque empieces desde cero 🧠
 
-Lo creó *Sam González*, autor del libro *4x4 Emprendedores Todo Terreno* y fundador de *Fundación E*. Lleva más de *25 años* formando emprendedores y ya capacitó a más de *10,000 facilitadores* de su metodología en universidades e instituciones ✅
+Lo imparte *Sam González*, autor del libro *4x4 Emprendedores Todo Terreno* y fundador de *Fundación E*. Lleva más de *25 años* formando emprendedores y ya capacitó a más de *10,000 facilitadores* de su metodología en universidades e instituciones ✅
 
-Aquí no vas a encontrar promesas de hacerte millonario en 30 días. Vas a encontrar un *método probado* para dejar de dar vueltas y avanzar con claridad.
+Aquí no hay promesas de hacerte millonario en 30 días. Aquí aprendes *las bases que la mayoría se salta* y por las que muchos negocios no despegan.
 
 **MENSAJE 3**
 
-¿Te gustaría que te cuente todo lo que incluye y cómo obtenerlo hoy? 👇
+¿Te gustaría que te cuente qué incluye y cómo entrar hoy por menos de lo que cuesta una pizza? 🍕👇
 
 *(Botón / respuesta rápida: "Sí, cuéntame" → FLUJO 2)*
 
 ---
 
-## FLUJO 2 – La Oferta (qué incluye + precio)
+## FLUJO 2 – La Oferta (qué incluye + precio + cómo entrar)
 
 **MENSAJE 1**
 
-📘 *Esto es lo que vas a aprender dentro del curso:*
+📘 *Esto es lo que vas a aprender:*
 
-✅ Cómo elegir y validar tu idea *antes* de invertir tu dinero
+✅ *Las bases del ciclo comercial:* cómo funciona de verdad un negocio, de principio a fin
 
-✅ Cómo romper los miedos y bloqueos que frenan a la mayoría
+✅ *Compras:* cómo comprar bien para cuidar tu margen desde el inicio
 
-✅ El terreno real del emprendimiento: lo que nadie te cuenta
+✅ *Propuesta de Valor:* cómo lograr que tus clientes te elijan a ti y no a la competencia
 
-✅ Cómo ganar tracción en tus primeros clientes y ventas
+✅ *Estrategias efectivas de ventas:* cómo atraer clientes y cerrar más ventas
 
-✅ Cómo hacer crecer tu negocio sin estancarte
+✅ *Ventas a crédito y manejo del riesgo:* cómo vender a crédito sin que te dejen de pagar
 
-✅ Tu *plan de acción personal*, paso a paso
+**MENSAJE 2** *(solo si hay bonos)*
 
-*[Ajustar con los módulos reales del curso]*
+🎁 *Y si entras hoy, te llevas también:*
 
-**MENSAJE 2**
-
-🎁 *Y si entras hoy, te llevas estos BONOS incluidos:*
-
-🔥 *BONO 1:* Ebook de notas 4x4 Emprendedores, para aterrizar cada lección.
-
-🔥 *BONO 2:* Plantilla de Plan de Acción en 1 página.
-
-🔥 *BONO 3:* Checklist "Antes de invertir un peso en tu negocio".
-
-🔥 *BONO 4:* Acceso a la Comunidad de WhatsApp de emprendedores 4x4.
+🔥 *BONO 1:* Ebook de notas 4x4 Emprendedores
+🔥 *BONO 2:* Plantilla de Propuesta de Valor en 1 página
+🔥 *BONO 3:* Checklist "Antes de vender a crédito"
+🔥 *BONO 4:* Comunidad de WhatsApp de emprendedores 4x4
 
 **MENSAJE 3**
 
-Todo esto (curso completo + 4 bonos) tiene un valor real de *[PRECIO REAL] MXN* ❌
+Todo esto con más de 25 años de experiencia de Sam detrás, en un pago único de solo:
 
-Pero hoy, como parte del lanzamiento, lo tienes en un pago único de solo:
+🔥 *$10 USD* (unos [$XXX] MXN) ✅
 
-🔥 *[PRECIO LOW TICKET] MXN* ✅
-
-🚀 Acceso inmediato y de por vida en la plataforma de My 4x4 Academy. 100% en línea, a tu ritmo, desde tu celular o computadora.
+🚀 Acceso inmediato en la plataforma de My 4x4 Academy, 100% en línea y a tu ritmo, desde tu celular o computadora.
 
 **MENSAJE 4**
 
-Para entrar, da clic aquí y completa tu compra de forma segura 👇
+*Para entrar es muy fácil* 👇
 
-🔗 [LINK DE CHECKOUT MY 4X4 ACADEMY]
+1️⃣ Entra aquí: 🔗 https://www.my4x4academy.com/studyPlan/desbloquea-el-secreto-del-emprendimiento
+2️⃣ Da clic en *"Registrarse"* y crea tu cuenta (1 minuto)
+3️⃣ Completa tu pago de $10 USD y ¡listo! El curso queda en tu cuenta 🎉
 
-En cuanto pagas, tu acceso te llega *automático a tu correo* 📧
+Si te atoras en algún paso, escríbeme aquí y te ayudo 🙌
 
 ---
 
@@ -124,35 +123,39 @@ En cuanto pagas, tu acceso te llega *automático a tu correo* 📧
 
 **MENSAJE 1**
 
-Aquí te dejo de nuevo tu link para inscribirte de forma 100% segura 👇
+Aquí te dejo de nuevo el link para inscribirte 👇
 
-🔗 [LINK DE CHECKOUT MY 4X4 ACADEMY]
+🔗 https://www.my4x4academy.com/studyPlan/desbloquea-el-secreto-del-emprendimiento
 
 **MENSAJE 2**
 
-Recuerda: el acceso te llega solo a tu correo (revisa también spam por si acaso). Cualquier duda, aquí sigo 🙌
+Recuerda: das clic en *Registrarse*, creas tu cuenta y pagas tus $10 USD. Si ya tienes cuenta, usa *Iniciar sesión*. Cualquier duda, aquí sigo 🙌
 
-### FLUJO 3B – Pago manual (solo si el checkout no acepta OXXO o transferencia)
+### FLUJO 3B – Pago manual (si el checkout no acepta OXXO o transferencia, o si la persona no tiene tarjeta)
 
-¡Claro! También puedes pagar así 👇
+¡Claro! También puedes pagar en pesos 👇
 
 ☑ Transferencia SPEI: [BANCO / CLABE / TITULAR]
 ☑ Efectivo en OXXO: [NÚMERO DE TARJETA]
 
-1️⃣ Haz tu pago y mándame la foto del comprobante por aquí.
-2️⃣ Te damos de alta en la plataforma y te envío tu acceso por este chat y a tu correo.
+Monto: *[$XXX] MXN*
+
+1️⃣ Haz tu pago y mándame la foto del comprobante junto con *tu nombre y correo*.
+2️⃣ Te damos de alta en la plataforma y te llega tu acceso a tu correo.
 
 ✅ ¡Y listo! Empiezas hoy mismo.
+
+*(Alta manual: el equipo de Sam da acceso al curso a ese correo. Hay que definir quién lo hace y en cuánto tiempo.)*
 
 ---
 
 ## FLUJO 4 – Remarketing 1: Recordatorio (a las 2–4 horas si no compró)
 
-🚨 ¿Sigues con la idea de emprender (o de destrabar tu negocio)?
+🚨 ¿Sigues con esa gran idea en la cabeza?
 
-No lo dejes para "algún día". Entra a *Desbloquea el Secreto del Emprendimiento* + 4 bonos por un pago único de *[PRECIO LOW TICKET] MXN* 🚙💨
+Por *$10 USD* aprendes con Sam González las bases para convertirla en un negocio: ciclo comercial, propuesta de valor, ventas y manejo de riesgo 🚙💨
 
-👉 [LINK DE CHECKOUT MY 4X4 ACADEMY]
+👉 https://www.my4x4academy.com/studyPlan/desbloquea-el-secreto-del-emprendimiento
 
 Aquí sigo para ayudarte con lo que necesites 🙌
 
@@ -168,59 +171,65 @@ Mira lo que dicen emprendedores que ya trabajaron con la metodología de Sam �
 
 **MENSAJE 2**
 
-¿Tienes alguna duda o quieres avanzar con tu inscripción? Aquí te dejo el link 👇
+¿Tienes alguna duda o quieres avanzar? Aquí te dejo el link 👇
 
-🔗 [LINK DE CHECKOUT MY 4X4 ACADEMY]
+🔗 https://www.my4x4academy.com/studyPlan/desbloquea-el-secreto-del-emprendimiento
 
 ---
 
-## FLUJO 6 – Remarketing 3: Urgencia (cierre del lanzamiento)
+## FLUJO 6 – Remarketing 3: Último empujón (48–72 h)
+
+*Sin urgencia falsa: el curso cuesta $10 USD siempre, así que aquí el empujón es el costo de no empezar.*
 
 **MENSAJE 1**
 
-⏳ *Un aviso importante:*
+⏳ *Una última cosa antes de dejarte en paz:*
 
-El precio de lanzamiento de *[PRECIO LOW TICKET] MXN* (curso + 4 bonos) termina el *[FECHA]*. Después vuelve a su precio normal de *[PRECIO REAL] MXN*.
-
-Si ya lo estabas pensando, este es el mejor momento 🔥
+Cada mes que tu idea se queda en "algún día" es un mes de ventas que no existe. Por *$10 USD* das el primer paso hoy, con alguien que lleva 25 años enseñando a emprender 🔥
 
 **MENSAJE 2**
 
-Asegura tu lugar aquí 👇
+Entra aquí 👇
 
-🔗 [LINK DE CHECKOUT MY 4X4 ACADEMY]
+🔗 https://www.my4x4academy.com/studyPlan/desbloquea-el-secreto-del-emprendimiento
 
-*Nota: usa esta urgencia solo si es real. Si el precio no va a subir, no lo prometas; cuida la reputación de Sam.*
+*Si Sam decide hacer una promo real con fecha (por ejemplo, bonos solo esta semana), úsala aquí como urgencia. Si no, no prometas cierres que no existen.*
 
 ---
 
 ## FLUJO 7 – Manejo de objeciones (respuestas listas)
 
 **"¿Esto de verdad funciona?" / "Hay mucho vende humo"**
-Te entiendo perfecto, hay mucho vende humo en internet 🙌. La diferencia es que Sam no es un influencer de ayer: lleva más de 25 años formando emprendedores con Fundación E, su metodología se enseña en universidades e instituciones y su libro *4x4 Emprendedores Todo Terreno* va en su 3ª edición. Aquí no hay fórmulas mágicas, hay un método que miles de personas ya aplicaron.
+Te entiendo perfecto 🙌. La diferencia es que Sam no es un influencer de ayer: lleva más de 25 años formando emprendedores con Fundación E, su metodología se enseña en universidades e instituciones y su libro *4x4 Emprendedores Todo Terreno* va en su 3ª edición. Además son solo $10 USD, así que el riesgo es mínimo.
 
-**"No tengo una idea de negocio todavía"**
-¡Justo para ti está hecho! 🙌 El primer módulo es *ELIGE*: te ayuda a encontrar y validar la idea correcta antes de invertir un peso. Empezar con el orden correcto te ahorra mucho dinero y frustración.
+**"¿Por qué tan barato?"**
+Porque la idea de Sam es que *cualquier persona* con una idea pueda aprender las bases sin que el dinero sea pretexto 🙌. Es el primer paso dentro de My 4x4 Academy. Si te gusta, en la academia hay más cursos para seguir creciendo.
+
+**"No tengo negocio todavía, solo la idea"**
+¡Justo para ti está hecho! 🙌 El curso te enseña cómo funciona un negocio desde sus bases (compras, propuesta de valor, ventas) para que arranques con orden y no a prueba y error.
 
 **"Ya tengo negocio, ¿me sirve?"**
-Sí 💪. Si sientes que aceleras y aceleras pero sigues en el mismo lugar, te falta *tracción*, no más horas de trabajo. El curso te ayuda a detectar qué está frenando tu negocio y a armar un plan claro para avanzar.
+Sí 💪. Muchos negocios se estancan por no dominar lo básico: comprar bien, tener una propuesta de valor clara, vender con estrategia y no perder dinero vendiendo a crédito. Es justo lo que ves en el curso.
 
 **"No tengo tiempo"**
-El curso es 100% en línea y a tu ritmo, con lecciones cortas para ver desde el celular. Con [X] minutos al día avanzas. Y el acceso es de por vida, así que no se te vence.
+Es 1 módulo con 6 temas, 100% en línea y a tu ritmo desde el celular. Lo puedes avanzar en ratos libres.
 
-**"Necesito mucho dinero para emprender?"**
-Para nada 🙌. Una de las primeras cosas que enseña Sam es cómo validar tu idea *antes* de invertir, justo para que no arriesgues dinero de más.
+**"¿El precio es en dólares? ¿Cuánto es en pesos?"**
+Son *$10 USD*, más o menos *[$XXX] MXN* según el tipo de cambio de tu banco. Pagas con tarjeta en la plataforma [o, si prefieres, en OXXO/transferencia en pesos → Flujo 3B].
+
+**"No tengo tarjeta"**
+¡No hay problema! Puedes pagar en OXXO o por transferencia y te damos de alta nosotros 👉 *(Flujo 3B)*
 
 **"¿Cómo lo recibo?"**
-Es 100% digital 📲. Completas tu pago en el checkout seguro y el acceso te llega *automático a tu correo*, con los bonos y el link de la comunidad. Es tuyo de por vida.
+Te registras en la página, pagas y el curso queda en tu cuenta de My 4x4 Academy. Entras cuando quieras con tu correo y contraseña 📲
 
-**"Está caro" / "ahorita no tengo"**
-Te entiendo. Piensa que son *[PRECIO LOW TICKET]* una sola vez, con acceso de por vida, por más de 25 años de experiencia de Sam resumidos en un método. Un solo error al emprender cuesta mucho más que eso. ¿Quieres que avancemos?
-
-*Opcional (si hay garantía): "Además tienes [X] días de garantía, así que puedes revisarlo con total tranquilidad."*
+**"No me deja registrarme" / "No me llegó el acceso"**
+¡Te ayudo! Mándame captura de lo que te aparece y tu correo. También puedes escribir a *atencion@fundacione.org* 🙌
 
 **"¿Quién es Sam González?"**
 Sam es fundador de *Fundación E* y creador de *My 4x4 Academy*. Desde 1999 ha creado modelos de desarrollo para emprendedores y ha formado a más de 10,000 facilitadores de su metodología. Es autor de *4x4 Emprendedores Todo Terreno*. Aquí puedes ver más de él: [LINK INSTAGRAM DE SAM]
+
+*Opcional (si hay garantía): "Además tienes [X] días de garantía, así que lo pruebas con total tranquilidad."*
 
 ---
 
@@ -228,11 +237,11 @@ Sam es fundador de *Fundación E* y creador de *My 4x4 Academy*. Desde 1999 ha c
 
 **MENSAJE 1**
 
-"¿Por dónde empiezo?" 🤔 Es la pregunta que más le hacen a Sam, y te mandó una respuesta 👇
+"Tengo la idea, pero ¿por dónde empiezo?" 🤔 Es la pregunta que más le hacen a Sam, y te mandó una respuesta 👇
 
 **MENSAJE 2**
 
-*(Adjuntar audio de Sam de 30–60 seg.: se presenta, dice cuál es el error #1 al emprender y por qué armó este curso)*
+*(Adjuntar audio de Sam de 30–60 seg.: se presenta, dice cuál es el error #1 al emprender, que suele ser no entender el ciclo comercial o no tener propuesta de valor, e invita al curso)*
 
 Considéralo un regalo 🎁
 
@@ -240,39 +249,41 @@ Considéralo un regalo 🎁
 
 Cuando lo escuches, avísame. Si quieres avanzar, aquí está tu link 👇
 
-🔗 [LINK DE CHECKOUT MY 4X4 ACADEMY]
+🔗 https://www.my4x4academy.com/studyPlan/desbloquea-el-secreto-del-emprendimiento
 
 ---
 
 ## Mapa rápido de flujos (configuración en SelleChat)
 
-- Clic al anuncio / palabra **EMPRENDE** → **Flujo 1 (Bienvenida)** → **Flujo 2 (Oferta + link)**
-- Pide el link otra vez o duda cómo pagar → **Flujo 3** (o **3B** si es pago manual)
-- No compró → secuencia por tiempos: **Flujo 4** (2–4 h), **Flujo 5** (24 h), **Flujo 6** (48–72 h / cierre)
+- Clic al anuncio / palabra **EMPRENDE** → **Flujo 1 (Bienvenida)** → **Flujo 2 (Oferta + 3 pasos para entrar)**
+- Pide el link otra vez o se atora en el registro → **Flujo 3** (o **3B** si no tiene tarjeta o quiere pagar en pesos)
+- No compró → secuencia por tiempos: **Flujo 4** (2–4 h), **Flujo 5** (24 h), **Flujo 6** (48–72 h)
 - Dudas en cualquier momento → **Flujo 7 (objeciones)** y **Flujo 8 (audio)**
-- Compra → la plataforma entrega sola (curso + bonos + comunidad). Etiqueta "CLIENTE" para sacarlo del remarketing y prepararlo para el siguiente escalón de la escalera de valor (curso premium / mentoría de Sam).
+- Compra → etiqueta **CLIENTE**: sale del remarketing y entra a la siguiente oferta (otro curso de la academia, el libro o una mentoría de Sam). Con un ticket de $10, **la ganancia está en el siguiente escalón**, así que ese seguimiento es clave.
 
 ---
 
 ## Anuncios (Click-to-WhatsApp) – ángulos de gancho
 
-1. **Tracción (marca):** "¿Sientes que aceleras y aceleras pero tu negocio sigue en el mismo lugar? No te falta esfuerzo, te falta tracción. Tu negocio no es un auto de ciudad, es un 4x4. Escríbeme EMPRENDE y te cuento cómo desbloquearlo."
-2. **Lo que nadie te dice:** "Lo que nadie te dice antes de emprender (y por qué la mayoría cierra en su primer año). Sam González lleva 25 años formando emprendedores y lo resumió en un curso a precio de lanzamiento."
-3. **Error común:** "No inviertas un solo peso en tu negocio hasta ver esto. El error #1 que comete casi todo el que empieza."
-4. **Autoridad:** "Más de 10,000 facilitadores formados. Un libro en su 3ª edición. 25 años enseñando a emprender. Ahora el método 4x4 está en un curso a [PRECIO LOW TICKET]."
-5. **Miedo:** "Si tienes la idea desde hace años pero el miedo no te deja arrancar, este curso es para ti."
+1. **Primer paso (el del creativo):** "¿Tienes una gran idea pero no sabes cómo dar el primer paso? Sam González lleva 25 años enseñando a emprender y resumió las bases en un curso de $10 USD. Escríbeme EMPRENDE."
+2. **Tracción 4x4:** "¿Sientes que aceleras y tu negocio sigue en el mismo lugar? No te falta esfuerzo, te falta tracción: ciclo comercial, propuesta de valor y ventas. Aprende las bases por $10 USD."
+3. **Error común (crédito):** "El error que quiebra a más negocios pequeños: vender a crédito sin estrategia. Aprende a hacerlo sin perder dinero."
+4. **Autoridad:** "Más de 10,000 facilitadores formados. Un libro en su 3ª edición. 25 años enseñando a emprender. Las bases del método 4x4, hoy por $10 USD."
+5. **Precio absurdo:** "Menos de lo que cuesta una pizza 🍕 por las bases para convertir tu pasión en un negocio que vende."
 
 CTA de todos: **"Envíame un mensaje"** → abre WhatsApp con el texto prellenado *EMPRENDE*.
-Creativos: reusar los videos My 4x4 Academy AD1–AD3 y hacer versiones con precio + bonos, igual que los estáticos de CashTube ("Precio real ❌ / Solo hoy ✅").
+Creativos: reusar el video del curso ("¿Tienes una gran idea…?") y los videos My 4x4 Academy AD1–AD3, más estáticos con el precio grande "$10 USD" y los 5 temas.
+
+**Números a vigilar:** con un ticket de $10 USD, el costo por venta tiene que quedar por debajo de ~$10 USD para no perder dinero en la venta de entrada (o un poco arriba si el siguiente escalón convierte bien). Mide costo por conversación, % de ventas por conversación y costo por venta desde el día 1.
 
 ---
 
 ## Pendientes antes de lanzar
 
-- [ ] Confirmar con Sam el **precio** real y el de lanzamiento, y la **fecha de cierre** (si hay urgencia).
-- [ ] Pasar la **lista final de módulos** del curso (la página no se pudo leer desde aquí).
-- [ ] Definir y cargar los **bonos** en la plataforma.
-- [ ] Revisar qué **métodos de pago** acepta el checkout de My 4x4 Academy (si no acepta OXXO, activar el Flujo 3B).
+- [ ] Confirmar qué **métodos de pago** acepta la plataforma y decidir si se activa el **Flujo 3B** (OXXO o transferencia en pesos), con la persona responsable de las altas manuales.
+- [ ] Poner el **equivalente en MXN** que se va a comunicar.
+- [ ] Decidir con Sam si hay **bonos** y cargarlos.
+- [ ] Definir la **siguiente oferta** para quienes compran (upsell).
 - [ ] Pedir a Sam el **audio** (Flujo 8) y **testimonios** (Flujo 5).
-- [ ] Crear la **comunidad de WhatsApp** y poner el link en la entrega.
+- [ ] Probar el recorrido completo (registro → pago → acceso) desde un celular.
 - [ ] Configurar la palabra clave **EMPRENDE**, los tiempos de remarketing y la etiqueta **CLIENTE** en SelleChat.
