@@ -37,7 +37,7 @@ Los modelos de IA **escriben mal los textos** (sobre todo con acentos y precios)
 1. Generar con IA **solo la escena** (Sam o el fondo), sin texto.
 2. Agregar titular, precio y botón en **Canva** (puedo hacerlo yo con tu Canva conectado) o en CapCut.
 
-Paleta de marca, tomada de la página del curso: azul marino `#1E2A4A`, azul petróleo `#1B6B8A`, blanco y un acento cálido para el precio (amarillo `#FFC83D` o naranja `#FF6600`, como el ebook).
+Paleta de marca (del logo 4x4 Emprendedores): azul marino `#0B1660`, turquesa `#00B3AD`, azul océano `#0068A0`, aqua `#5FC4A0`, gris `#606060`, blanco. Solo el botón de WhatsApp va en verde `#25D366`. Ver `gemini-contexto-entrenamiento-creativos.md`.
 
 ---
 
