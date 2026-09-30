@@ -1,3 +1,5 @@
+> ⚠️ **Versión anterior.** La versión vigente del bot (pago solo con tarjeta en la plataforma, entrenamiento del agente IA y 3 seguimientos) está en `sellerchat-entrenamiento-y-flujo.md`.
+
 # DESBLOQUEA EL SECRETO DEL EMPRENDIMIENTO – Embudo Low Ticket por WhatsApp (Bot SelleChat)
 
 **Cliente:** Sam González – My 4x4 Academy / Fundación E
