@@ -1,142 +1,161 @@
 # Prompts – Anuncios finales "Desbloquea el Secreto del Emprendimiento"
 
 **Para usar en:** Gemini + Nano Banana (imágenes) y Veo en Gemini (videos)
-**Antes de empezar:** carga el contexto de `gemini-contexto-entrenamiento-creativos.md` (en un Gem o como primer mensaje) y **adjunta el anuncio de velas y jabones como referencia de estilo**.
+**Antes de empezar:** carga el contexto de `gemini-contexto-entrenamiento-creativos.md` (en un Gem o como primer mensaje).
 
-Cada prompt ya trae el texto final. Solo cópialo y pégalo. Si en tu Gemini funciona mejor en inglés, abajo de cada uno hay una versión en inglés; **los textos del anuncio se quedan en español** en ambas.
+**En todos los anuncios de imagen, Sam es el modelo humano.** Cada prompt le dice a Gemini **qué es cada archivo adjunto**, para que no lo confunda:
+- **Foto de Sam:** es el **modelo humano** del anuncio. Gemini debe usar su rostro y su físico, y solo cambiar la pose, la ropa o el lugar cuando el prompt lo pida.
+- **Anuncio de velas y jabones:** es solo **referencia de diseño** (estructura, letras 3D, cinta, botón). Su foto, sus productos y sus colores **no se copian**.
+- **Logo 4x4:** se coloca **tal cual** en el anuncio.
+
+**Cómo subir los archivos (siempre en este orden):**
+1. Foto de Sam (la que indica cada anuncio)
+2. Anuncio de referencia de velas y jabones
+3. Logo "4x4 Emprendedores Todo Terreno"
+
+Copia el prompt completo y pégalo. Los textos del anuncio ya están escritos.
 
 ---
 
 ## IMAGEN 1 – Ángulo A: "El primer paso"
 
-**Adjuntar:** anuncio de referencia (estilo).
+**Adjuntar:** 1) `sam-sueter-negro-sonriendo.jpg` · 2) referencia de velas y jabones · 3) logo 4x4
 
-**Prompt (español):**
+**Prompt:**
 ```
-Crea un anuncio publicitario vertical 4:5 para Instagram/Facebook, anuncio final completo con tipografía integrada, con la MISMA estructura y el mismo impacto del anuncio de referencia adjunto, pero con la PALETA DE MARCA 4x4 (letras blancas 3D con extrusión azul marino #0B1660, cinta con degradado turquesa #00B3AD a azul #0068A0, botón verde WhatsApp neón).
+Te adjunto 3 imágenes. Úsalas así:
 
-ESCENA (mitad inferior, fotografía hiperrealista): una mujer latinoamericana de unos 30 años, sentada de noche en la mesa de su cocina, con una libreta abierta llena de bocetos y notas adhesivas de ideas de negocio, una taza de café y una laptop. Mira la libreta con expresión pensativa pero esperanzada, a punto de decidirse. Luz cálida de lámpara, profundidad de campo reducida, ambiente acogedor. Sobre la libreta, un pequeño foco (bombilla) encendido como símbolo de idea. La libreta y la laptop SIN texto legible.
+IMAGEN 1 = MODELO HUMANO. Es Sam González. Toma a este hombre como el ÚNICO modelo humano del anuncio. Conserva exactamente su rostro, sus rasgos, su edad, su tono de piel, su cabello corto negro, su barba de candado y su sonrisa. No lo cambies por otra persona, no lo rejuvenezcas ni lo adelgaces.
+IMAGEN 2 = REFERENCIA DE DISEÑO. Copia SOLO la estructura y el estilo gráfico (pre-titular arriba, titular gigante en letras 3D, cinta tipo listón, sello de precio y botón neón abajo). NO copies su foto, sus productos, sus manos ni sus colores.
+IMAGEN 3 = LOGO. Colócalo tal cual, sin cambiar letras ni colores.
 
-TEXTOS (escribir exactamente así, con acentos):
-- Pre-titular arriba, blanco con extrusión 3D azul marino: "¿TIENES UNA GRAN IDEA?"
-- Titular gigante en 2 líneas, blanco con extrusión 3D azul marino profunda: "DA EL PRIMER PASO"
-- Cinta con degradado turquesa a azul, texto blanco condensado: "APRENDE A CONVERTIRLA EN NEGOCIO"
-- Sello circular turquesa #00B3AD tipo sticker con borde blanco, girado, en la esquina derecha de la escena, texto blanco: "SOLO $10 USD"
-- Botón verde WhatsApp con brillo neón, texto negro en negrita: "ESCRIBE «EMPRENDE» POR WHATSAPP"
+CREA: un anuncio publicitario vertical 4:5 para Instagram/Facebook, final y listo para publicar, con tipografía integrada.
 
-Logo "4x4 Emprendedores Todo Terreno" (adjunto) pequeño, sobre una placa blanca redondeada, en la esquina superior izquierda; reprodúcelo fiel, sin cambiar sus letras ni colores. Ningún otro texto en la imagen. Alto contraste, legible en celular.
-```
+ESCENA (mitad inferior, fotografía hiperrealista): Sam, con suéter negro de cuello alto, sentado de noche en la mesa de una cocina acogedora, sosteniendo con una mano una libreta abierta llena de bocetos y notas adhesivas de ideas de negocio. Con la otra mano señala la libreta y mira a la cámara con una sonrisa cálida y cómplice, como un mentor que te dice "tu idea sí puede funcionar". Sobre la mesa, una taza de café y un pequeño foco (bombilla) encendido como símbolo de idea. Luz cálida de lámpara, profundidad de campo reducida. La libreta SIN texto legible.
 
-**English version:**
-```
-Create a complete, ready-to-publish vertical 4:5 social media ad with integrated typography, with the SAME layout and impact as the attached reference ad but using the 4x4 BRAND PALETTE (white 3D block letters with deep navy #0B1660 extrusion, ribbon with teal #00B3AD to blue #0068A0 gradient, glowing neon green WhatsApp button).
+TEXTOS (escribir exactamente así, con acentos y signos):
+- Pre-titular arriba, letras blancas con extrusión 3D azul marino #0B1660: "¿TIENES UNA GRAN IDEA?"
+- Titular gigante en 2 líneas, letras blancas bloque ultra grueso con extrusión 3D azul marino #0B1660 profunda: "DA EL PRIMER PASO"
+- Cinta tipo listón con degradado turquesa #00B3AD a azul #0068A0, texto blanco condensado: "APRENDE A CONVERTIRLA EN NEGOCIO"
+- Sello circular turquesa #00B3AD con borde blanco, ligeramente girado, junto a Sam, texto blanco: "SOLO $10 USD"
+- Botón inferior verde WhatsApp #25D366 con brillo neón, texto negro en negrita: "ESCRIBE «EMPRENDE» POR WHATSAPP"
 
-SCENE (bottom half, hyper-realistic photo): a Latin American woman around 30 sitting at her kitchen table at night, open notebook full of sketches and sticky notes with business ideas, a coffee mug and a laptop. Thoughtful but hopeful expression, about to make a decision. Warm lamp light, shallow depth of field, cozy. A small glowing light bulb resting on the notebook as a symbol of an idea. Notebook and laptop with NO readable text.
+LOGO: pequeño, sobre una placa blanca redondeada, en la esquina superior izquierda.
 
-TEXT (render exactly, Spanish with accents):
-- Top pre-headline, white with navy 3D extrusion: "¿TIENES UNA GRAN IDEA?"
-- Huge 2-line headline, white with deep navy 3D extrusion: "DA EL PRIMER PASO"
-- Teal-to-blue gradient ribbon, white condensed bold text: "APRENDE A CONVERTIRLA EN NEGOCIO"
-- Tilted teal #00B3AD circular sticker with white border and white text, right side of the scene: "SOLO $10 USD"
-- Neon green WhatsApp-style button, black bold text: "ESCRIBE «EMPRENDE» POR WHATSAPP"
-
-Small "4x4 Emprendedores Todo Terreno" logo (attached) on a rounded white plate, top-left corner; reproduce it faithfully. No other text anywhere. High contrast, mobile-readable.
+REGLAS: ningún otro texto en la imagen. Paleta de diseño solo azul marino, turquesa y blanco (el verde solo en el botón). Alto contraste, legible en celular.
 ```
 
-**Variación A/B (misma escena, otro titular):** pre-titular "¿TU IDEA SIGUE EN LA LIBRETA?" · titular "HOY ARRANCA" · cinta "LAS BASES PARA EMPRENDER CON SAM GONZÁLEZ".
+**Variación A/B (misma escena, otro texto):** pre-titular "¿TU IDEA SIGUE EN LA LIBRETA?" · titular "HOY ARRANCA" · cinta "LAS BASES PARA EMPRENDER CON SAM GONZÁLEZ".
 
 ---
 
 ## IMAGEN 2 – Ángulo B: "Autoridad"
 
-**Adjuntar:** anuncio de referencia (estilo) + **foto de Sam en la oficina con brazos cruzados** (la principal) + **foto de Sam con suéter negro sonriendo** (refuerza su cara) + logo 4x4.
+**Adjuntar:** 1) `sam-oficina-brazos-cruzados.jpg` · 2) referencia de velas y jabones · 3) logo 4x4
 
-**Prompt (español):**
+**Prompt:**
 ```
-Crea un anuncio publicitario vertical 4:5, anuncio final completo con tipografía integrada, con la MISMA estructura y el mismo impacto del anuncio de referencia adjunto, pero con la PALETA DE MARCA 4x4 (letras blancas 3D con extrusión azul marino #0B1660, cinta con degradado turquesa #00B3AD a azul #0068A0, botón verde WhatsApp neón).
+Te adjunto 3 imágenes. Úsalas así:
 
-ESCENA (mitad inferior, fotografía hiperrealista): usa al hombre de la foto de referencia de la oficina (Sam González) tal como aparece: mismo rostro, lentes sin armazón, barba de candado, cabello corto negro, traje oscuro, camisa blanca, corbata guinda, brazos cruzados y sonrisa segura. NO cambies su cara, su edad ni su complexión. Colócalo en la mitad inferior derecha, recortado a la altura del pecho, con el ventanal de la ciudad al atardecer detrás, ligeramente desenfocado. Iluminación cálida de atardecer sobre su rostro.
+IMAGEN 1 = MODELO HUMANO. Es Sam González. Toma a este hombre como el ÚNICO modelo humano del anuncio y usa esta foto casi tal cual: mismo rostro, lentes sin armazón, barba de candado, cabello corto negro, traje oscuro, camisa blanca, corbata guinda, brazos cruzados y sonrisa segura. No cambies su cara, su edad ni su complexión.
+IMAGEN 2 = REFERENCIA DE DISEÑO. Copia SOLO la estructura y el estilo gráfico (pre-titular, titular gigante en letras 3D, cinta tipo listón, sello y botón neón). NO copies su foto, sus productos ni sus colores.
+IMAGEN 3 = LOGO. Colócalo tal cual, sin cambiar letras ni colores.
+
+CREA: un anuncio publicitario vertical 4:5, final y listo para publicar, con tipografía integrada.
+
+ESCENA (mitad inferior, fotografía hiperrealista): Sam en la mitad inferior derecha, recortado a la altura del pecho, con el ventanal de la ciudad al atardecer detrás, ligeramente desenfocado. Luz cálida de atardecer sobre su rostro. Agrega un degradado azul marino semitransparente en la parte superior para que los textos contrasten.
 
 TEXTOS (escribir exactamente así, con acentos):
-- Pre-titular arriba, blanco con extrusión 3D azul marino: "25 AÑOS FORMANDO EMPRENDEDORES"
-- Titular gigante en 2 líneas, blanco con extrusión 3D azul marino profunda: "EL MÉTODO 4X4"
-- Cinta con degradado turquesa a azul, texto blanco condensado: "LAS BASES PARA EMPRENDER DE SAM GONZÁLEZ"
-- Dos viñetas cortas en blanco con palomita verde, a la izquierda de Sam: "✔ +10,000 FACILITADORES FORMADOS" y "✔ AUTOR DE 4X4 EMPRENDEDORES"
-- Sello circular blanco tipo sticker con borde turquesa y texto azul marino: "$10 USD"
-- Botón verde WhatsApp con brillo neón, texto negro en negrita: "ESCRIBE «EMPRENDE» POR WHATSAPP"
+- Pre-titular arriba, letras blancas con extrusión 3D azul marino #0B1660: "25 AÑOS FORMANDO EMPRENDEDORES"
+- Titular gigante en 2 líneas, letras blancas bloque ultra grueso con extrusión 3D azul marino #0B1660 profunda: "EL MÉTODO 4X4"
+- Cinta tipo listón con degradado turquesa #00B3AD a azul #0068A0, texto blanco condensado: "LAS BASES PARA EMPRENDER DE SAM GONZÁLEZ"
+- Dos viñetas cortas en blanco con palomita turquesa, a la izquierda de Sam: "✔ +10,000 FACILITADORES FORMADOS" y "✔ AUTOR DE 4X4 EMPRENDEDORES"
+- Sello circular blanco con borde turquesa y texto azul marino: "$10 USD"
+- Botón inferior verde WhatsApp #25D366 con brillo neón, texto negro en negrita: "ESCRIBE «EMPRENDE» POR WHATSAPP"
 
-Logo "4x4 Emprendedores Todo Terreno" (adjunto) pequeño, sobre una placa blanca redondeada, en la esquina superior izquierda; reprodúcelo fiel, sin cambiar sus letras ni colores. Ningún otro texto en la imagen. Alto contraste, legible en celular.
+LOGO: pequeño, sobre una placa blanca redondeada, en la esquina superior izquierda.
+
+REGLAS: ningún otro texto en la imagen. Paleta de diseño solo azul marino, turquesa y blanco (el verde solo en el botón). Alto contraste, legible en celular.
 ```
 
-**English version:**
+**Variación A/B con la foto de estudio:** adjunta 1) `sam-estudio-letras-sam.jpg` · 2) referencia · 3) logo:
 ```
-Create a complete vertical 4:5 ad with integrated typography, with the SAME layout as the attached reference ad but using the 4x4 BRAND PALETTE (white 3D letters with deep navy #0B1660 extrusion, teal #00B3AD to blue #0068A0 gradient ribbon, neon green WhatsApp button).
-
-SCENE (bottom half, hyper-realistic photo): use the man from the attached office reference photo (Sam González) exactly as he is: same face, rimless glasses, goatee, short black hair, dark suit, white shirt, burgundy tie, arms crossed, confident smile. DO NOT alter his face, age or build. Place him bottom-right, cropped at chest level, with the sunset city window slightly blurred behind him. Warm sunset light on his face.
-
-TEXT (render exactly, Spanish with accents):
-- Pre-headline: "25 AÑOS FORMANDO EMPRENDEDORES"
-- Huge 2-line headline: "EL MÉTODO 4X4"
-- Ribbon: "LAS BASES PARA EMPRENDER DE SAM GONZÁLEZ"
-- Two short white bullets with green check marks, left of Sam: "✔ +10,000 FACILITADORES FORMADOS" and "✔ AUTOR DE 4X4 EMPRENDEDORES"
-- White circular sticker with teal border, navy text: "$10 USD"
-- Neon green button, black bold text: "ESCRIBE «EMPRENDE» POR WHATSAPP"
-
-Small "4x4 Emprendedores Todo Terreno" logo (attached) on a rounded white plate, top-left. No other text. High contrast.
-```
-
-**Tip (el más seguro):** si Nano Banana cambia la cara de Sam, sube **solo la foto de la oficina** y pide: *"Usa esta foto tal cual como escena, sin modificar a la persona, y solo agrega encima el diseño y los textos indicados."* Así la cara queda 100% real.
-
-**Variación A/B con la foto de estudio (fondo gris y las letras "SAM"):** usa la foto de cuerpo completo; se reemplazan las letras gigantes "SAM" por el titular en 3D. Prompt:
-```
-Usa la foto adjunta de Sam de cuerpo completo (traje gris, tenis blancos) SIN modificar a la persona. Reemplaza las letras blancas gigantes "SAM" de la derecha por el texto en 3D blanco con extrusión azul marino #0B1660, apilado: "EL" / "MÉTODO" / "4X4". Arriba a la izquierda, pre-titular blanco: "25 AÑOS FORMANDO EMPRENDEDORES". Debajo, cinta con degradado turquesa #00B3AD a azul #0068A0: "LAS BASES PARA EMPRENDER · $10 USD". Abajo, botón verde WhatsApp neón con texto negro: "ESCRIBE «EMPRENDE» POR WHATSAPP". Logo "4x4 Emprendedores Todo Terreno" (adjunto) pequeño arriba a la derecha sobre una placa blanca. Formato 4:5. Ningún otro texto.
+IMAGEN 1 = MODELO HUMANO y ESCENA: usa esta foto de Sam González tal cual (traje gris, tenis blancos, fondo gris), sin modificar a la persona. IMAGEN 2 = solo referencia de estilo gráfico. IMAGEN 3 = logo, tal cual.
+Reemplaza las letras blancas gigantes "SAM" de la derecha por texto 3D blanco con extrusión azul marino #0B1660, apilado en 3 líneas: "EL" / "MÉTODO" / "4X4". Arriba a la izquierda, pre-titular blanco: "25 AÑOS FORMANDO EMPRENDEDORES". Debajo, cinta con degradado turquesa #00B3AD a azul #0068A0: "LAS BASES PARA EMPRENDER · $10 USD". Abajo, botón verde WhatsApp neón con texto negro: "ESCRIBE «EMPRENDE» POR WHATSAPP". Logo pequeño arriba a la derecha sobre una placa blanca. Formato 4:5. Ningún otro texto.
 ```
 
 ---
 
 ## IMAGEN 3 – Ángulo C: "El error que quiebra negocios"
 
-**Adjuntar:** anuncio de referencia (estilo) + logo.
+**Adjuntar:** 1) `sam-oficina-brazos-cruzados.jpg` + `sam-sueter-negro-sonriendo.jpg` (las dos, para asegurar su cara) · 2) referencia de velas y jabones · 3) logo 4x4
 
-**Prompt (español):**
+**Prompt:**
 ```
-Crea un anuncio publicitario vertical 4:5, anuncio final completo con tipografía integrada, con la MISMA estructura y el mismo impacto del anuncio de referencia adjunto, pero con la PALETA DE MARCA 4x4 (letras blancas 3D con extrusión azul marino #0B1660, cinta con degradado turquesa #00B3AD a azul #0068A0, botón verde WhatsApp neón).
+Te adjunto imágenes. Úsalas así:
 
-ESCENA (mitad inferior, fotografía hiperrealista, estilo documental): una mujer latinoamericana de unos 45 años detrás del mostrador de su pequeña tienda de abarrotes, preocupada, revisando una libreta vieja de "fiados" llena de anotaciones (letras borrosas, no legibles), con recibos sueltos y una calculadora sobre el mostrador. Detrás, anaqueles con productos genéricos SIN marcas. Luz cálida de tarde entrando por la puerta.
+IMÁGENES DE SAM = MODELO HUMANO. Es Sam González. Toma a este hombre como el ÚNICO modelo humano del anuncio. Conserva exactamente su rostro, sus rasgos, su edad, su tono de piel, su cabello corto negro, su barba de candado y sus lentes sin armazón. No lo cambies por otra persona.
+REFERENCIA DE VELAS Y JABONES = SOLO DISEÑO. Copia únicamente la estructura y el estilo gráfico (pre-titular, titular gigante en letras 3D, cinta, sello y botón neón). NO copies su foto, sus productos ni sus colores.
+LOGO = colócalo tal cual.
+
+CREA: un anuncio publicitario vertical 4:5, final y listo para publicar, con tipografía integrada.
+
+ESCENA (mitad inferior, fotografía hiperrealista, estilo documental): Sam, con camisa blanca arremangada y sin saco, de pie en una pequeña tienda de abarrotes mexicana, sosteniendo frente a la cámara una libreta vieja de "fiados" llena de anotaciones (letras borrosas, no legibles). Con la otra mano señala la libreta y mira a la cámara con expresión seria, como advirtiendo un error. Detrás, anaqueles con productos genéricos SIN marcas y un mostrador con una calculadora y recibos sueltos. Luz cálida de tarde entrando por la puerta.
 
 TEXTOS (escribir exactamente así, con acentos):
-- Pre-titular arriba, blanco con extrusión 3D azul marino: "⚠️ EL ERROR #1 QUE"
-- Titular gigante en 2 líneas, blanco con extrusión 3D azul marino profunda: "QUIEBRA NEGOCIOS"
-- Cinta con degradado turquesa a azul, texto blanco condensado: "FIAR SIN CONTROL Y VENDER SIN ESTRATEGIA"
-- Sello circular turquesa tipo sticker con borde blanco, girado, texto blanco: "APRENDE A EVITARLO POR $10 USD"
-- Botón verde WhatsApp con brillo neón, texto negro en negrita: "ESCRIBE «EMPRENDE» POR WHATSAPP"
+- Pre-titular arriba, letras blancas con extrusión 3D azul marino #0B1660: "⚠️ EL ERROR #1 QUE"
+- Titular gigante en 2 líneas, letras blancas bloque ultra grueso con extrusión 3D azul marino #0B1660 profunda: "QUIEBRA NEGOCIOS"
+- Cinta tipo listón con degradado turquesa #00B3AD a azul #0068A0, texto blanco condensado: "FIAR SIN CONTROL Y VENDER SIN ESTRATEGIA"
+- Sello circular turquesa #00B3AD con borde blanco, ligeramente girado, texto blanco: "APRENDE A EVITARLO POR $10 USD"
+- Botón inferior verde WhatsApp #25D366 con brillo neón, texto negro en negrita: "ESCRIBE «EMPRENDE» POR WHATSAPP"
 
-Logo "4x4 Emprendedores Todo Terreno" (adjunto) pequeño, sobre una placa blanca redondeada, en la esquina superior izquierda; reprodúcelo fiel, sin cambiar sus letras ni colores. Ningún otro texto en la imagen. Alto contraste, legible en celular.
-```
+LOGO: pequeño, sobre una placa blanca redondeada, en la esquina superior izquierda.
 
-**English version:**
-```
-Create a complete vertical 4:5 ad with integrated typography, with the SAME layout as the attached reference ad but using the 4x4 BRAND PALETTE (white 3D letters with deep navy #0B1660 extrusion, teal #00B3AD to blue #0068A0 gradient ribbon, neon green WhatsApp button).
-
-SCENE (bottom half, hyper-realistic documentary photo): a Latin American woman in her mid-40s behind the counter of her small corner grocery store, worried, reviewing an old handwritten ledger of customer debts (blurred, unreadable handwriting), loose receipts and a calculator on the counter. Shelves with generic unbranded products behind her. Warm afternoon light from the doorway.
-
-TEXT (render exactly, Spanish with accents):
-- Pre-headline: "⚠️ EL ERROR #1 QUE"
-- Huge 2-line headline: "QUIEBRA NEGOCIOS"
-- Ribbon: "FIAR SIN CONTROL Y VENDER SIN ESTRATEGIA"
-- Tilted teal circular sticker with white border, white text: "APRENDE A EVITARLO POR $10 USD"
-- Neon green button, black bold text: "ESCRIBE «EMPRENDE» POR WHATSAPP"
-
-Small "4x4 Emprendedores Todo Terreno" logo (attached) on a rounded white plate, top-left. No other text. High contrast.
-```
-
-**Variación A/B (ángulo D, precio absurdo):**
-```
-Misma estructura del anuncio de referencia con la paleta de marca 4x4 (azul marino, turquesa, blanco, botón verde), 4:5. ESCENA: sobre una mesa de madera, a la izquierda una rebanada de pizza en plato de cartón y a la derecha un celular mostrando una clase en línea (pantalla sin texto legible) junto a una libreta y una pluma; luz cálida, vista cenital a 45°.
-TEXTOS: pre-titular "POR MENOS QUE UNA PIZZA 🍕" · titular gigante "APRENDE A EMPRENDER" · cinta "CON 25 AÑOS DE EXPERIENCIA DE SAM GONZÁLEZ" · sello turquesa "$10 USD" · botón verde "ESCRIBE «EMPRENDE» POR WHATSAPP". Ningún otro texto.
+REGLAS: ningún otro texto en la imagen. Paleta de diseño solo azul marino, turquesa y blanco (el verde solo en el botón). Alto contraste, legible en celular.
 ```
 
 ---
+
+## IMAGEN 4 (A/B) – Ángulo D: "Menos que una pizza"
+
+**Adjuntar:** 1) `sam-sueter-negro-sonriendo.jpg` · 2) referencia de velas y jabones · 3) logo 4x4
+
+**Prompt:**
+```
+Te adjunto 3 imágenes. Úsalas así:
+
+IMAGEN 1 = MODELO HUMANO. Es Sam González. Toma a este hombre como el ÚNICO modelo humano del anuncio. Conserva exactamente su rostro, sus rasgos, su edad, su cabello, su barba de candado y su sonrisa. No lo cambies por otra persona.
+IMAGEN 2 = REFERENCIA DE DISEÑO. Copia SOLO la estructura y el estilo gráfico. NO copies su foto, sus productos ni sus colores.
+IMAGEN 3 = LOGO. Colócalo tal cual.
+
+CREA: un anuncio publicitario vertical 4:5, final y listo para publicar, con tipografía integrada.
+
+ESCENA (mitad inferior, fotografía hiperrealista): Sam, con suéter negro de cuello alto, sonriendo divertido a la cámara. En una mano sostiene una rebanada de pizza y en la otra un celular que muestra una clase en línea (pantalla SIN texto legible), como comparando ambos. Fondo de cocina moderna cálida, ligeramente desenfocado.
+
+TEXTOS (escribir exactamente así, con acentos):
+- Pre-titular arriba, letras blancas con extrusión 3D azul marino #0B1660: "POR MENOS QUE UNA PIZZA 🍕"
+- Titular gigante en 2 líneas, letras blancas bloque ultra grueso con extrusión 3D azul marino #0B1660 profunda: "APRENDE A EMPRENDER"
+- Cinta tipo listón con degradado turquesa #00B3AD a azul #0068A0, texto blanco condensado: "CON 25 AÑOS DE EXPERIENCIA DE SAM GONZÁLEZ"
+- Sello circular turquesa #00B3AD con borde blanco, girado, texto blanco: "$10 USD"
+- Botón inferior verde WhatsApp #25D366 con brillo neón, texto negro en negrita: "ESCRIBE «EMPRENDE» POR WHATSAPP"
+
+LOGO: pequeño, sobre una placa blanca redondeada, en la esquina superior izquierda.
+
+REGLAS: ningún otro texto en la imagen. Paleta de diseño solo azul marino, turquesa y blanco (el verde solo en el botón). Alto contraste, legible en celular.
+```
+
+---
+
+## Si Gemini cambia la cara de Sam
+
+Manda este mensaje en el mismo chat:
+```
+La persona del anuncio no se parece a Sam. Vuelve a generar el anuncio usando EXACTAMENTE el rostro del hombre de la foto de referencia (IMAGEN 1): mismos ojos, nariz, barba de candado, forma de la cara, tono de piel y edad. Mantén todo lo demás igual (textos, diseño, escena).
+```
+Si después de 2 intentos sigue sin parecerse, usa la **foto real de Sam como escena**:
+```
+Usa la IMAGEN 1 tal cual como fotografía del anuncio, SIN modificar a la persona ni su pose. Solo agrega encima el diseño (textos 3D, cinta, sello, botón y logo) indicado.
+```
 
 ## Adaptación a historias o reels (9:16)
 
