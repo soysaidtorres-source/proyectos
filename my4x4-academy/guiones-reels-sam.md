@@ -139,6 +139,6 @@ Sam González, con más de 25 años formando emprendedores y autor de "4x4 Empre
 
 - **Objetivo:** Interacción → Mensajes → **WhatsApp**
 - **Botón:** "Enviar mensaje"
-- **Mensaje prellenado:** "Hola Sam, quiero más información del curso 👋"
+- **Mensaje prellenado:** "Hola, quiero más información del curso 👋"
 - **Prueba:** 3 reels × 3 hooks = **9 anuncios**. A los 3–4 días deja los hooks con mejor **retención a 3 segundos** y menor **costo por conversación**, y apaga el resto.
 - **Mide al final el costo por venta,** no solo el costo por mensaje.
