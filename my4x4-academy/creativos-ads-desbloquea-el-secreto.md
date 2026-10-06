@@ -11,7 +11,7 @@ Cada ángulo va en su propio conjunto de anuncios con el mismo presupuesto. Así
 | # | Ángulo | Emoción | Para quién |
 |---|--------|---------|------------|
 | A | **El primer paso**: "Tienes la idea pero no arrancas" | Frustración → esperanza | Quien todavía no tiene negocio |
-| B | **Autoridad**: "25 años enseñando a emprender" | Confianza | Desconfiados, gente de mayor edad |
+| B | **Autoridad**: "30 años enseñando a emprender" | Confianza | Desconfiados, gente de mayor edad |
 | C | **El error que quiebra negocios** + precio absurdo | Miedo / curiosidad | Quien ya vende pero no crece |
 
 ---
@@ -60,7 +60,7 @@ Cinematic photo of a young Latin American entrepreneur (late 20s) sitting at a s
 ## IMAGEN B – "Autoridad"
 
 **Texto en la pieza:**
-- Titular: **25 años enseñando a emprender.**
+- Titular: **30 años enseñando a emprender.**
 - Bullets: ✅ +10,000 facilitadores formados · ✅ Autor de *4x4 Emprendedores Todo Terreno* (3ª ed.) · ✅ Fundador de Fundación E
 - Oferta: **Las bases de su método, hoy por $10 USD**
 - Botón: 💬 Escríbenos "EMPRENDE"
@@ -82,7 +82,7 @@ Professional editorial portrait of the man in the reference photo, confident war
 
 **Texto (opción 2, precio absurdo):**
 - Titular: **Menos que una pizza 🍕**
-- Sub: Las bases para convertir tu pasión en un negocio, con 25 años de experiencia detrás.
+- Sub: Las bases para convertir tu pasión en un negocio, con 30 años de experiencia detrás.
 - Precio grande: **$10 USD**
 
 **Prompt opción 1 (escena):**
@@ -104,7 +104,7 @@ Top-down flat lay on a dark navy table: a single slice of pizza on a paper plate
 | Tiempo | Imagen | Voz (Sam) | Texto en pantalla |
 |--------|--------|-----------|-------------------|
 | 0–3 s | Sam de frente, primer plano | "¿Tienes una gran idea… pero no sabes cómo dar el primer paso?" | ¿TIENES UNA GRAN IDEA? 💡 |
-| 3–8 s | B-roll: persona frustrada con laptop | "Te entiendo. Yo llevo 25 años viendo a miles de personas atoradas justo ahí." | 25 AÑOS FORMANDO EMPRENDEDORES |
+| 3–8 s | B-roll: persona frustrada con laptop | "Te entiendo. Yo llevo 30 años viendo a miles de personas atoradas justo ahí." | 30 AÑOS FORMANDO EMPRENDEDORES |
 | 8–16 s | Sam + pantallas del curso | "Por eso hice un curso corto donde aprendes las bases: cómo funciona el ciclo comercial, tu propuesta de valor y cómo vender." | CICLO COMERCIAL · PROPUESTA DE VALOR · VENTAS |
 | 16–22 s | Sam sonriendo, señalando abajo | "Cuesta 10 dólares. Escríbeme la palabra EMPRENDE y te cuento cómo entrar." | $10 USD · Escribe "EMPRENDE" 💬 |
 
@@ -123,7 +123,7 @@ Slow push-in on a young Latin entrepreneur at night at a kitchen table, laptop g
 |--------|--------|-------------|
 | 0–3 s | Clip de Sam en un escenario, zoom rápido | "Este hombre ha formado a más de 10,000 facilitadores de emprendimiento." |
 | 3–8 s | Portada del libro + notas de Milenio y AméricaEconomía | "Escribió *4x4 Emprendedores Todo Terreno*, que ya va en su tercera edición." |
-| 8–15 s | Sam en un aula con emprendedores | "Desde 1999 enseña lo que nadie te dice antes de emprender." |
+| 8–15 s | Sam en un aula con emprendedores | "Más de 30 años enseñando lo que nadie te dice antes de emprender." |
 | 15–24 s | Grabación de pantalla del curso (6 temas) | "Y ahora puso las bases de su método en un curso de 6 temas: compras, propuesta de valor, ventas, crédito…" |
 | 24–30 s | Sam a cámara | "…por 10 dólares. Escribe EMPRENDE y empieza hoy." |
 
@@ -156,7 +156,7 @@ Close-up of hands flipping through a worn handwritten ledger of customer debts i
 
 **A – Primer paso:**
 ¿Tienes una gran idea pero no sabes por dónde empezar? 💡
-Sam González lleva más de 25 años formando emprendedores y resumió las bases en un curso corto:
+Sam González lleva más de 30 años formando emprendedores y resumió las bases en un curso corto:
 ✅ El ciclo comercial de un negocio
 ✅ Cómo crear tu propuesta de valor
 ✅ Estrategias efectivas de ventas

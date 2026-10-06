@@ -29,7 +29,7 @@
 | 2 | El secreto que nadie te dice | Curiosos (el gancho del nombre del curso) |
 | 3 | Vendes pero no ves la ganancia | Ya tiene negocio |
 | 4 | El error que quiebra negocios | Negocio pequeño que fía |
-| 5 | Autoridad: 25 años | Desconfiados |
+| 5 | Autoridad: 30 años | Desconfiados |
 | 6 | Menos que una pizza | Sensibles al precio |
 
 ---
@@ -138,7 +138,7 @@ REGLAS: ningún otro texto en la imagen, ningún logo. Diseño solo en blanco, a
 
 ---
 
-## PROMPT 5 – "Autoridad: 25 años"
+## PROMPT 5 – "Autoridad: 30 años"
 
 **Foto de Sam:** `sam-oficina-brazos-cruzados.jpg`
 
@@ -153,7 +153,7 @@ ESCENA (fotografía hiperrealista): Sam en la mitad inferior derecha, recortado 
 
 TEXTOS (escríbelos EXACTAMENTE así, con acentos):
 - Etiqueta pequeña arriba, pastilla blanca con texto azul marino #0B1660: "CURSO ONLINE · MY 4X4 ACADEMY"
-- Pre-titular, blanco con extrusión 3D azul marino #0B1660: "25 AÑOS FORMANDO EMPRENDEDORES"
+- Pre-titular, blanco con extrusión 3D azul marino #0B1660: "30 AÑOS FORMANDO EMPRENDEDORES"
 - Titular gigante en 2 líneas, blanco ultra grueso con extrusión 3D azul marino #0B1660 profunda: "EL MÉTODO 4X4"
 - Dos viñetas cortas en blanco con palomita turquesa, a la izquierda de Sam: "✔ +10,000 FACILITADORES FORMADOS" y "✔ AUTOR DE 4X4 EMPRENDEDORES"
 - Sello circular blanco con borde turquesa, girado, texto azul marino: "$10 USD"
@@ -181,7 +181,7 @@ TEXTOS (escríbelos EXACTAMENTE así, con acentos):
 - Etiqueta pequeña arriba, pastilla blanca con texto azul marino #0B1660: "CURSO ONLINE · MY 4X4 ACADEMY"
 - Pre-titular, blanco con extrusión 3D azul marino #0B1660: "POR MENOS QUE UNA PIZZA 🍕"
 - Titular gigante en 2 líneas, blanco ultra grueso con extrusión 3D azul marino #0B1660 profunda: "APRENDE A EMPRENDER"
-- Cinta tipo listón con degradado turquesa #00B3AD a azul #0068A0, texto blanco condensado: "25 AÑOS DE EXPERIENCIA EN UN CURSO"
+- Cinta tipo listón con degradado turquesa #00B3AD a azul #0068A0, texto blanco condensado: "30 AÑOS DE EXPERIENCIA EN UN CURSO"
 - Sello circular turquesa #00B3AD con borde blanco, girado, junto a la pizza, texto blanco: "$10 USD"
 - Botón inferior verde WhatsApp #25D366 redondeado con brillo neón, ícono de WhatsApp a la izquierda, texto negro en negrita en 2 líneas: "MÁNDANOS UN MENSAJE Y EMPIEZA HOY MISMO"
 

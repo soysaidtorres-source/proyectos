@@ -13,7 +13,7 @@
 - **Celular en vertical, a la altura de los ojos,** luz de ventana de frente y micrófono de solapa si hay.
 - **Cambia el plano cada 3–5 segundos** (acercamiento, corte, otro ángulo) y pon **subtítulos grandes** en CapCut.
 - **En el cierre, Sam señala hacia abajo,** hacia donde aparece el botón "Enviar mensaje".
-- **Tono:** seguro, cercano y honesto. Sam no promete dinero rápido: su fuerza son los 25 años de experiencia.
+- **Tono:** seguro, cercano y honesto. Sam no promete dinero rápido: su fuerza son los 30 años de experiencia.
 
 ---
 
@@ -24,7 +24,7 @@
 ### Hooks (graba los 3)
 1. **"Este error ha quebrado más negocios que la falta de clientes… y probablemente lo estás cometiendo ahorita."**
 2. **"Si en tu negocio tienes una libreta de fiados, necesitas escuchar esto."**
-3. **"En 25 años asesorando emprendedores, este es el error que más veces he visto cerrar negocios."**
+3. **"En 30 años asesorando emprendedores, este es el error que más veces he visto cerrar negocios."**
 
 ### Cuerpo
 > Y no, no es que no vendas.
@@ -51,7 +51,7 @@
 **Texto del anuncio (copy):**
 ⚠️ El error que quiebra más negocios pequeños no es la falta de clientes…
 Es no dominar tu ciclo comercial: fiar sin control, comprar sin cuidar tu margen y vender sin estrategia.
-En "Desbloquea el Secreto del Emprendimiento", Sam González, con más de 25 años formando emprendedores, te enseña a evitarlo paso a paso.
+En "Desbloquea el Secreto del Emprendimiento", Sam González, con más de 30 años formando emprendedores, te enseña a evitarlo paso a paso.
 💵 Solo $10 USD · 100% en línea
 👇 Envíanos un mensaje y te decimos cómo empezar hoy.
 
@@ -67,7 +67,7 @@ En "Desbloquea el Secreto del Emprendimiento", Sam González, con más de 25 añ
 3. **"Si trabajas más que nunca y ganas igual que siempre, esto es para ti."**
 
 ### Cuerpo
-> Te lo digo porque lo he visto miles de veces en 25 años formando emprendedores.
+> Te lo digo porque lo he visto miles de veces en 30 años formando emprendedores.
 >
 > Gente trabajadora, que se levanta temprano, que vende… y aun así siente que el negocio no despega.
 >
@@ -107,7 +107,7 @@ Sam González te lo enseña en "Desbloquea el Secreto del Emprendimiento": 6 tem
 3. **"El problema no es tu idea. Es que nadie te enseñó a dar el primer paso."**
 
 ### Cuerpo
-> Mira, en más de 25 años he formado a más de **10,000 facilitadores** de emprendimiento, y siempre veo lo mismo:
+> Mira, en más de 30 años he formado a más de **10,000 facilitadores** de emprendimiento, y siempre veo lo mismo:
 >
 > Personas con ideas buenísimas… que se quedan en la libreta.
 >
@@ -129,7 +129,7 @@ Sam González te lo enseña en "Desbloquea el Secreto del Emprendimiento": 6 tem
 **Texto del anuncio (copy):**
 💡 ¿Tu idea de negocio lleva años guardada en una libreta?
 No te falta talento. Te falta saber por dónde empezar.
-Sam González, con más de 25 años formando emprendedores y autor de "4x4 Emprendedores Todo Terreno", te enseña las bases que nadie te dice en "Desbloquea el Secreto del Emprendimiento".
+Sam González, con más de 30 años formando emprendedores y autor de "4x4 Emprendedores Todo Terreno", te enseña las bases que nadie te dice en "Desbloquea el Secreto del Emprendimiento".
 💵 Solo $10 USD · 100% en línea y a tu ritmo
 👇 Envíanos un mensaje y te enseñamos cómo empezar hoy.
 
