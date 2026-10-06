@@ -1,0 +1,25 @@
+MENSAJE DEL VIDEO – DISPARADOR DE TIEMPO (SellerChat)
+Se envía 2 minutos después de que el bot manda el paso a paso con el link de inscripción.
+Adjuntar: el video con el paso a paso, como ARCHIVO (no como link).
+
+==================================================
+TEXTO DEL MENSAJE (copiar desde aquí)
+==================================================
+
+¿Tienes dudas de cómo hacer tu inscripción? 🤔
+
+Te mando este video cortito para que te guíes paso a paso. Síguelo tal cual, es muy sencillo 👇
+
+[ADJUNTAR VIDEO]
+
+Y recuerda: en cuanto termines tu pago, mándame la captura por aquí para enviarte tu bono, la *Masterclass "Negocios Inteligentes"* 🎁
+
+==================================================
+CONFIGURACIÓN RECOMENDADA DEL DISPARADOR
+==================================================
+
+- Qué lo activa: la palabra clave del cliente ("lo quiero", "quiero inscribirme", "quiero comprar") o, si SellerChat lo permite, una etiqueta que se ponga al enviar el link (por ejemplo CHECKOUT_ENVIADO).
+- Espera: 2 minutos.
+- Frecuencia: una sola vez por contacto (para que no le llegue dos veces si escribe "lo quiero" de nuevo).
+- Condición (si SellerChat lo permite): no enviar si el contacto ya tiene la etiqueta CLIENTE.
+- El mensaje NO lleva ningún link: el único link es el de inscripción, que ya envió el bot.
