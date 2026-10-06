@@ -216,7 +216,7 @@ Y además te llevas de bono la *Masterclass "Negocios Inteligentes"* 🎁
 ==================================================
 CUÁNDO SE ENVÍA: 48 horas después, si NO tiene la etiqueta CLIENTE.
 IMPORTANTE: pasadas 24 horas sin respuesta de la persona, WhatsApp solo permite enviar plantillas aprobadas por Meta (categoría Marketing). Revisa en SellerChat si esta plantilla necesita aprobación.
-OBJETIVO: último empujón, sin presión.
+OBJETIVO: recordatorio con la oferta completa, sin presión.
 ADJUNTO: ninguno.
 
 TEXTO:
@@ -230,8 +230,31 @@ Por solo *$10 USD* aprendes las bases para arrancar o hacer crecer tu negocio, c
 ¿Te mando otra vez el link para inscribirte? Respóndeme *LO QUIERO* 👇
 
 
+
 ==================================================
-10. plantilla_testimonios
+10. plantilla_remarketing_4
+==================================================
+CUÁNDO SE ENVÍA: 4 a 5 días después (96–120 horas), si NO tiene la etiqueta CLIENTE. Es el ÚLTIMO mensaje de seguimiento.
+IMPORTANTE: como pasa la ventana de 24 horas, debe ser plantilla aprobada por Meta (categoría Marketing).
+OBJETIVO: mensaje de "despedida". Le da a la persona una salida fácil y por eso mucha gente responde: o compra, o te dice qué la frena (información valiosa para ajustar anuncios y bot).
+ADJUNTO: opcional, una imagen de Sam o del curso.
+
+TEXTO:
+
+Hola 👋 Soy Ana, de *My 4x4 Academy*.
+
+No quiero llenarte de mensajes, así que este es el último que te envío sobre el curso *"Desbloquea el Secreto del Emprendimiento"* 🙌
+
+Solo te dejo una idea: dentro de un año vas a desear haber empezado hoy. Y hoy empezar cuesta solo *$10 USD*, con acceso de por vida y la *Masterclass "Negocios Inteligentes"* de Sam González de regalo 🎁
+
+Para saber cómo ayudarte, respóndeme solo con un número 👇
+
+1️⃣ Quiero inscribirme
+2️⃣ Tengo una duda
+3️⃣ Ahora no, gracias
+
+==================================================
+11. plantilla_testimonios
 ==================================================
 CUÁNDO SE ENVÍA: cuando la persona duda de si funciona o pide pruebas ("¿es confiable?", "¿tienen testimonios?"), o como remarketing opcional.
 ADJUNTO: [CAPTURAS_TESTIMONIOS] = capturas REALES de alumnos, comentarios de seguidores de Sam o notas de prensa (Milenio, AméricaEconomía). No uses testimonios inventados.
@@ -260,6 +283,9 @@ Pago verificado (tú)               -> etiqueta CLIENTE + plantilla_entregable
 Sin compra +2 horas                -> plantilla_remarketing_1
 Sin compra +20-22 horas            -> plantilla_remarketing_2
 Sin compra +48 horas               -> plantilla_remarketing_3
+Sin compra +4-5 días               -> plantilla_remarketing_4 (último)
+Respuesta "1" al remarketing_4     -> el BOT manda el paso a paso + link
+Respuesta "3" al remarketing_4     -> etiqueta NO_INTERESADO (sin más mensajes)
 Duda de confianza / pide pruebas   -> plantilla_testimonios
 
 ETIQUETAS RECOMENDADAS: CHECKOUT_ENVIADO · CLIENTE · NO_INTERESADO
