@@ -1,0 +1,267 @@
+PLANTILLAS SELLERCHAT – My 4x4 Academy
+Curso "Desbloquea el Secreto del Emprendimiento"
+
+Cada plantilla trae:
+- NOMBRE: cómo nombrarla en SellerChat
+- CUÁNDO SE ENVÍA: el disparador sugerido
+- ADJUNTO: si lleva archivo
+- TEXTO: lo que copias y pegas en "Mensajes"
+
+Antes de usarlas, reemplaza estos datos:
+[LINK_MASTERCLASS] = link de la Masterclass "Negocios Inteligentes" (cuando la tengas)
+[CAPTURAS_TESTIMONIOS] = imágenes de testimonios reales de alumnos o seguidores de Sam
+
+
+==================================================
+1. plantilla_bienvenida
+==================================================
+CUÁNDO SE ENVÍA: automático, cuando la persona escribe por primera vez (clic en el anuncio).
+ADJUNTO: opcional, una imagen del curso o de Sam.
+
+TEXTO:
+
+¡Hola! 👋 Soy Ana, asesora virtual de *My 4x4 Academy* 🚙
+
+*DESBLOQUEA EL SECRETO DEL EMPRENDIMIENTO* 🔓
+
+Imagina por fin tener claro cómo funciona un negocio de principio a fin: qué comprar, cómo lograr que te elijan a ti y cómo vender con estrategia, aunque estés empezando desde cero o tu negocio no crezca como quisieras.
+
+Con este curso en línea aprendes las bases paso a paso con *Sam González*, fundador de Fundación E y My 4x4 Academy, con más de *30 años* formando emprendedores y autor del libro *"4x4 Emprendedores Todo Terreno"* 👇
+
+🔑 *Esto es lo que vas a aprender:*
+
+✅ *Las bases del ciclo comercial:* cómo funciona de verdad un negocio y dónde se gana o se pierde el dinero
+✅ *Compras:* cómo comprar bien para cuidar tu margen desde el inicio
+✅ *Propuesta de valor:* qué ofrecer y cómo decirlo para que te elijan a ti y no a la competencia
+✅ *Estrategias efectivas de ventas:* cómo atraer clientes y cerrar más ventas
+✅ *Ventas a crédito y manejo del riesgo:* cómo vender a crédito sin que te dejen de pagar
+
+📱 100% en línea, a tu ritmo, desde tu celular o tu compu.
+♾️ *Acceso de por vida:* ves los videos cuantas veces quieras, nunca se vence.
+
+🎁 *Y si te inscribes hoy, recibirás como BONO la Masterclass "Negocios Inteligentes"* de Sam González, para complementar lo que aprendes en el curso.
+
+🔥 Todo esto por un pago único de solo *$10 USD* ($181 MXN aprox.) ✅
+Menos de lo que cuesta una pizza 🍕
+
+¿Te gustaría dar hoy el primer paso para arrancar o hacer crecer tu negocio y llevarte tu bono? Si es así, respóndeme con la palabra *LO QUIERO* y te envío el link para inscribirte ahora mismo 👇
+
+
+==================================================
+2. plantilla_checkout
+==================================================
+CUÁNDO SE ENVÍA: solo si decides que el disparador (y no el bot) mande el link cuando la persona escribe "lo quiero", "quiero inscribirme" o "quiero comprar".
+IMPORTANTE: el entrenamiento del bot YA manda este paso a paso. Usa esta plantilla en un disparador SOLO si quitas esa parte del entrenamiento; si no, la persona recibiría el link dos veces. Si dejas el entrenamiento como está, guárdala como respaldo para reenviar el link a mano.
+ADJUNTO: ninguno (el video llega aparte, 2 minutos después).
+
+TEXTO:
+
+¡Excelente decisión! 🎉 Estás a un paso de empezar a construir tu negocio con bases sólidas 🚙
+
+Inscribirte es muy fácil, sigue estos pasos 👇
+
+1️⃣ Da clic en este link para ir a tu inscripción:
+https://www.my4x4academy.com/studyPlan/desbloquea-el-secreto-del-emprendimiento
+
+2️⃣ Da clic en *"Registrarse"* y crea tu cuenta con tu correo y una contraseña (si ya tienes cuenta, da clic en *"Iniciar sesión"*).
+
+3️⃣ Completa tu pago de *$10 USD* con el método que se te facilite:
+💳 Tarjeta de débito
+💳 Tarjeta de crédito
+🅿️ PayPal
+
+Al terminar, el curso queda en tu cuenta para siempre ✅
+
+🎁 *IMPORTANTE para recibir tu bono* (la Masterclass "Negocios Inteligentes"):
+Ese bono te lo envío yo por aquí. En cuanto completes tu pago, mándame una captura de tu confirmación de pago 📷 y te lo envío.
+
+💡 Si tu banco te pide confirmar la compra en su app, solo acéptala; es normal en pagos en línea. ¿Todo listo para asegurar tu lugar ahora? 🚀
+
+
+==================================================
+3. plantilla_video_inscripcion
+==================================================
+CUÁNDO SE ENVÍA: disparador de tiempo, 2 minutos después de que se envía el paso a paso con el link. Una sola vez por contacto. No enviar si ya tiene la etiqueta CLIENTE.
+ADJUNTO: el video con el paso a paso, como ARCHIVO (no como link).
+
+TEXTO:
+
+¿Tienes dudas de cómo hacer tu inscripción? 🤔
+
+Te mando este video cortito para que te guíes paso a paso. Síguelo tal cual, es muy sencillo 👇
+
+Y recuerda: en cuanto termines tu pago, mándame la captura por aquí para enviarte tu bono, la *Masterclass "Negocios Inteligentes"* 🎁
+
+
+==================================================
+4. plantilla_confirmacion_comprobante
+==================================================
+(En la cuenta de Forex se llama plantilla_confirmacion_comprobante_hotmart; aquí sin "hotmart".)
+CUÁNDO SE ENVÍA: cuando la persona manda la captura de su pago (palabras como "ya pagué", "listo", "ya quedó" o cuando envía una imagen).
+ADJUNTO: ninguno.
+DESPUÉS: tú o tu equipo verifican el pago en la plataforma, ponen la etiqueta CLIENTE (para registrar la venta) y envían la plantilla_entregable.
+
+TEXTO:
+
+¡Gracias por tu compra y bienvenido a *My 4x4 Academy*! 🎉🙏
+
+Dame unos minutos para verificar tu pago y enseguida te envío tu bono: la *Masterclass "Negocios Inteligentes"* de Sam González 🎁
+
+Mientras tanto, ya puedes entrar a tu curso 👇
+📲 Entra con tu correo y contraseña en la plataforma
+📘 Empieza con el tema 1
+💪 Te recomiendo ver un tema al día
+
+Quédate atento por aquí, por favor; ten un poco de paciencia, en breve te confirmo y te envío tu Masterclass 😊
+
+
+==================================================
+5. plantilla_entregable
+==================================================
+CUÁNDO SE ENVÍA: manualmente (o con disparador por etiqueta CLIENTE), después de verificar el pago.
+ADJUNTO: opcional, la Masterclass como archivo si no usas link.
+
+TEXTO:
+
+¡Felicidades y bienvenido a *Desbloquea el Secreto del Emprendimiento*! 🎉🚙
+
+Tu pago quedó confirmado. Aquí tienes todo para empezar con el pie derecho:
+
+📘 *Tu curso*
+Ya está en tu cuenta de My 4x4 Academy. Entra cuando quieras con tu correo y contraseña aquí:
+https://www.my4x4academy.com/studyPlan/desbloquea-el-secreto-del-emprendimiento
+Recuerda que tu acceso es *de por vida* ♾️
+
+🎁 *Tu bono: Masterclass "Negocios Inteligentes"*
+Míralo aquí 👇
+[LINK_MASTERCLASS]
+
+📌 Te recomiendo empezar hoy mismo: un tema al día y en menos de una semana tendrás las bases completas.
+
+Si tienes cualquier duda con tu acceso, escríbenos a atencion@fundacione.org
+
+¡Mucho éxito en tu camino como emprendedor! 🚀
+
+
+==================================================
+6. plantilla_precios
+==================================================
+CUÁNDO SE ENVÍA: cuando la persona pregunta "¿qué incluye?", "precio", "info" o "costo".
+ADJUNTO: ninguno.
+
+TEXTO:
+
+🔑 *Incluye:*
+
+✅ *Las bases del ciclo comercial:* cómo funciona de verdad un negocio y dónde se gana o se pierde el dinero
+✅ *Compras:* cómo comprar bien para cuidar tu margen desde el inicio
+✅ *Propuesta de valor:* qué ofrecer y cómo decirlo para que te elijan a ti
+✅ *Estrategias efectivas de ventas:* cómo atraer clientes y cerrar más ventas
+✅ *Ventas a crédito y manejo del riesgo:* cómo vender a crédito sin que te dejen de pagar
+
+📱 Curso 100% en línea, a tu ritmo
+♾️ Acceso de por vida: ves los videos cuantas veces quieras
+
+🎁 *SI TE INSCRIBES HOY, TE LLEVAS DE BONO:*
+
+💥 *Masterclass "Negocios Inteligentes"* de Sam González, para complementar lo que aprendes en el curso. Te la envío por aquí en cuanto me mandes la captura de tu pago.
+
+👤 Impartido por *Sam González*, fundador de Fundación E y My 4x4 Academy, con más de 30 años formando emprendedores.
+
+🔥 Pago único de solo *$10 USD* ($181 MXN aprox.) ✅
+
+¿Te gustaría inscribirte hoy? Respóndeme *LO QUIERO* y te envío el link 👇
+
+
+==================================================
+7. plantilla_remarketing_1
+==================================================
+CUÁNDO SE ENVÍA: 2 horas después de enviado el link, si NO tiene la etiqueta CLIENTE.
+OBJETIVO: rescatar a quien se atoró en el registro o el pago.
+ADJUNTO: ninguno.
+
+TEXTO:
+
+Hola de nuevo 👋 ¿Pudiste hacer tu inscripción al curso *Desbloquea el Secreto del Emprendimiento*?
+
+Te pregunto porque a veces el registro o el pago dan lata 😅 Si te atoraste en algún paso, dime en cuál y te ayudo en un minuto.
+
+Recuerda que puedes pagar con *tarjeta de débito, crédito o PayPal*, y que al mandarme tu captura te envío tu bono: la *Masterclass "Negocios Inteligentes"* 🎁
+
+¿Te ayudo a terminar tu inscripción?
+
+
+==================================================
+8. plantilla_remarketing_2
+==================================================
+CUÁNDO SE ENVÍA: 20 a 22 horas después, si NO tiene la etiqueta CLIENTE (antes de que se cierre la ventana de 24 horas de WhatsApp).
+OBJETIVO: deseo + costo de no actuar.
+ADJUNTO: opcional, una imagen del curso o de Sam.
+
+TEXTO:
+
+Me quedé pensando en ti 💭
+
+La diferencia entre quien *sí* arranca (o hace crecer su negocio) y quien se queda igual casi nunca es el dinero ni el talento… es *dar el primer paso* con la guía correcta.
+
+Por solo *$10 USD* tienes las bases que Sam González lleva más de 30 años enseñando: ciclo comercial, compras, propuesta de valor, ventas y crédito 📘
+
+Y además te llevas de bono la *Masterclass "Negocios Inteligentes"* 🎁
+
+¿Qué te está deteniendo? Cuéntame con confianza y lo resolvemos juntos 🙌
+
+
+==================================================
+9. plantilla_remarketing_3
+==================================================
+CUÁNDO SE ENVÍA: 48 horas después, si NO tiene la etiqueta CLIENTE.
+IMPORTANTE: pasadas 24 horas sin respuesta de la persona, WhatsApp solo permite enviar plantillas aprobadas por Meta (categoría Marketing). Revisa en SellerChat si esta plantilla necesita aprobación.
+OBJETIVO: último empujón, sin presión.
+ADJUNTO: ninguno.
+
+TEXTO:
+
+Hola 👋 Soy Ana, de *My 4x4 Academy*.
+
+Hace unos días te interesó el curso *"Desbloquea el Secreto del Emprendimiento"* de Sam González, y no quería que se te pasara 🙌
+
+Por solo *$10 USD* aprendes las bases para arrancar o hacer crecer tu negocio, con acceso de por vida y la *Masterclass "Negocios Inteligentes"* de regalo 🎁
+
+¿Te mando otra vez el link para inscribirte? Respóndeme *LO QUIERO* 👇
+
+
+==================================================
+10. plantilla_testimonios
+==================================================
+CUÁNDO SE ENVÍA: cuando la persona duda de si funciona o pide pruebas ("¿es confiable?", "¿tienen testimonios?"), o como remarketing opcional.
+ADJUNTO: [CAPTURAS_TESTIMONIOS] = capturas REALES de alumnos, comentarios de seguidores de Sam o notas de prensa (Milenio, AméricaEconomía). No uses testimonios inventados.
+
+TEXTO:
+
+Mira lo que dicen emprendedores que ya han aprendido con la metodología de Sam González 👇
+
+Sam lleva más de 30 años formando emprendedores, ha formado a más de 10,000 facilitadores de su metodología y su libro *"4x4 Emprendedores Todo Terreno"* ya va en su 3ª edición 📘
+
+Ahora tienes sus bases en un curso de solo *$10 USD*, con la *Masterclass "Negocios Inteligentes"* de regalo 🎁
+
+¿Te gustaría inscribirte hoy? Respóndeme *LO QUIERO* 👇
+
+
+==================================================
+MAPA DE DISPARADORES
+==================================================
+
+Primer mensaje del contacto        -> plantilla_bienvenida
+"qué incluye" / "precio" / "info"  -> plantilla_precios (o lo responde el bot)
+"lo quiero" / "quiero inscribirme" -> el BOT manda el paso a paso + link (o plantilla_checkout si así lo decides)
++2 minutos después del link        -> plantilla_video_inscripcion (con el video adjunto)
+Envía captura / "ya pagué"         -> plantilla_confirmacion_comprobante
+Pago verificado (tú)               -> etiqueta CLIENTE + plantilla_entregable
+Sin compra +2 horas                -> plantilla_remarketing_1
+Sin compra +20-22 horas            -> plantilla_remarketing_2
+Sin compra +48 horas               -> plantilla_remarketing_3
+Duda de confianza / pide pruebas   -> plantilla_testimonios
+
+ETIQUETAS RECOMENDADAS: CHECKOUT_ENVIADO · CLIENTE · NO_INTERESADO
+Los remarketing se envían solo si el contacto NO tiene la etiqueta CLIENTE.
+La etiqueta CLIENTE es tu registro de ventas para saber qué anuncios venden.
