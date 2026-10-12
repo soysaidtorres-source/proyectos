@@ -52,7 +52,7 @@ Versión corta para anuncios: "Haz que tu negocio deje de perder dinero."
 2. Cuaderno de trabajo imprimible "Mi Negocio 4x4" (PDF): ejercicios por cada tema para que la persona arme SU ciclo comercial, SU propuesta de valor y SU plan de ventas.  ← NUEVO, se puede crear en 1 día (te lo puedo redactar yo).
 3. Calculadora de precio y ganancia (Google Sheets / Excel): pones tus costos y te dice cuánto ganas realmente por producto.  ← NUEVO.
 4. Formato de control de ventas a crédito ("fiados"): para saber quién te debe, cuánto y desde cuándo.  ← NUEVO.
-5. Masterclass "Negocios Inteligentes" de Sam (bono).
+5. Masterclass "Emprende en la Era de la IA" de Sam (bono).
 
 Así el anuncio puede decir "Curso + cuaderno de trabajo + 2 herramientas + masterclass" (igual que "Libro + audiolibro + ejercicios + 3 libros de regalo").
 
@@ -124,7 +124,7 @@ Por eso Sam González, con más de 30 años formando emprendedores, creó *Desbl
 ✅ Defines qué te hace diferente para que te compren a ti
 ✅ Sabes cómo conseguir tus primeras ventas con estrategia
 
-🎁 Y te llevas de regalo la *Masterclass "Negocios Inteligentes"*
+🎁 Y te llevas de regalo la *Masterclass "Emprende en la Era de la IA"*
 ♾️ Acceso de por vida · 100% en línea
 
 🔥 Todo por solo *$185 pesos* ($10 USD), pago único.
@@ -143,7 +143,7 @@ En *Desbloquea el Secreto del Emprendimiento*, Sam González (30+ años formando
 ✅ Cómo comprar bien para cuidar tu margen
 ✅ Cómo vender con estrategia y no solo bajando precios
 
-🎁 De regalo: *Masterclass "Negocios Inteligentes"*
+🎁 De regalo: *Masterclass "Emprende en la Era de la IA"*
 ♾️ Acceso de por vida
 
 🔥 Solo *$185 pesos* ($10 USD). Menos de lo que se te escapa en una semana.
@@ -160,7 +160,7 @@ La buena noticia: tiene solución. En *Desbloquea el Secreto del Emprendimiento*
 ✅ A quién sí y a quién no darle crédito
 ✅ Cómo funciona el ciclo de tu negocio para que no te quedes sin dinero
 
-🎁 De regalo: *Masterclass "Negocios Inteligentes"*
+🎁 De regalo: *Masterclass "Emprende en la Era de la IA"*
 ♾️ Acceso de por vida
 
 🔥 Solo *$185 pesos* ($10 USD), menos de lo que pierdes con UN cliente que no te paga.
@@ -275,7 +275,7 @@ HOY
 
 ESTA SEMANA
 4. Crear el Kit: cuaderno de trabajo "Mi Negocio 4x4", calculadora de ganancia y formato de control de crédito (te los puedo redactar).
-5. Pedir a Sam: aprobar la garantía de 7 días y tener lista la Masterclass "Negocios Inteligentes".
+5. Pedir a Sam: aprobar la garantía de 7 días y tener lista la Masterclass "Emprende en la Era de la IA".
 6. Generar los prompts 2 y 5 ya; los 1, 3, 4 y 6 cuando el Kit exista.
 
 QUÉ MEDIR (por anuncio)

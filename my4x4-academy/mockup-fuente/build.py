@@ -39,8 +39,8 @@ def box_svg(num, lines, gift=False):
         # tag
         s += f'<rect x="8" y="{o+84}" width="{W-16}" height="88" rx="8" fill="#ffffff"/>'
         s += f'<text x="{W/2}" y="{o+101}" text-anchor="middle" font-family="Montserrat" font-weight="900" font-size="11" fill="#E0A100" letter-spacing="1.5">BONO</text>'
-        for i, t in enumerate(["MASTERCLASS", "NEGOCIOS", "INTELIGENTES"]):
-            s += f'<text x="{W/2}" y="{o+121+i*16}" text-anchor="middle" font-family="Montserrat" font-weight="800" font-size="11.5" fill="#0B1660">{t}</text>'
+        for i, t in enumerate(["MASTERCLASS", "EMPRENDE EN", "LA ERA DE LA IA"]):
+            s += f'<text x="{W/2}" y="{o+119+i*16}" text-anchor="middle" font-family="Montserrat" font-weight="800" font-size="{11.5 if i==0 else 10.6}" fill="#0B1660">{t}</text>'
     else:
         # turquoise band and logo stripe
         s += f'<rect x="0" y="{o}" width="{W}" height="8" fill="#00B3AD"/>'
