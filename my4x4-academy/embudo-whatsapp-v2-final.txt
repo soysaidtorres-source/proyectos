@@ -1,0 +1,166 @@
+EMBUDO WHATSAPP V2 – VERSIÓN FINAL PARA MONTAR
+My 4x4 Academy · MÉTODO 4x4: COMPRA, VENDE Y COBRA (en la plataforma: "Desbloquea el Secreto del Emprendimiento")
+Precio de comunicación: $185 pesos (pago único)
+
+Este archivo REEMPLAZA la bienvenida y los remarketing anteriores. Las plantillas de checkout, video, confirmación de captura y entregable se quedan igual.
+
+Datos por rellenar:
+[CAPTURAS_TESTIMONIOS] = 2 o 3 capturas de testimonios reales (luego, el video)
+[LINK_CURSOS_GRATUITOS] = link de la sección "Gratuitos" de my4x4academy.com
+
+
+==================================================
+SECUENCIA COMPLETA
+==================================================
+
+Entra por el anuncio
+ └ BIENVENIDA (4 mensajes): imagen mockup → texto corto → audio → texto completo
+     ├ Responde "LO QUIERO" → el bot manda el paso a paso + link → video a los 2 min → captura → bono
+     └ No responde:
+         · REMARKETING 1 (1–2 h): TESTIMONIOS
+         · REMARKETING 2 (20–22 h): OFERTA + PAGO SEGURO
+         · REMARKETING 3 (48 h, plantilla aprobada): RECORDATORIO CORTO
+         · REMARKETING 4 (4–5 días, plantilla aprobada): DESPEDIDA + CURSOS GRATUITOS
+
+Todos los remarketing se envían solo si el contacto NO tiene las etiquetas CHECKOUT_ENVIADO, CLIENTE ni NO_INTERESADO.
+Para quien sí recibió el link y no pagó: plantilla_rescate_pago (1–2 h después del link).
+
+
+==================================================
+1. BIENVENIDA (4 mensajes, 3–5 segundos entre cada uno)
+==================================================
+
+--- 1A. IMAGEN ---
+El mockup del paquete (prompt en bienvenida-nueva-4-formatos.txt).
+
+--- 1B. TEXTO CORTO (CAMBIÓ: ahora cumple lo que promete el anuncio) ---
+
+¡Hola! 👋 Soy Ana, de *My 4x4 Academy* 🚙
+
+Te prometimos decirte cómo evitar el error que quiebra negocios, y aquí va la respuesta corta 👇
+
+La mayoría no quiebra por falta de clientes, sino por *3 fugas de dinero*:
+1️⃣ Fiar sin control
+2️⃣ Comprar sin cuidar tu margen
+3️⃣ Vender sin una razón para que te elijan a ti
+
+Corregir esas 3 fugas es justo lo que enseña Sam González en el *MÉTODO 4x4: COMPRA, VENDE Y COBRA* 💰
+
+Escucha este audio de 40 segundos 👇
+
+--- 1C. AUDIO ---
+Mismo guion de bienvenida-nueva-4-formatos.txt (sin cambios).
+
+--- 1D. TEXTO COMPLETO ---
+Mismo texto de bienvenida-nueva-4-formatos.txt (sin cambios).
+
+
+==================================================
+2. plantilla_remarketing_1 – TESTIMONIOS (NUEVO)
+==================================================
+CUÁNDO: 1 a 2 horas después de la bienvenida, si no respondió "LO QUIERO".
+ADJUNTOS: 2 o 3 capturas de testimonios en texto [CAPTURAS_TESTIMONIOS]. Cuando tengas el video, cámbialo por el video (o manda video + 1 captura).
+IMPORTANTE: los testimonios son de personas que tomaron OTROS talleres de la academia. El texto lo dice así; no los presentes como testimonios de este curso.
+
+TEXTO:
+
+Hola de nuevo 👋 Soy Ana, de *My 4x4 Academy*.
+
+Antes de que decidas, quiero que veas lo que dicen personas que ya se capacitaron con nosotros en otros talleres de la academia 👇
+
+[CAPTURAS_TESTIMONIOS]
+
+Como ellos, tú también puedes empezar a tomar mejores decisiones en tu negocio con el *MÉTODO 4x4: COMPRA, VENDE Y COBRA* de Sam González 🚙
+
+📘 Lecciones en video, a tu ritmo
+♾️ Acceso de por vida
+🎁 Masterclass *"Negocios Inteligentes"* de regalo
+🔥 Pago único de *$185 pesos*
+
+¿Te gustaría ser el siguiente? Respóndeme *LO QUIERO* y te envío el link 👇
+
+
+==================================================
+3. plantilla_remarketing_2 – OFERTA + PAGO SEGURO
+==================================================
+CUÁNDO: 20 a 22 horas después de la bienvenida (antes de que se cierre la ventana de 24 h).
+ADJUNTO: opcional, la imagen del mockup.
+(Es el mensaje que mejoramos antes; pasó del lugar 1 al 2.)
+
+TEXTO:
+
+Hola 👋 Soy Ana, de *My 4x4 Academy*.
+
+Te escribo porque el *MÉTODO 4x4: COMPRA, VENDE Y COBRA* es de las decisiones más fáciles que puedes tomar hoy por tu negocio 👇
+
+📘 *Lo que te llevas:*
+✅ Entender dónde se gana y dónde se pierde el dinero en tu negocio
+✅ Comprar bien, crear tu propuesta de valor y vender con estrategia
+✅ Vender a crédito sin que te dejen de pagar
+♾️ Acceso de por vida: lo ves cuantas veces quieras
+🎁 De regalo: la Masterclass *"Negocios Inteligentes"* de Sam González
+
+💰 *Todo por solo $185 pesos*, menos de lo que cuesta una pizza 🍕
+
+🔒 *Tu pago es seguro:*
+• Lo haces dentro de la plataforma oficial de My 4x4 Academy
+• Puedes pagar con tarjeta de débito, crédito o *PayPal*
+• Nunca te pediremos datos de tu tarjeta por WhatsApp
+
+Por $185 pesos el riesgo es mínimo… lo caro es seguir un año más igual 😉
+
+¿Le damos? Respóndeme *LO QUIERO* y te envío el link 👇
+
+
+==================================================
+4. plantilla_remarketing_3 – RECORDATORIO CORTO
+==================================================
+CUÁNDO: 48 horas después. Plantilla aprobada por Meta (categoría Marketing).
+ADJUNTO: opcional, la imagen del mockup.
+
+TEXTO:
+
+Hola {{1}} 👋 Soy Ana, de *My 4x4 Academy*.
+
+Te recuerdo que sigue disponible el *MÉTODO 4x4: COMPRA, VENDE Y COBRA* de Sam González: aprende a comprar, vender y cobrar para que tu negocio deje de perder dinero 💰
+
+Pago único de *$185 pesos*, acceso de por vida y Masterclass de regalo 🎁
+
+¿Te mando el link? Respóndeme *LO QUIERO* 👇
+
+
+==================================================
+5. plantilla_remarketing_4 – DESPEDIDA + CURSOS GRATUITOS (NUEVO)
+==================================================
+CUÁNDO: 4 a 5 días después. Es el ÚLTIMO mensaje. Plantilla aprobada por Meta (categoría Marketing).
+ADJUNTO: una imagen con 3 o 4 portadas de los cursos gratuitos (Chiapas, Campeche, Chihuahua, Baja California…) en collage.
+DESPUÉS: si no responde, etiqueta NO_INTERESADO y se cierra el embudo.
+
+TEXTO:
+
+Hola 👋 Soy Ana, de *My 4x4 Academy*.
+
+Este es mi último mensaje y no me quiero despedir sin dejarte un regalo 🎁
+
+En la academia tenemos *cursos gratuitos* de la serie *Economía Alfa*, donde descubres las oportunidades de negocio en los estados de México con más potencial para emprender: Chiapas, Campeche, Chihuahua, Aguascalientes, Baja California y Baja California Sur 🇲🇽
+
+Aunque no vivas ahí, te sirven para detectar tendencias y nuevas ideas de negocio. Solo te registras y listo, sin pagar nada 👇
+
+🔗 [LINK_CURSOS_GRATUITOS]
+
+Y si más adelante quieres aprender a comprar, vender y cobrar para que tu negocio deje de perder dinero, aquí sigo: solo escríbeme *LO QUIERO* 🙌
+
+¡Mucho éxito en tu camino emprendedor! 🚙
+
+
+==================================================
+POR QUÉ ESTE ORDEN (resumen)
+==================================================
+
+- La bienvenida ahora CUMPLE lo que promete el anuncio ("te decimos cómo evitarlo") con 3 fugas concretas, y luego vende. Así la persona siente que recibió algo antes de que le pidan comprar.
+- Testimonios en el remarketing 1: es el primer empujón y el que más baja la desconfianza.
+- Oferta + pago seguro en el 2: para quien ya confía pero duda de pagar.
+- Recordatorio corto en el 3: plantilla aprobada, sin saturar.
+- Cursos gratuitos al final: cierra con un regalo, no con presión. La persona entra a la base de datos de la plataforma y deja la puerta abierta para venderle después.
+- Las ciudades SÍ se mencionan: lo específico genera más curiosidad y credibilidad que "cursos gratuitos de emprendimiento". Y aclaramos que sirven aunque no vivas ahí.
+- Los cursos gratuitos NO se ofrecen antes del último mensaje, salvo que la persona diga claramente que no le interesa o que no tiene dinero (así no le quitan ventas al curso de pago).
