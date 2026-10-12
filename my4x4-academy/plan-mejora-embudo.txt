@@ -1,0 +1,285 @@
+# PLAN DE MEJORA DEL EMBUDO – My 4x4 Academy
+Curso "Desbloquea el Secreto del Emprendimiento" · Análisis y nueva oferta
+
+## 1. DIAGNÓSTICO HONESTO
+
+Números actuales: ~78 leads → menos de 5 dijeron "LO QUIERO" (~6%) → 0 ventas, con más de $100 USD invertidos.
+
+Hay DOS cuellos de botella, no uno:
+- Cuello 1 (el más grande): 94% de la gente lee la bienvenida y no responde.
+- Cuello 2 (igual de grave): de las ~5 personas que SÍ dijeron "LO QUIERO", ninguna pagó. Eso apunta al proceso de compra, no al copy.
+
+### Por qué la gente no responde a la bienvenida (5 causas)
+
+1) El anuncio promete una cosa y WhatsApp entrega otra.
+El anuncio ganador dice "Escríbenos y te decimos cómo evitarlo". La persona escribe esperando una RESPUESTA a su problema… y recibe un mensaje largo de venta. Siente que la "engañaron" y se va. Por eso el anuncio tiene buen costo por mensaje (genera curiosidad) pero no vende.
+
+2) La bienvenida es un muro de texto que pide la compra de inmediato.
+Lo primero que lee es una lista de temas, el precio y "responde LO QUIERO". Es pedir matrimonio en la primera cita. Nadie tiene que contestar nada fácil; la única opción es comprar o ignorar.
+
+3) El producto se siente abstracto y "chiquito".
+"1 módulo, 6 temas, videos" no se puede tocar ni imaginar. Mira tus ejemplos ganadores: todos venden algo TANGIBLE que se ve en la imagen (libro + audiolibro + 3 libros de regalo; +300 mapas; una guía imprimible que se hojea en el video). La gente compra lo que puede ver y contar.
+
+4) La promesa es genérica.
+"Aprende las bases del emprendimiento" compite con todo YouTube gratis. Los ganadores prometen un RESULTADO concreto ("Mi plan de negocio listo", "deja de fallarte a ti mismo", "todo el inglés organizado").
+
+5) El precio en dólares y sin anclaje.
+$10 USD no se compara con nada. El video ganador dice "$47 pesos – antes $397". El de libros dice "$19.90 USD · Garantía de 7 días". Precio en la moneda del cliente + comparación + garantía = decisión fácil.
+
+### Por qué los que dijeron "LO QUIERO" no pagaron (revisar YA)
+
+- Tienen que REGISTRARSE en una plataforma, luego pagar en DÓLARES con tarjeta. Muchas tarjetas de débito mexicanas rechazan cargos internacionales o piden activación.
+- Acción inmediata: haz tú una compra de prueba con una tarjeta de débito mexicana (BBVA, Banorte, Azteca) y con PayPal, desde el celular, cronometrando cuántos pasos y minutos toma. Si algo falla ahí, ningún anuncio lo arregla.
+- Mediano plazo: considerar un checkout con pesos y OXXO / Mercado Pago (por ejemplo Hotmart), como en tu embudo de Forex, que sí convierte.
+
+### Mi opinión sincera sobre el curso
+
+Sí, el curso es básico. Pero lo básico SÍ se vende si se empaqueta como una herramienta que resuelve un problema concreto. No hay que inflarlo con promesas falsas: hay que (a) enfocarlo en UN dolor que duele, (b) hacerlo tangible con un kit de herramientas, y (c) quitar el miedo a comprar. Eso es lo que hacen tus ejemplos.
+
+## 2. LA NUEVA OFERTA: "KIT EMPRENDEDOR 4x4"
+
+Idea central: dejamos de vender "un curso de 6 temas" y vendemos un KIT para que tu negocio deje de perder dinero (o para arrancar tu idea con orden). El curso es una parte; las herramientas son lo que la gente "ve" y quiere.
+
+### Promesa (nueva)
+
+"Deja de trabajar a ciegas: aprende a comprar, vender y cobrar con el Método 4x4 de Sam González, y llévate las herramientas listas para aplicarlo en tu negocio desde hoy."
+
+Versión corta para anuncios: "Haz que tu negocio deje de perder dinero."
+
+### Qué incluye el Kit (valor percibido)
+
+1. Curso en video "Desbloquea el Secreto del Emprendimiento" (6 temas, acceso de por vida) – lo que ya existe.
+2. Cuaderno de trabajo imprimible "Mi Negocio 4x4" (PDF): ejercicios por cada tema para que la persona arme SU ciclo comercial, SU propuesta de valor y SU plan de ventas.  ← NUEVO, se puede crear en 1 día (te lo puedo redactar yo).
+3. Calculadora de precio y ganancia (Google Sheets / Excel): pones tus costos y te dice cuánto ganas realmente por producto.  ← NUEVO.
+4. Formato de control de ventas a crédito ("fiados"): para saber quién te debe, cuánto y desde cuándo.  ← NUEVO.
+5. Masterclass "Negocios Inteligentes" de Sam (bono).
+
+Así el anuncio puede decir "Curso + cuaderno de trabajo + 2 herramientas + masterclass" (igual que "Libro + audiolibro + ejercicios + 3 libros de regalo").
+
+REGLA: solo anunciamos lo que exista. Los puntos 2, 3 y 4 hay que crearlos ANTES de anunciarlos. Son sencillos y están 100% alineados con los temas del curso (compras, margen, ventas a crédito), así que no estamos inventando nada que el curso no cubra.
+
+### Precio y garantía
+
+- Comunicar en PESOS: "$181 pesos" (y "$10 USD" solo en letra chica).
+- Anclaje honesto: comparar con cosas reales ("menos que una pizza", "menos de lo que pierdes con UN cliente que no te paga"). NO usar "antes $397" a menos que ese precio haya existido de verdad.
+- Garantía: pedirle a Sam una garantía de 7 días ("si no te sirve, te devolvemos tu dinero"). Es el elemento que más baja el miedo a pagar en low ticket. Solo se anuncia si Sam la aprueba y la plataforma la permite.
+
+## 3. MAPA DE DOLORES → TEMA DEL CURSO → FRASE PARA ANUNCIO
+
+### Quien todavía no emprende (tiene la idea)
+
+| Dolor | Tema que lo resuelve | Frase de anuncio |
+|---|---|---|
+| No sabe por dónde empezar | Bases del ciclo comercial | "Tienes la idea. Te falta el mapa." |
+| Miedo a perder sus ahorros | Compras / ciclo comercial | "No arriesgues tus ahorros a prueba y error." |
+| Cree que necesita mucho dinero o ser experto | Bases | "No necesitas ser experto, necesitas el orden correcto." |
+| No sabe qué lo hace diferente | Propuesta de valor | "¿Por qué alguien te compraría a ti y no al de enfrente?" |
+| Lleva años "pensándolo" | Plan de acción | "Tu idea ya esperó suficiente." |
+| Siente que se está fallando a sí mismo | (emocional) | "Lo duro no es fracasar, es nunca intentarlo." |
+
+### Quien ya tiene un negocio pequeño
+
+| Dolor | Tema que lo resuelve | Frase de anuncio |
+|---|---|---|
+| Vende mucho pero no ve la ganancia | Ciclo comercial / compras | "Vender no es lo mismo que ganar." |
+| Fía y no le pagan | Ventas a crédito y riesgo | "¿Cuánto dinero tienes en la calle?" |
+| No sabe cuánto gana por producto | Compras / margen | "Si no sabes tu margen, estás regalando tu trabajo." |
+| Compite solo por precio | Propuesta de valor | "Deja de bajar tus precios para vender." |
+| Trabaja todo el día y no crece | Estrategias de ventas | "Trabajas más que nunca y ganas igual que siempre." |
+| Mezcla el dinero de la casa y del negocio | Ciclo comercial | "¿Tu negocio te paga a ti, o tú le pagas a tu negocio?" |
+
+Recomendación: el ángulo que ya te dio buenos costos (fiados / dinero que se pierde) es el más fuerte. Enfoquemos la oferta en "que tu negocio deje de perder dinero" y usemos "tu idea" como segundo ángulo.
+
+## 4. NUEVA ENTRADA DE WHATSAPP (lo más urgente)
+
+Principio: el primer mensaje NO vende. Saluda, cumple lo que prometió el anuncio y hace UNA pregunta facilísima de responder. Cuando la persona responde, ya está conversando, y ahí sí presentamos la oferta adaptada a su dolor.
+
+### Nueva plantilla_bienvenida (reemplaza la actual)
+
+ADJUNTO recomendado: imagen del Kit (mockup) o foto de Sam.
+
+¡Hola! 👋 Soy Ana, de *My 4x4 Academy* 🚙
+
+Qué bueno que escribes. Para darte la información que de verdad te sirve, dime rápido 👇
+
+*¿Cuál de estas te describe mejor?*
+
+*A)* Tengo una idea de negocio, pero no sé por dónde empezar
+*B)* Ya tengo negocio, vendo pero no veo la ganancia
+*C)* Fío o vendo a crédito y me cuesta cobrar
+
+Respóndeme solo con la letra (A, B o C) 😊
+
+(Se usan letras y no números para no chocar con el remarketing 4, que usa 1, 2 y 3.)
+
+### Respuestas según la opción (van en el entrenamiento del bot)
+
+RESPUESTA A – "Tengo una idea":
+
+Te entiendo perfecto 🙌 Y te digo algo: *tu idea no es el problema*. El problema es que nadie te dio el mapa para arrancar sin arriesgar tus ahorros.
+
+Por eso Sam González, con más de 30 años formando emprendedores, creó *Desbloquea el Secreto del Emprendimiento* 👇
+
+✅ Entiendes cómo funciona un negocio de principio a fin
+✅ Defines qué te hace diferente para que te compren a ti
+✅ Sabes cómo conseguir tus primeras ventas con estrategia
+
+🎁 Y te llevas de regalo la *Masterclass "Negocios Inteligentes"*
+♾️ Acceso de por vida · 100% en línea
+
+🔥 Todo por solo *$181 pesos* ($10 USD), pago único.
+
+¿Te gustaría empezar hoy? Respóndeme *LO QUIERO* y te mando cómo inscribirte 👇
+
+RESPUESTA B – "Vendo pero no veo la ganancia":
+
+Es de lo más común, y casi siempre tiene la misma causa 👇
+
+No es que vendas poco. Es que el dinero se escapa por *fugas pequeñas*: compras sin cuidar tu margen, precios que no cubren tus costos o clientes que no te pagan. Juntas, no te dejan crecer.
+
+En *Desbloquea el Secreto del Emprendimiento*, Sam González (30+ años formando emprendedores) te enseña a taparlas:
+
+✅ Dónde se gana y dónde se pierde el dinero en tu negocio
+✅ Cómo comprar bien para cuidar tu margen
+✅ Cómo vender con estrategia y no solo bajando precios
+
+🎁 De regalo: *Masterclass "Negocios Inteligentes"*
+♾️ Acceso de por vida
+
+🔥 Solo *$181 pesos* ($10 USD). Menos de lo que se te escapa en una semana.
+
+¿Le damos? Respóndeme *LO QUIERO* y te mando el link 👇
+
+RESPUESTA C – "Fío y me cuesta cobrar":
+
+Uff, ese es justo el error que más negocios pequeños quiebra 😔 "Al ratito me pagan", "es mi comadre"… y el dinero se queda en la calle.
+
+La buena noticia: tiene solución. En *Desbloquea el Secreto del Emprendimiento*, Sam González (30+ años formando emprendedores) te enseña:
+
+✅ Cómo vender a crédito *sin que te dejen de pagar*
+✅ A quién sí y a quién no darle crédito
+✅ Cómo funciona el ciclo de tu negocio para que no te quedes sin dinero
+
+🎁 De regalo: *Masterclass "Negocios Inteligentes"*
+♾️ Acceso de por vida
+
+🔥 Solo *$181 pesos* ($10 USD), menos de lo que pierdes con UN cliente que no te paga.
+
+¿Quieres empezar hoy? Respóndeme *LO QUIERO* 👇
+
+### Si no responde la bienvenida
+
+- A los 15–30 minutos (disparador de tiempo), un empujón corto:
+"¿Me cuentas cuál es tu caso, A, B o C? 😊 Así te digo exactamente cómo te ayuda el curso."
+- Después siguen tus remarketing (el 1 que mejoramos ayer, etc.).
+
+## 5. AJUSTE A LOS ANUNCIOS (congruencia)
+
+- Si el anuncio dice "te decimos cómo evitarlo", la bienvenida debe EMPEZAR a cumplirlo (por eso las respuestas A/B/C dan una mini-explicación antes de vender).
+- Agrega "curso" y el precio en pesos en el texto del anuncio, para que escriban personas dispuestas a pagar $181, no solo curiosos. Tendrás un costo por mensaje un poco más alto, pero más ventas. Lo que importa es el costo por VENTA.
+- Mensaje prellenado: "Hola, quiero más información del curso 👋" (está bien).
+
+## 6. 6 NUEVOS PROMPTS DE ANUNCIOS (estilo de tus ejemplos ganadores)
+
+Qué copiamos de los ejemplos: (1) un titular emocional de dolor, (2) el producto VISIBLE como mockup (pantalla + cuaderno + extras), (3) iconos con números ("6 temas", "4 herramientas", "acceso de por vida"), (4) precio grande en pesos, (5) botón "PÍDELO POR WHATSAPP".
+
+IMPORTANTE: los prompts 1, 3, 4 y 6 muestran el cuaderno de trabajo y las herramientas. Úsalos solo cuando el Kit exista. Los prompts 2 y 5 se pueden usar YA.
+
+Cómo usarlos en Gemini (Nano Banana): adjunta 1) la foto de Sam cuando el prompt lo pida (modelo humano, conservar su rostro) y 2) el anuncio de ejemplo como referencia de estilo. Paleta 4x4: azul marino #0B1660, turquesa #00B3AD, azul #0068A0, blanco; botón verde WhatsApp #25D366; precio en amarillo/rojo para que resalte como en tus ejemplos.
+
+### PROMPT 1 – "Vender no es lo mismo que ganar" (Kit, negocio)
+
+Crea un anuncio vertical 4:5, final y listo para publicar, con tipografía integrada. SIN logo.
+ESCENA (fotografía hiperrealista, cálida, de noche): mostrador de un pequeño negocio mexicano con una caja registradora abierta casi vacía y una libreta de cuentas. Sobre el mostrador, un MOCKUP del producto: una laptop mostrando una clase en video, un cuaderno de trabajo impreso en espiral con portada azul marino que dice "MI NEGOCIO 4x4", un celular con el curso abierto y una hoja de cálculo de costos impresa. Luz cálida de lámpara, fondo desenfocado.
+TEXTOS (exactos, con acentos):
+- Titular arriba, blanco ultra grueso con sombra: "VENDER NO ES LO MISMO QUE GANAR"
+- Subtítulo en turquesa: "Aprende a comprar, vender y cobrar para que tu negocio deje de perder dinero"
+- Fila de 3 iconos circulares con texto blanco: "6 TEMAS EN VIDEO" · "CUADERNO DE TRABAJO" · "ACCESO DE POR VIDA"
+- Línea: "Curso + cuaderno + 2 herramientas + masterclass de regalo"
+- Sello grande rojo y amarillo tipo estallido: "SOLO $181 PESOS"
+- Botón inferior verde WhatsApp con ícono y brillo: "PÍDELO POR WHATSAPP" y debajo pequeño "Recíbelo al instante ⚡"
+REGLAS: ningún otro texto. Alto contraste. Legible en celular.
+
+### PROMPT 2 – "Lo duro no es fracasar" (emocional, idea – usar YA)
+
+Te adjunto la foto de Sam González como MODELO HUMANO (conserva su rostro exacto) y un anuncio de referencia SOLO de estilo.
+CREA: anuncio vertical 4:5, final, con tipografía integrada, SIN logo.
+ESCENA (cinematográfica, tonos azul marino y dorado): en primer plano, una persona latina de unos 35 años sentada de noche frente a un escritorio, con la mano en la frente, frustrada, junto a una libreta que dice "MI IDEA" con casillas vacías y bolas de papel arrugado. Al fondo, en un marco iluminado como un espejo, Sam González (de la foto) la mira con una sonrisa cálida de mentor, como diciendo "yo te ayudo".
+TEXTOS:
+- Titular arriba en blanco: "Lo duro no es fracasar."
+- Segunda línea en dorado: "Es nunca intentarlo."
+- Debajo de la escena, en blanco: "Aprende a arrancar tu negocio paso a paso con Sam González, 30+ años formando emprendedores"
+- Línea: "Curso en video + Masterclass de regalo · Acceso de por vida"
+- Precio en dorado: "$181 pesos · Pago único"
+- Botón dorado redondeado con flecha: "Pídelo por WhatsApp"
+REGLAS: ningún otro texto, ningún logo.
+
+### PROMPT 3 – "¿Cuánto dinero tienes en la calle?" (Kit, fiados)
+
+CREA: anuncio vertical 4:5, final, con tipografía integrada, SIN logo.
+ESCENA (fotografía hiperrealista): vista desde arriba de un mostrador con una libreta vieja de "fiados" llena de nombres tachados (letras borrosas), billetes y monedas sueltas, y a un lado un MOCKUP: tablet con el curso en video y una hoja impresa titulada "CONTROL DE VENTAS A CRÉDITO" con columnas limpias y ordenadas. Contraste: lado izquierdo desordenado, lado derecho ordenado.
+TEXTOS:
+- Titular arriba, blanco con sombra: "¿CUÁNTO DINERO TIENES EN LA CALLE?"
+- Subtítulo amarillo: "Deja de fiar sin control"
+- 3 viñetas con palomita verde: "Vende a crédito sin que te dejen de pagar" · "Sabe a quién sí darle crédito" · "Formato de control incluido"
+- Sello rojo: "$181 PESOS"
+- Botón verde WhatsApp: "PÍDELO POR WHATSAPP"
+REGLAS: ningún otro texto, ningún logo.
+
+### PROMPT 4 – "Kit Emprendedor 4x4" (estilo "Netflix del inglés")
+
+CREA: anuncio vertical 4:5, final, con tipografía integrada, SIN logo.
+ESCENA: escritorio moderno de noche con luz cálida. En el centro, una tablet grande mostrando una plataforma de cursos llamada "My 4x4 Academy" con 6 tarjetas de lecciones: "Ciclo comercial", "Compras", "Propuesta de valor", "Ventas", "Ventas a crédito", "Bienvenida". A la izquierda, un cuaderno impreso "MI NEGOCIO 4x4"; a la derecha, un celular con una hoja de cálculo "CALCULADORA DE GANANCIA".
+TEXTOS:
+- Titular arriba, blanco gigante: "TU NEGOCIO, ORGANIZADO"
+- Subtítulo: "Todo lo que necesitas para comprar, vender y cobrar mejor, en un solo kit"
+- Sello rojo grande a la derecha: "TODO POR SOLO $181"
+- Columna de 3 palomitas: "PAGO ÚNICO" · "ACCESO DE POR VIDA" · "100% EN LÍNEA"
+- Barra inferior con 3 bloques: "6 TEMAS EN VIDEO" · "CUADERNO DE TRABAJO" · "MASTERCLASS DE REGALO"
+- Botón verde WhatsApp: "PÍDELO POR WHATSAPP · Recíbelo al instante ⚡"
+REGLAS: los textos de las pantallas pueden ser pequeños pero legibles; ningún logo.
+
+### PROMPT 5 – "Tu negocio te paga a ti, o tú le pagas a él" (Sam – usar YA)
+
+Te adjunto la foto de Sam González en la oficina (brazos cruzados) como MODELO HUMANO; conserva su rostro exacto. Y un anuncio de referencia SOLO de estilo.
+CREA: anuncio vertical 4:5, final, con tipografía integrada, SIN logo.
+ESCENA: Sam a la derecha, mirando a cámara con media sonrisa y una ceja levantada, sosteniendo una calculadora. Fondo azul marino con un degradado y una gráfica de flechas que suben y bajan.
+TEXTOS:
+- Pregunta grande arriba en blanco: "¿TU NEGOCIO TE PAGA A TI…"
+- Segunda línea en amarillo: "…O TÚ LE PAGAS A TU NEGOCIO?"
+- Texto: "En 30+ años formando emprendedores, Sam ha visto que el problema casi nunca es vender poco: es no saber dónde se va el dinero."
+- Línea: "Curso en video · Acceso de por vida · Masterclass de regalo"
+- Sello: "$181 PESOS"
+- Botón verde WhatsApp: "ESCRÍBENOS Y TE DECIMOS CÓMO"
+REGLAS: ningún otro texto, ningún logo.
+
+### PROMPT 6 – "Tu idea ya esperó suficiente" (Kit, idea)
+
+CREA: anuncio vertical 4:5, final, con tipografía integrada, SIN logo.
+ESCENA (atardecer cálido, inspirador, como "Una idea cobra sentido…"): mesa de madera junto a una ventana con vista a montañas. Una mano escribe en un cuaderno abierto con una lista "MIS PASOS": "Definir mi idea ✔", "Saber qué me hace diferente", "Calcular mi ganancia", "Conseguir mis primeros clientes". Al lado, MOCKUP: cuaderno impreso "MI NEGOCIO 4x4" y celular con el curso. Taza de café.
+TEXTOS:
+- Titular arriba en cinta amarilla y morada: "TU IDEA YA ESPERÓ SUFICIENTE"
+- Subtítulo: "Arranca tu negocio con orden, sin arriesgar tus ahorros"
+- 3 iconos a la derecha: "Entiende cómo funciona un negocio" · "Define qué te hace diferente" · "Consigue tus primeras ventas"
+- Fila inferior: "6 temas en video" · "Cuaderno de trabajo" · "Acceso de por vida"
+- Sello rojo: "SOLO $181 PESOS"
+- Botón verde WhatsApp: "PÍDELO POR WHATSAPP"
+REGLAS: ningún otro texto, ningún logo.
+
+## 7. PLAN DE ACCIÓN (en este orden)
+
+HOY
+1. Hacer una compra de prueba con tarjeta de débito mexicana y con PayPal. Si falla, ese es el problema #1.
+2. Cambiar la plantilla_bienvenida por la nueva (pregunta A/B/C) y pegar en el entrenamiento las 3 respuestas.
+3. Cambiar los anuncios activos para que digan "curso" y "$181 pesos".
+
+ESTA SEMANA
+4. Crear el Kit: cuaderno de trabajo "Mi Negocio 4x4", calculadora de ganancia y formato de control de crédito (te los puedo redactar).
+5. Pedir a Sam: aprobar la garantía de 7 días y tener lista la Masterclass "Negocios Inteligentes".
+6. Generar los prompts 2 y 5 ya; los 1, 3, 4 y 6 cuando el Kit exista.
+
+QUÉ MEDIR (por anuncio)
+- % de leads que responden la bienvenida (meta: más de 40%).
+- % que dicen LO QUIERO (meta: 15–20%).
+- % de LO QUIERO que pagan (meta: más de 40%).
+- Costo por venta: con un ticket de $10 USD, la meta es que la venta cueste menos de $10 USD.
