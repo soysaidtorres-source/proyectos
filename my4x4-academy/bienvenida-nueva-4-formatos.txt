@@ -1,0 +1,148 @@
+NUEVA BIENVENIDA DE WHATSAPP – 4 FORMATOS
+My 4x4 Academy · Curso de Sam González
+
+Secuencia (se envía completa en automático al primer mensaje del cliente):
+  1) IMAGEN: mockup del paquete completo
+  2) TEXTO CORTO: gancho + nombre del curso
+  3) AUDIO: voz en off de 40–50 segundos
+  4) TEXTO COMPLETO: todo lo que incluye + precio + "LO QUIERO"
+Pausa entre mensajes en SellerChat: 3 a 5 segundos (con "escribiendo…" si se puede).
+Así llegas a los 3 tipos de cliente: el visual (imagen), el que prefiere escuchar (audio) y el que lee todo (texto).
+
+
+==================================================
+PRECIO ESTÁNDAR (para todo el embudo)
+==================================================
+
+$185 pesos mexicanos, pago único.
+
+Por qué $185: la plataforma cobra el equivalente a $10 USD en la moneda local. Con el tipo de cambio actual eso da entre $180 y $185, así que redondeando a $185 la persona casi siempre paga lo mismo o un poco menos de lo que le dijimos, nunca más. Nadie se siente engañado.
+Si te preguntan: "Tu banco hace la conversión automática; el cargo es de unos $185 pesos, puede variar un par de pesos según el tipo de cambio del día."
+Revisa el tipo de cambio cada mes; si el dólar sube de $18.50, ajusta el precio a $190.
+
+
+==================================================
+NOMBRE DE VENTA (nuevo)
+==================================================
+
+Nombre comercial: MÉTODO 4x4: COMPRA, VENDE Y COBRA
+Subtítulo: El curso de Sam González para que tu negocio deje de perder dinero
+
+Por qué: "Desbloquea el Secreto del Emprendimiento" no dice qué problema resuelve. "Compra, Vende y Cobra" dice exactamente lo que enseña el curso (compras, ventas y ventas a crédito) y conecta con el dolor que mejor te ha funcionado en anuncios (el dinero que se pierde).
+
+IMPORTANTE: en la plataforma el curso se sigue llamando "Desbloquea el Secreto del Emprendimiento". Por eso en el texto completo y en el paso a paso mencionamos los dos nombres, para que nadie se confunda al entrar.
+
+Otras opciones de nombre (por si Sam prefiere otra):
+- "Negocio con Tracción 4x4: deja de trabajar a ciegas"
+- "Las 5 Llaves del Negocio Rentable"
+- "Método 4x4: de la idea a tus primeras ventas" (más para quien todavía no emprende)
+
+
+==================================================
+1) IMAGEN – PROMPT DEL MOCKUP (Gemini / Nano Banana)
+==================================================
+
+Adjunta: la foto de Sam de la oficina (brazos cruzados) como referencia de su rostro.
+
+PROMPT:
+
+Crea una imagen publicitaria cuadrada 1:1 (1080x1080), estilo mockup de producto digital premium, hiperrealista, como la presentación de un paquete de curso en línea.
+
+ESCENA: escritorio de madera oscura con luz cálida y fondo azul marino #0B1660 desenfocado con destellos turquesa #00B3AD.
+
+ELEMENTOS (todo debe verse como un producto físico y tangible):
+- Al centro, una laptop abierta. En la pantalla, una plataforma de cursos con la portada del curso: fondo azul marino, el título "MÉTODO 4x4" en letras blancas grandes, debajo "COMPRA, VENDE Y COBRA" en turquesa, y a la derecha de la portada el hombre de la foto adjunta (Sam González) sonriendo con brazos cruzados. Conserva su rostro exacto.
+- A la derecha de la laptop, un celular de pie mostrando la misma portada del curso.
+- Alrededor de la laptop, 5 cajas de producto 3D tipo "caja de software", azul marino con detalles turquesa, cada una con su etiqueta en blanco:
+  1. "CICLO COMERCIAL"
+  2. "COMPRAS INTELIGENTES"
+  3. "PROPUESTA DE VALOR"
+  4. "VENTAS QUE CIERRAN"
+  5. "CRÉDITO SIN RIESGO"
+- Al frente, una caja de regalo dorada con moño, con la etiqueta "BONO: MASTERCLASS NEGOCIOS INTELIGENTES".
+
+TEXTOS DE LA IMAGEN (exactos, con acentos):
+- Arriba, título grande en blanco: "TODO LO QUE INCLUYE TU CURSO"
+- Abajo, una barra con 3 iconos y texto blanco: "6 LECCIONES EN VIDEO" · "ACCESO DE POR VIDA" · "100% EN LÍNEA"
+- Sello circular amarillo en una esquina, texto azul marino: "PAGO ÚNICO $185 MXN"
+
+REGLAS: ningún otro texto, ningún logo. Las etiquetas de las cajas deben ser legibles. Estilo limpio, premium y cálido. Paleta: azul marino, turquesa, blanco y dorado.
+
+Corrección si sale mal un texto: "Corrige solo la etiqueta '[texto mal]' para que diga exactamente '[texto correcto]'. No cambies nada más."
+
+
+==================================================
+2) TEXTO CORTO (va justo debajo de la imagen)
+==================================================
+
+¡Hola! 👋 Soy Ana, de *My 4x4 Academy* 🚙
+
+Esto es todo lo que vas a tener en tus manos con el *MÉTODO 4x4: COMPRA, VENDE Y COBRA*, el curso de Sam González para que tu negocio deje de perder dinero 💰
+
+Escucha este audio de 40 segundos 👇
+
+
+==================================================
+3) GUION DEL AUDIO (voz en off, 40–50 segundos)
+==================================================
+
+Tono: cálido, cercano, como alguien que te habla de frente. Ritmo tranquilo, con pausas en los "…".
+
+"¡Hola! Qué gusto que escribas.
+
+Déjame preguntarte algo… ¿sientes que trabajas mucho en tu negocio… pero el dinero no se ve? ¿O tienes una idea que llevas tiempo guardando y no sabes por dónde empezar?
+
+No es falta de ganas. Es que nadie te enseñó las bases: cómo comprar bien, cómo hacer que te elijan a ti y cómo vender… sin que te dejen de pagar.
+
+Eso es justo lo que enseña Sam González, con más de treinta años formando emprendedores, en el Método 4x4: Compra, Vende y Cobra.
+
+Son lecciones cortas en video, las ves desde tu celular, a tu ritmo, y son tuyas para siempre. Además te llevas de regalo la masterclass Negocios Inteligentes.
+
+Y lo mejor: es un solo pago de ciento ochenta y cinco pesos. Menos de lo que cuesta una pizza.
+
+Si quieres empezar hoy, respóndeme con la palabra 'LO QUIERO'… y te mando cómo inscribirte en menos de tres minutos."
+
+(Aprox. 110 palabras = 45 segundos.)
+
+
+==================================================
+4) TEXTO COMPLETO (todo lo que incluye)
+==================================================
+
+🔑 *Esto es lo que incluye tu curso:*
+
+📍 *Ciclo comercial:* entiende cómo funciona de verdad un negocio y dónde se gana (o se pierde) el dinero
+🛒 *Compras inteligentes:* compra bien y cuida tu margen desde el inicio
+⭐ *Propuesta de valor:* logra que te elijan a ti y no a la competencia
+💬 *Ventas que cierran:* atrae clientes y vende con estrategia, no solo bajando precios
+🤝 *Crédito sin riesgo:* vende a crédito sin que te dejen de pagar
+
+🎁 *BONO:* Masterclass *"Negocios Inteligentes"* de Sam González
+
+📱 Lecciones en video · 100% en línea, a tu ritmo
+♾️ *Acceso de por vida:* lo ves cuantas veces quieras
+
+👤 Lo enseña *Sam González*, fundador de Fundación E y My 4x4 Academy, con más de 30 años formando emprendedores y autor de *"4x4 Emprendedores Todo Terreno"*.
+
+🔥 *Todo por un pago único de $185 pesos* ✅
+🔒 Pago seguro con tarjeta de débito, crédito o PayPal, dentro de la plataforma oficial.
+
+(En la plataforma lo vas a encontrar como *"Desbloquea el Secreto del Emprendimiento"*.)
+
+¿Empezamos hoy? Respóndeme *LO QUIERO* y te envío el link para inscribirte 👇
+
+
+==================================================
+OPINIÓN SOBRE LA ESTRATEGIA DE 4 FORMATOS
+==================================================
+
+Sí funciona y es mejor que lo que tenemos:
+- La imagen hace que el curso se vea como un PRODUCTO, no como "6 videos".
+- El audio genera cercanía y confianza (se siente que hay una persona detrás) y deja escuchar en lugar de leer.
+- El texto completo queda como referencia para quien sí lee.
+- Todo termina en UNA sola acción fácil: responder "LO QUIERO".
+
+Cuidados:
+- El audio debe empezar con el dolor en los primeros 5 segundos; si arranca con presentaciones, nadie lo termina.
+- No mandes los 4 mensajes de golpe: 3 a 5 segundos entre cada uno.
+- Mide durante 3–4 días el % de personas que responden. Si sigue bajo, probamos la versión con la pregunta A/B/C (está en el plan de mejora) como variante.

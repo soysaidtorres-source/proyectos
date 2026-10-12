@@ -60,7 +60,7 @@ REGLA: solo anunciamos lo que exista. Los puntos 2, 3 y 4 hay que crearlos ANTES
 
 ### Precio y garantía
 
-- Comunicar en PESOS: "$181 pesos" (y "$10 USD" solo en letra chica).
+- Comunicar en PESOS: "$185 pesos" (y "$10 USD" solo en letra chica).
 - Anclaje honesto: comparar con cosas reales ("menos que una pizza", "menos de lo que pierdes con UN cliente que no te paga"). NO usar "antes $397" a menos que ese precio haya existido de verdad.
 - Garantía: pedirle a Sam una garantía de 7 días ("si no te sirve, te devolvemos tu dinero"). Es el elemento que más baja el miedo a pagar en low ticket. Solo se anuncia si Sam la aprueba y la plataforma la permite.
 
@@ -127,7 +127,7 @@ Por eso Sam González, con más de 30 años formando emprendedores, creó *Desbl
 🎁 Y te llevas de regalo la *Masterclass "Negocios Inteligentes"*
 ♾️ Acceso de por vida · 100% en línea
 
-🔥 Todo por solo *$181 pesos* ($10 USD), pago único.
+🔥 Todo por solo *$185 pesos* ($10 USD), pago único.
 
 ¿Te gustaría empezar hoy? Respóndeme *LO QUIERO* y te mando cómo inscribirte 👇
 
@@ -146,7 +146,7 @@ En *Desbloquea el Secreto del Emprendimiento*, Sam González (30+ años formando
 🎁 De regalo: *Masterclass "Negocios Inteligentes"*
 ♾️ Acceso de por vida
 
-🔥 Solo *$181 pesos* ($10 USD). Menos de lo que se te escapa en una semana.
+🔥 Solo *$185 pesos* ($10 USD). Menos de lo que se te escapa en una semana.
 
 ¿Le damos? Respóndeme *LO QUIERO* y te mando el link 👇
 
@@ -163,7 +163,7 @@ La buena noticia: tiene solución. En *Desbloquea el Secreto del Emprendimiento*
 🎁 De regalo: *Masterclass "Negocios Inteligentes"*
 ♾️ Acceso de por vida
 
-🔥 Solo *$181 pesos* ($10 USD), menos de lo que pierdes con UN cliente que no te paga.
+🔥 Solo *$185 pesos* ($10 USD), menos de lo que pierdes con UN cliente que no te paga.
 
 ¿Quieres empezar hoy? Respóndeme *LO QUIERO* 👇
 
@@ -176,7 +176,7 @@ La buena noticia: tiene solución. En *Desbloquea el Secreto del Emprendimiento*
 ## 5. AJUSTE A LOS ANUNCIOS (congruencia)
 
 - Si el anuncio dice "te decimos cómo evitarlo", la bienvenida debe EMPEZAR a cumplirlo (por eso las respuestas A/B/C dan una mini-explicación antes de vender).
-- Agrega "curso" y el precio en pesos en el texto del anuncio, para que escriban personas dispuestas a pagar $181, no solo curiosos. Tendrás un costo por mensaje un poco más alto, pero más ventas. Lo que importa es el costo por VENTA.
+- Agrega "curso" y el precio en pesos en el texto del anuncio, para que escriban personas dispuestas a pagar $185, no solo curiosos. Tendrás un costo por mensaje un poco más alto, pero más ventas. Lo que importa es el costo por VENTA.
 - Mensaje prellenado: "Hola, quiero más información del curso 👋" (está bien).
 
 ## 6. 6 NUEVOS PROMPTS DE ANUNCIOS (estilo de tus ejemplos ganadores)
@@ -196,7 +196,7 @@ TEXTOS (exactos, con acentos):
 - Subtítulo en turquesa: "Aprende a comprar, vender y cobrar para que tu negocio deje de perder dinero"
 - Fila de 3 iconos circulares con texto blanco: "6 TEMAS EN VIDEO" · "CUADERNO DE TRABAJO" · "ACCESO DE POR VIDA"
 - Línea: "Curso + cuaderno + 2 herramientas + masterclass de regalo"
-- Sello grande rojo y amarillo tipo estallido: "SOLO $181 PESOS"
+- Sello grande rojo y amarillo tipo estallido: "SOLO $185 PESOS"
 - Botón inferior verde WhatsApp con ícono y brillo: "PÍDELO POR WHATSAPP" y debajo pequeño "Recíbelo al instante ⚡"
 REGLAS: ningún otro texto. Alto contraste. Legible en celular.
 
@@ -210,7 +210,7 @@ TEXTOS:
 - Segunda línea en dorado: "Es nunca intentarlo."
 - Debajo de la escena, en blanco: "Aprende a arrancar tu negocio paso a paso con Sam González, 30+ años formando emprendedores"
 - Línea: "Curso en video + Masterclass de regalo · Acceso de por vida"
-- Precio en dorado: "$181 pesos · Pago único"
+- Precio en dorado: "$185 pesos · Pago único"
 - Botón dorado redondeado con flecha: "Pídelo por WhatsApp"
 REGLAS: ningún otro texto, ningún logo.
 
@@ -222,7 +222,7 @@ TEXTOS:
 - Titular arriba, blanco con sombra: "¿CUÁNTO DINERO TIENES EN LA CALLE?"
 - Subtítulo amarillo: "Deja de fiar sin control"
 - 3 viñetas con palomita verde: "Vende a crédito sin que te dejen de pagar" · "Sabe a quién sí darle crédito" · "Formato de control incluido"
-- Sello rojo: "$181 PESOS"
+- Sello rojo: "$185 PESOS"
 - Botón verde WhatsApp: "PÍDELO POR WHATSAPP"
 REGLAS: ningún otro texto, ningún logo.
 
@@ -233,7 +233,7 @@ ESCENA: escritorio moderno de noche con luz cálida. En el centro, una tablet gr
 TEXTOS:
 - Titular arriba, blanco gigante: "TU NEGOCIO, ORGANIZADO"
 - Subtítulo: "Todo lo que necesitas para comprar, vender y cobrar mejor, en un solo kit"
-- Sello rojo grande a la derecha: "TODO POR SOLO $181"
+- Sello rojo grande a la derecha: "TODO POR SOLO $185"
 - Columna de 3 palomitas: "PAGO ÚNICO" · "ACCESO DE POR VIDA" · "100% EN LÍNEA"
 - Barra inferior con 3 bloques: "6 TEMAS EN VIDEO" · "CUADERNO DE TRABAJO" · "MASTERCLASS DE REGALO"
 - Botón verde WhatsApp: "PÍDELO POR WHATSAPP · Recíbelo al instante ⚡"
@@ -249,7 +249,7 @@ TEXTOS:
 - Segunda línea en amarillo: "…O TÚ LE PAGAS A TU NEGOCIO?"
 - Texto: "En 30+ años formando emprendedores, Sam ha visto que el problema casi nunca es vender poco: es no saber dónde se va el dinero."
 - Línea: "Curso en video · Acceso de por vida · Masterclass de regalo"
-- Sello: "$181 PESOS"
+- Sello: "$185 PESOS"
 - Botón verde WhatsApp: "ESCRÍBENOS Y TE DECIMOS CÓMO"
 REGLAS: ningún otro texto, ningún logo.
 
@@ -262,7 +262,7 @@ TEXTOS:
 - Subtítulo: "Arranca tu negocio con orden, sin arriesgar tus ahorros"
 - 3 iconos a la derecha: "Entiende cómo funciona un negocio" · "Define qué te hace diferente" · "Consigue tus primeras ventas"
 - Fila inferior: "6 temas en video" · "Cuaderno de trabajo" · "Acceso de por vida"
-- Sello rojo: "SOLO $181 PESOS"
+- Sello rojo: "SOLO $185 PESOS"
 - Botón verde WhatsApp: "PÍDELO POR WHATSAPP"
 REGLAS: ningún otro texto, ningún logo.
 
@@ -271,7 +271,7 @@ REGLAS: ningún otro texto, ningún logo.
 HOY
 1. Hacer una compra de prueba con tarjeta de débito mexicana y con PayPal. Si falla, ese es el problema #1.
 2. Cambiar la plantilla_bienvenida por la nueva (pregunta A/B/C) y pegar en el entrenamiento las 3 respuestas.
-3. Cambiar los anuncios activos para que digan "curso" y "$181 pesos".
+3. Cambiar los anuncios activos para que digan "curso" y "$185 pesos".
 
 ESTA SEMANA
 4. Crear el Kit: cuaderno de trabajo "Mi Negocio 4x4", calculadora de ganancia y formato de control de crédito (te los puedo redactar).

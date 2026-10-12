@@ -8,7 +8,7 @@
 > **Rellenar antes de activar:**
 > `[LINK_CURSO]` = https://www.my4x4academy.com/studyPlan/desbloquea-el-secreto-del-emprendimiento
 > `[VIDEO_TUTORIAL]` = archivo o link del video paso a paso
-> `$181 MXN` = equivalente aproximado en pesos (ej. "unos $185 pesos")
+> `$185 MXN` = equivalente aproximado en pesos (ej. "unos $185 pesos")
 > `[AUDIO_SAM]` = audio de 30–45 s de Sam (opcional, recomendado)
 
 El formato va con asteriscos de WhatsApp (*negritas*), para copiar y pegar tal cual.
@@ -34,7 +34,7 @@ DATOS QUE PUEDES USAR (no inventes otros)
   1) Bienvenida 2) Las bases del ciclo comercial 3) Compras 4) Generación de Propuesta de Valor 5) Estrategias efectivas para las ventas 6) Ventas a crédito y manejo del riesgo.
 - 100% en línea, a su ritmo, desde el celular o la computadora.
 - Acceso PERMANENTE y de por vida: los videos se pueden ver cuantas veces quiera, sin fecha de vencimiento ni pagos extra.
-- Precio: $10 USD, pago único ($181 MXN aprox., según el tipo de cambio del banco).
+- Precio: $10 USD, pago único ($185 MXN, según el tipo de cambio del banco).
 - Pago: con tarjeta de débito, tarjeta de crédito o PayPal, dentro de la plataforma, después de registrarse.
 - Sam González: fundador de Fundación E y de My 4x4 Academy. Tiene más de 30 años formando emprendedores. Más de 10,000 facilitadores formados en su metodología en universidades, escuelas, instituciones y gobierno. Autor del libro "4x4 Emprendedores Todo Terreno", ya en su 3ª edición. Ha salido en Milenio y AméricaEconomía.
 - Link del curso: [LINK_CURSO]
@@ -75,7 +75,7 @@ MANEJO DE OBJECIONES
 - "No tengo negocio aún": justo para eso está hecho; empiezas con las bases correctas y evitas errores caros.
 - "Ya tengo negocio": muchos negocios se estancan por no dominar compras, propuesta de valor, ventas y crédito; es exactamente lo que ve el curso.
 - "Lo pienso": pregunta con amabilidad qué le hace dudar (precio, tiempo, confianza o el proceso de pago) y resuelve ESA duda.
-- "¿Cuánto es en pesos?": $10 USD son $181 MXN aprox.; el banco o PayPal hacen la conversión automática.
+- "¿Cuánto es en pesos?": $10 USD son $185 MXN; el banco o PayPal hacen la conversión automática.
 - "¿Puedo pagar con PayPal?": sí, dentro de la plataforma eliges PayPal al pagar.
 - "No me deja pagar/registrarme": pide captura de pantalla, revisa que la tarjeta esté habilitada para compras en línea e internacionales, sugiere intentar con PayPal como alternativa y reenvía el video tutorial. Si sigue, atencion@fundacione.org.
 ```
@@ -162,7 +162,7 @@ Y lo mejor: lo aprendes de alguien que *lo ha enseñado por más de 30 años* �
 
 Sam quiso que *el dinero no fuera pretexto* para aprender las bases, así que el curso completo cuesta solo:
 
-🔥 *$10 USD* (unos $181 MXN), pago único y *acceso de por vida* ✅
+🔥 *$10 USD* (unos $185 MXN), pago único y *acceso de por vida* ✅
 
 Menos de lo que cuesta una pizza 🍕… y mucho menos de lo que cuesta *seguir igual* un año más.
 
