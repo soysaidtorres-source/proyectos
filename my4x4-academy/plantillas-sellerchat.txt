@@ -176,8 +176,40 @@ TEXTO:
 ==================================================
 7. plantilla_remarketing_1
 ==================================================
-CUÁNDO SE ENVÍA: 2 horas después de enviado el link, si NO tiene la etiqueta CLIENTE.
-OBJETIVO: rescatar a quien se atoró en el registro o el pago.
+CUÁNDO SE ENVÍA: 1 a 2 horas después de la bienvenida, si la persona NO respondió "LO QUIERO" (sin etiqueta CHECKOUT_ENVIADO ni CLIENTE).
+OBJETIVO: convencer a quien vio la oferta pero no decidió: quitar el miedo a pagar, mostrar lo que se lleva por $10 USD y pedir el "LO QUIERO".
+ADJUNTO: opcional, una imagen del curso o de Sam.
+
+TEXTO:
+
+Hola de nuevo 👋 Soy Ana, de *My 4x4 Academy*.
+
+Vi que te interesó el curso *Desbloquea el Secreto del Emprendimiento* y quiero contarte por qué es de las decisiones más fáciles que puedes tomar hoy 👇
+
+📘 *Lo que te llevas:*
+✅ Las bases para entender cómo funciona un negocio y dónde se gana o se pierde el dinero
+✅ Cómo comprar bien, crear tu propuesta de valor y vender con estrategia
+✅ Cómo vender a crédito sin que te dejen de pagar
+♾️ Acceso de por vida: lo ves cuantas veces quieras
+🎁 De regalo: la Masterclass *"Negocios Inteligentes"* de Sam González
+
+💰 *Y todo por solo $10 USD* ($181 MXN aprox.), menos de lo que cuesta una pizza 🍕
+
+🔒 *Tu pago es seguro:*
+• Lo haces dentro de la plataforma oficial de My 4x4 Academy
+• Puedes pagar con tarjeta de débito, crédito o *PayPal*
+• Nunca te pediremos datos de tu tarjeta por WhatsApp
+
+Lo enseña *Sam González*, con más de 30 años formando emprendedores y autor de *"4x4 Emprendedores Todo Terreno"*. Por $10 USD el riesgo es mínimo… lo caro es seguir un año más igual 😉
+
+¿Le damos? Respóndeme *LO QUIERO* y te envío el link para inscribirte en 2 minutos 👇
+
+
+==================================================
+7B. plantilla_rescate_pago (opcional)
+==================================================
+CUÁNDO SE ENVÍA: 1 a 2 horas después de enviar el link (tiene etiqueta CHECKOUT_ENVIADO), si NO tiene la etiqueta CLIENTE.
+OBJETIVO: rescatar a quien SÍ dijo "LO QUIERO" pero se atoró en el registro o el pago.
 ADJUNTO: ninguno.
 
 TEXTO:
@@ -280,7 +312,8 @@ Primer mensaje del contacto        -> plantilla_bienvenida
 +2 minutos después del link        -> plantilla_video_inscripcion (con el video adjunto)
 Envía captura / "ya pagué"         -> plantilla_confirmacion_comprobante
 Pago verificado (tú)               -> etiqueta CLIENTE + plantilla_entregable
-Sin compra +2 horas                -> plantilla_remarketing_1
+No dijo "LO QUIERO" +1-2 horas     -> plantilla_remarketing_1
+Recibió link y no pagó +1-2 horas  -> plantilla_rescate_pago (opcional)
 Sin compra +20-22 horas            -> plantilla_remarketing_2
 Sin compra +48 horas               -> plantilla_remarketing_3
 Sin compra +4-5 días               -> plantilla_remarketing_4 (último)
