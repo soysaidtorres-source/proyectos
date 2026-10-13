@@ -1,0 +1,169 @@
+PROMPTS ANUNCIOS CON AVATAR (sin foto de Sam) – Gemini (Nano Banana)
+My 4x4 Academy · MÉTODO 4x4: COMPRA, VENDE Y COBRA · $185 pesos
+
+==================================================
+POR QUÉ PROBARLOS
+==================================================
+
+- Con Sam, el anuncio dice "un experto te enseña". Con un avatar, dice "esa persona soy yo". El dueño de negocio se reconoce en la escena y se detiene.
+- Gemini genera mejor a una persona nueva que a una persona real, así que salen más rápido y sin pelear con la cara.
+- Lo que se pierde es autoridad. Por eso cada anuncio nombra a Sam en una línea pequeña, y la bienvenida ya trae su audio personal.
+- Mismo ángulo de "dinero que se pierde" que la bienvenida, para que lo que promete el anuncio se cumpla en WhatsApp.
+
+Reglas de honestidad:
+- El avatar es una persona ilustrativa: NO se presenta como alumno, testimonio ni como Sam.
+- Nada de frases en primera persona tipo testimonio ("Yo recuperé $5,000"), ni resultados prometidos.
+
+==================================================
+CÓMO USARLOS
+==================================================
+
+1. Chat NUEVO en Gemini. Pega primero el "CONTEXTO v2" del documento de prompts v2, y después esta línea:
+   "En estos anuncios NO uses a Sam González. El modelo humano es un avatar: una persona mexicana común, realista, que NO se parece a Sam ni a ninguna persona famosa."
+2. Adjunta:
+   IMAGEN 1 = tu anuncio ganador (solo referencia de estilo)
+   IMAGEN 2 = mockup-bienvenida-metodo-4x4.png (solo en el prompt A4)
+3. Si un avatar te gusta, en el mismo chat pide: "Usa a esta misma persona en los siguientes anuncios", así tienes una "cara de marca" constante.
+4. Prueba los avatares EN EL MISMO conjunto que los de Sam y compara ventas, no solo costo por mensaje.
+
+
+==================================================
+PROMPT A1 – DUEÑA DE TIENDITA · "EL ERROR #1 QUE QUIEBRA NEGOCIOS"
+==================================================
+Para qué: el espejo del anuncio ganador, ahora con la clienta como protagonista.
+
+Te adjunto una imagen. IMAGEN 1 = SOLO REFERENCIA DE ESTILO (pastilla arriba, titular 3D gigante, cinta, sello de precio y botón abajo). No copies su foto ni a la persona.
+
+CREA: un anuncio vertical 4:5, final y listo para publicar, con tipografía integrada. SIN logo.
+
+MODELO (avatar): mujer mexicana de unos 42 años, morena clara, cabello recogido, mandil sencillo, aspecto real y cercano (no modelo de revista). NO debe parecerse a ninguna persona famosa.
+
+ESCENA (fotografía hiperrealista, estilo documental): ella detrás del mostrador de su tiendita de abarrotes, sosteniendo con las dos manos una libreta vieja de "fiados" abierta, llena de nombres y cantidades tachadas (letras borrosas, NO legibles). Mira a la cámara con preocupación contenida, la frente un poco fruncida. Anaqueles con productos genéricos SIN marcas. Luz cálida de tarde. Su cara ocupa al menos el 30% del anuncio. Degradado azul marino #0B1660 semitransparente arriba.
+
+TEXTOS (EXACTOS, con acentos):
+- Pastilla pequeña arriba, blanca con texto azul marino #0B1660: "CURSO ONLINE · MY 4X4 ACADEMY"
+- Pre-titular, blanco con extrusión 3D azul marino: "⚠️ EL ERROR #1 QUE"
+- Titular gigante en 2 líneas, blanco ultra grueso con extrusión 3D azul marino profunda: "QUIEBRA NEGOCIOS"
+- Cinta con degradado turquesa #00B3AD a azul #0068A0, texto blanco condensado: "FIAR SIN CONTROL Y VENDER SIN ESTRATEGIA"
+- Línea pequeña blanca sobre la cinta o debajo: "Aprende a evitarlo con Sam González · 30+ años formando emprendedores"
+- Sello circular amarillo #FFC629 con borde blanco, girado: "SOLO" / "$185 PESOS"
+- Botón inferior verde WhatsApp #25D366 con ícono y brillo, texto negro en negrita: "PÍDELO POR WHATSAPP"
+
+REGLAS: ningún otro texto, ningún logo. Contraste extremo, legible en celular en 1 segundo.
+
+Título Meta: El error que quiebra negocios ⚠️
+Descripción Meta: Curso online · $185 pesos
+
+
+==================================================
+PROMPT A2 – DUEÑO DE TAQUERÍA · "VENDER NO ES LO MISMO QUE COBRAR"
+==================================================
+Para qué: habla al hombre con negocio de comida, que vende mucho y no ve el dinero.
+
+Te adjunto una imagen. IMAGEN 1 = SOLO REFERENCIA DE ESTILO. No copies su foto ni a la persona.
+
+CREA: un anuncio vertical 4:5, final y listo para publicar, con tipografía integrada. SIN logo.
+
+MODELO (avatar): hombre mexicano de unos 48 años, complexión robusta, bigote, gorra y playera sencilla, aspecto real y trabajador. NO debe parecerse a ninguna persona famosa.
+
+ESCENA (fotografía hiperrealista, de noche): él en su puesto de tacos al cierre del día, con el trompo y el comal apagándose al fondo (sin marcas ni letreros legibles). Abre hacia la cámara una caja de dinero metálica CASI VACÍA (solo unas monedas) y mira a la cámara con cara de cansancio y duda, como preguntando "¿dónde quedó?". En el mostrador, una libreta de cuentas y un montón de comandas. Luz cálida de foco colgante. Su cara ocupa al menos el 30% del anuncio. Degradado azul marino semitransparente arriba.
+
+TEXTOS (EXACTOS):
+- Pastilla pequeña arriba, blanca con texto azul marino: "CURSO ONLINE · MY 4X4 ACADEMY"
+- Pre-titular, blanco con extrusión 3D: "VENDER NO ES"
+- Titular gigante en 2 líneas, blanco ultra grueso con extrusión 3D azul marino profunda: "LO MISMO QUE COBRAR"
+- Cinta con degradado turquesa a azul, texto blanco condensado: "DESCUBRE DÓNDE SE VA EL DINERO DE TU NEGOCIO"
+- Línea pequeña blanca: "Con Sam González · 30+ años formando emprendedores"
+- Sello circular amarillo #FFC629 con borde blanco, girado: "SOLO" / "$185 PESOS"
+- Botón inferior verde WhatsApp #25D366 con ícono y brillo, texto negro en negrita en 2 líneas: "ESCRÍBENOS Y TE DECIMOS DÓNDE SE VA TU DINERO"
+
+REGLAS: ningún otro texto, ningún logo, ningún letrero legible en el puesto.
+
+Título Meta: Vender no es lo mismo que cobrar ⚠️
+Descripción Meta: Curso de Sam · $185 pesos
+
+
+==================================================
+PROMPT A3 – VENDEDORA POR CATÁLOGO · "3 FRASES QUE QUIEBRAN TU NEGOCIO"
+==================================================
+Para qué: habla a quien vende por catálogo o por WhatsApp y cobra en abonos.
+
+Te adjunto una imagen. IMAGEN 1 = SOLO REFERENCIA DE ESTILO. No copies su foto ni a la persona.
+
+CREA: un anuncio vertical 4:5, final y listo para publicar, con tipografía integrada. SIN logo.
+
+MODELO (avatar): mujer mexicana de unos 33 años, cabello suelto, blusa casual, aspecto real. NO debe parecerse a ninguna persona famosa.
+
+ESCENA (fotografía hiperrealista): ella sentada en la sala de su casa, rodeada de bolsas y cajas de pedidos genéricos (sin marcas), mirando su celular con cara de resignación y una mano en la frente. Del celular salen 3 globos de chat estilo WhatsApp, grandes y legibles, flotando a su alrededor. Luz natural de tarde. Su cara ocupa al menos el 25% del anuncio y los globos no la tapan.
+
+TEXTOS (EXACTOS):
+- Pastilla pequeña arriba, blanca con texto azul marino: "CURSO ONLINE · MY 4X4 ACADEMY"
+- Titular gigante en 2 líneas, blanco ultra grueso con extrusión 3D azul marino: "3 FRASES QUE" / "QUIEBRAN TU NEGOCIO"
+- Globo 1 (texto negro): "Al ratito te pago 🙏"
+- Globo 2: "La otra semana te deposito"
+- Globo 3: "Apúntamelo, ¿sí?"
+- Cinta con degradado turquesa a azul, texto blanco condensado: "APRENDE A VENDER A CRÉDITO SIN QUE TE DEJEN DE PAGAR"
+- Línea pequeña blanca: "Con Sam González · 30+ años formando emprendedores"
+- Sello circular amarillo #FFC629 con borde blanco, girado: "SOLO" / "$185 PESOS"
+- Botón inferior verde WhatsApp #25D366 con ícono y brillo, texto negro en negrita: "PÍDELO POR WHATSAPP"
+
+REGLAS: ningún otro texto, ningún logo, ninguna marca en las cajas.
+
+Título Meta: 3 frases que quiebran tu negocio 🚫
+Descripción Meta: Curso online · $185 pesos
+
+
+==================================================
+PROMPT A4 – EMPRENDEDORA + PRODUCTO · "QUE TU NEGOCIO DEJE DE PERDER DINERO"
+==================================================
+Para qué: estilo de tus ejemplos (producto visible + precio grande), con la clienta tomando el curso.
+
+Te adjunto 2 imágenes.
+IMAGEN 1 = SOLO REFERENCIA DE ESTILO.
+IMAGEN 2 = REFERENCIA DEL PRODUCTO: reproduce la laptop con la portada "MÉTODO 4x4 – COMPRA · VENDE Y COBRA", las 5 cajas azul marino numeradas 01 a 05 ("CICLO COMERCIAL", "COMPRAS INTELIGENTES", "PROPUESTA DE VALOR", "VENTAS QUE CIERRAN", "CRÉDITO SIN RIESGO") y la caja de regalo amarilla "BONO · MASTERCLASS EMPRENDE EN LA ERA DE LA IA".
+
+CREA: un anuncio vertical 4:5, final y listo para publicar, con tipografía integrada. SIN logo.
+
+MODELO (avatar): la misma mujer del prompt A1 (si ya la generaste) o una mujer mexicana de unos 40 años, aspecto real. NO debe parecerse a ninguna persona famosa.
+
+ESCENA (fotografía hiperrealista, cálida): ella en la trastienda de su negocio, de noche, sentada frente a la laptop del producto, tomando notas en una libreta con una sonrisa tranquila y concentrada (enfocada, no eufórica). Frente a la laptop, sobre la mesa, las 5 cajas y la caja de regalo de la IMAGEN 2, como en un escaparate. Fondo con luz azul marino y rayos de luz suaves.
+
+TEXTOS (EXACTOS):
+- Pastilla pequeña arriba, blanca con texto azul marino: "CURSO ONLINE · MY 4X4 ACADEMY"
+- Titular gigante, blanco ultra grueso con extrusión 3D azul marino: "QUE TU NEGOCIO DEJE DE PERDER DINERO"
+- Subtítulo turquesa #00B3AD: "Aprende a comprar, vender y cobrar con Sam González"
+- Fila de 3 íconos circulares turquesa con texto blanco: "6 LECCIONES EN VIDEO" · "ACCESO DE POR VIDA" · "MASTERCLASS DE REGALO"
+- Sello grande tipo estallido amarillo #FFC629 con borde rojo, texto azul marino: "PAGO ÚNICO" / "$185 PESOS"
+- Botón inferior verde WhatsApp #25D366 con ícono y brillo, texto negro en negrita: "PÍDELO POR WHATSAPP"
+
+REGLAS: solo los textos indicados y los del producto (escritos correctamente). Ningún logo. Legible en celular.
+
+Título Meta: Curso Método 4x4 · Solo $185 pesos
+Descripción Meta: Acceso de por vida + bono
+
+
+==================================================
+CORRECCIONES RÁPIDAS
+==================================================
+
+Si el avatar se ve "de revista" o falso:
+"Haz que la persona se vea como un dueño de negocio real de México: piel con textura natural, ropa sencilla, sin maquillaje de estudio, expresión natural. No cambies los textos."
+
+Si quieres repetir a la misma persona:
+"Usa exactamente a la misma persona del anuncio anterior (mismo rostro, edad, peinado y tono de piel) en esta nueva escena."
+
+Si hay letras mal escritas o textos inventados:
+"Corrige solo los textos: deben decir EXACTAMENTE lo que te indiqué, con acentos. Elimina cualquier otro texto. No cambies la escena."
+
+Versión 9:16:
+"Haz este mismo anuncio en 9:16. Deja libre el 14% de arriba y el 20% de abajo: titular debajo de esa franja y botón por encima de la franja inferior."
+
+
+==================================================
+CÓMO PROBARLOS
+==================================================
+
+- Lanza A1 junto al ganador de Sam y al PROMPT 1 v2 (Sam): misma idea, distinto protagonista. Es la prueba más limpia de "Sam vs. avatar".
+- Después A3 (catálogo) y A2 (comida): amplían el público a otros tipos de negocio.
+- A4 sirve también para remarketing.
+- Decide por VENTAS (etiqueta CLIENTE) a los 3–4 días. Si el avatar trae mensajes más baratos pero menos ventas, la autoridad de Sam está pesando: quédate con Sam y usa avatares solo para abrir públicos nuevos.
