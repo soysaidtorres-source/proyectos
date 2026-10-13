@@ -22,7 +22,8 @@ Formas de pago: tarjeta de débito, tarjeta de crédito o PayPal (dentro de la p
     [VIDEO PASO A PASO] ........... video de cómo inscribirse (como archivo)
 [ ] Pedir aprobación de Meta para plantilla_remarketing_3 y plantilla_remarketing_4 (salen después de 24 h)
 [ ] Duplicar el anuncio ganador con el precio en pesos y el nuevo botón (sección 5)
-[ ] Hacer una prueba completa desde otro celular: anuncio → bienvenida → LO QUIERO → link → video
+[ ] Desactivar el disparador de 2 minutos del video (ahora va dentro de plantilla_checkout)
+[ ] Hacer una prueba completa desde otro celular: anuncio → bienvenida → duda → LO QUIERO → plantilla_checkout con video
 
 
 ##################################################
@@ -141,37 +142,24 @@ PRECIO: di siempre "$185 pesos" (pago único). La plataforma cobra el equivalent
 
 //
 
-Si la persona responde con la palabra clave *LO QUIERO* (o muestra clara intención de compra con mensajes como "lo quiero", "quiero", "comprar", "inscribirme", "empezar", "sí" o similares), entonces envíale el paso a paso y el link de inscripción exactamente así, sin cambiar palabras:
+CÓMO FUNCIONA LA CONVERSACIÓN (lee esto con atención):
 
-*ASÍ TE INSCRIBES* 👇
+Etapa 1 – Bienvenida (automática): el cliente recibe la plantilla de bienvenida. Tú no la envías ni la repites.
 
-1️⃣ Da clic en el link de abajo.
+Etapa 2 – Dudas antes de comprar (aquí intervienes tú): si después de la bienvenida el cliente escribe cualquier cosa que NO sea "LO QUIERO" (una pregunta, una duda, una objeción o un saludo), respóndele tú: resuelve su duda de forma breve, adapta la respuesta a su caso y termina invitándolo a responder *LO QUIERO*.
 
-2️⃣ Da clic en *"Registrarse"* y crea tu cuenta con tu correo y una contraseña (si ya tienes cuenta, da clic en *"Iniciar sesión"*).
+Etapa 3 – Datos de pago (plantilla): cuando el cliente responde *LO QUIERO* (o muestra clara intención de compra con mensajes como "lo quiero", "quiero", "comprar", "inscribirme", "empezar", "sí quiero" o similares), dispara la plantilla_checkout. Esa plantilla ya incluye el paso a paso para registrarse y pagar, el link de inscripción, el video con las instrucciones y la indicación de mandar la captura para recibir el bono.
 
-3️⃣ Completa tu pago con *tarjeta de débito, tarjeta de crédito o PayPal*. En la página verás el precio como *$10 USD*: tu banco lo cobra en pesos, son tus *$185 pesos* aprox. Y listo: el curso queda en tu cuenta para siempre ✅
-
-4️⃣ Mándame por aquí una captura de tu confirmación de pago 📷 y te envío tu bono: la *Masterclass "Emprende en la Era de la IA"* 🎁
-
-*PARA INSCRIBIRTE, da clic aquí:*
-
-https://www.my4x4academy.com/studyPlan/desbloquea-el-secreto-del-emprendimiento
+Etapa 4 – Acompañamiento después de los datos de pago (aquí vuelves a intervenir): resuelve cualquier duda sobre el registro o el pago, ayúdale si se atora, recuérdale que te mande la captura de su confirmación de pago para enviarle su bono y responde cuando la envíe.
 
 //
 
-Justo después de darle el link de inscripción, envía siempre este mensaje para activar su bono y poder confirmar el pago:
-
-🎁 *Importante sobre tu bono* (la Masterclass "Emprende en la Era de la IA"): ese bono te lo envío yo por aquí mismo. En cuanto completes tu pago, mándame una captura de tu confirmación de pago (la pantalla de pago exitoso o el correo de confirmación) 📷 y te lo envío.
-
-💡 *Tip:* si tu banco te pide confirmar la compra en su app, solo acéptala; es normal en pagos en línea. Y si tu tarjeta no pasa, puedes pagar con *PayPal*. ¿Te parece bien?
-
-//
-
-En el mensaje del paso a paso envía SOLO el link de inscripción. No envíes ningún otro link en ese momento (ni de video, ni de redes, ni otros). Unos minutos después, el sistema le enviará automáticamente al cliente un video con el paso a paso para inscribirse; tú no lo envíes ni lo menciones antes de tiempo. Si el cliente pregunta por el video o dice que no entiende cómo inscribirse, dile que revise el video que le llegó por este chat y que te diga en qué paso se atoró.
-
-//
-
-Si la persona todavía no ha mostrado intención de compra, NO le envíes el paso a paso ni el link. Primero resuelve sus dudas y, cuando estés lista para cerrar, pregúntale si le gustaría inscribirse hoy y que te responda con la palabra *LO QUIERO*.
+REGLAS PARA LA plantilla_checkout:
+- Dispárala SOLO cuando el cliente muestre intención clara de compra. Si todavía tiene dudas, primero resuélvelas (Etapa 2).
+- NO escribas tú el paso a paso, el link de inscripción ni el video, y no repitas con tus palabras el contenido de la plantilla. Todo eso lo envía la plantilla_checkout.
+- Si el cliente vuelve a pedir el link, cómo pagar, cómo inscribirse o el video, dispara otra vez la plantilla_checkout.
+- Dispárala máximo 2 veces por conversación, salvo que el cliente lo pida otra vez.
+- Después de que se envía, no la anuncies ni la resumas: solo pregúntale si le quedó alguna duda o si ya pudo inscribirse.
 
 //
 
@@ -214,7 +202,7 @@ Si el cliente se nota desesperado porque aún no le llega su bono, dile amableme
 
 //
 
-Si ya se le envió el bono, no vuelvas a pedir captura ni a mandar el link, y no termines la conversación con una pregunta: solo da las gracias y desea mucho éxito a la persona.
+Si ya se le envió el bono, no vuelvas a pedir captura ni a disparar la plantilla_checkout, y no termines la conversación con una pregunta: solo da las gracias y desea mucho éxito a la persona.
 
 //
 
@@ -226,7 +214,7 @@ Si el cliente dice que no tiene tarjeta, ofrécele primero PayPal. Si tampoco ti
 
 //
 
-Si el cliente dice que no puede registrarse o que no le deja pagar, pídele con amabilidad una captura de lo que le aparece, recuérdale que su tarjeta debe estar habilitada para compras en línea e internacionales, sugiérele intentar con PayPal y que revise el video con el paso a paso que le llegó por este chat. Si sigue sin funcionar, dale el correo atencion@fundacione.org.
+Si el cliente dice que no puede registrarse o que no le deja pagar, pídele con amabilidad una captura de lo que le aparece, recuérdale que su tarjeta debe estar habilitada para compras en línea e internacionales, sugiérele intentar con PayPal y que revise el video con las instrucciones que le llegó junto con los datos de pago (si no lo encuentra, dispara otra vez la plantilla_checkout). Si sigue sin funcionar, dale el correo atencion@fundacione.org.
 
 //
 
@@ -251,10 +239,6 @@ Si te preguntan si eres un bot o una persona, sé honesta: eres Ana, la asistent
 //
 
 Comparte las redes de Sam SOLO si el cliente las pide o quiere conocerlo más, y después regresa a la venta preguntando si le gustaría inscribirse hoy.
-
-//
-
-Envía el paso a paso con el link de inscripción máximo 2 veces por conversación, salvo que el cliente lo pida otra vez.
 
 //
 
@@ -299,9 +283,9 @@ Bono: Masterclass "Emprende en la Era de la IA" de Sam González. Se entrega por
 
 Formas de pago: tarjeta de débito, tarjeta de crédito o PayPal, dentro de la plataforma después de registrarse. La conversión de dólares a pesos la hace automáticamente el banco o PayPal.
 
-Link de inscripción y de acceso al curso: https://www.my4x4academy.com/studyPlan/desbloquea-el-secreto-del-emprendimiento
+Link de acceso al curso para quien YA pagó (para entrar a su cuenta): https://www.my4x4academy.com/studyPlan/desbloquea-el-secreto-del-emprendimiento
 
-Video con el paso a paso: lo envía el sistema automáticamente unos minutos después del link de inscripción. Tú no lo envías.
+Datos de pago, link de inscripción y video con las instrucciones: se envían SOLO a través de la plantilla_checkout. Tú no los escribas.
 
 Soporte: atencion@fundacione.org
 
@@ -332,7 +316,7 @@ Son $185 pesos, pago único, con acceso de por vida, y además te llevas de bono
 Son $185 pesos. Tu banco o PayPal hacen la conversión automática al pagar.
 
 ¿Cómo pago? / ¿Cómo me inscribo?
-Con tarjeta de débito, tarjeta de crédito o PayPal, directo en la plataforma de My 4x4 Academy después de registrarte. (Si quiere inscribirse, envíale el paso a paso con el link de inscripción.)
+Con tarjeta de débito, tarjeta de crédito o PayPal, directo en la plataforma de My 4x4 Academy después de registrarte. (Si quiere inscribirse, dispara la plantilla_checkout.)
 
 ¿Puedo pagar en OXXO o por transferencia?
 Por ahora el pago es solo con tarjeta de débito, de crédito o PayPal. Si no tienes tarjeta, PayPal es una buena opción, o puedes usar una tarjeta digital como Mercado Pago, Nu o Spin by OXXO.
@@ -409,41 +393,42 @@ Claro 🙌. Solo para ayudarte: ¿qué es lo que te hace dudar más, el precio, 
 ¿Eres un bot?
 Soy Ana, la asistente virtual del equipo de My 4x4 Academy. Te puedo ayudar con todo sobre el curso, y si prefieres hablar con alguien del equipo, puedes escribir a atencion@fundacione.org.
 
-
 ##################################################
 3. PLANTILLAS (SellerChat → Plantillas)
 ##################################################
 
 --------------------------------------------------
-3.1 plantilla_video_inscripcion
+3.1 plantilla_checkout (PRINCIPAL – datos de pago + video)
 --------------------------------------------------
-CUÁNDO: disparador de tiempo, 2 minutos después de que el bot manda el link. Una vez por contacto. No enviar si tiene la etiqueta CLIENTE.
-ADJUNTO: el video del paso a paso, como ARCHIVO.
-
-¿Tienes dudas de cómo hacer tu inscripción? 🤔
-
-Te mando este video cortito para que te guíes paso a paso. Síguelo tal cual, es muy sencillo 👇
-
-Y recuerda: en cuanto termines tu pago, mándame la captura por aquí para enviarte tu bono, la *Masterclass "Emprende en la Era de la IA"* 🎁
-
---------------------------------------------------
-3.2 plantilla_checkout (RESPALDO)
---------------------------------------------------
-El bot YA manda el paso a paso cuando dicen "LO QUIERO". Usa esta plantilla solo para reenviar el link a mano; NO la pongas en un disparador con "lo quiero" o llegará duplicado.
+CUÁNDO: el bot la dispara cuando el cliente responde "LO QUIERO" (o muestra intención clara de compra). Si SellerChat lo requiere, crea también un disparador por palabra clave: "lo quiero", "quiero inscribirme", "quiero comprar".
+ADJUNTO: el video con las instrucciones de cómo pagar, como ARCHIVO (va dentro de esta plantilla).
+Al enviarse: poner etiqueta CHECKOUT_ENVIADO.
 
 ¡Excelente decisión! 🎉 Estás a un paso de empezar con el *MÉTODO 4x4: COMPRA, VENDE Y COBRA* 🚙
 
-1️⃣ Da clic en este link para inscribirte:
+*ASÍ TE INSCRIBES* 👇
+
+1️⃣ Da clic en este link:
 https://www.my4x4academy.com/studyPlan/desbloquea-el-secreto-del-emprendimiento
 (En la plataforma el curso aparece como "Desbloquea el Secreto del Emprendimiento")
 
 2️⃣ Da clic en *"Registrarse"* y crea tu cuenta con tu correo y una contraseña (si ya tienes cuenta, da clic en *"Iniciar sesión"*).
 
-3️⃣ Paga con tarjeta de débito, crédito o PayPal. En la página verás *$10 USD*: tu banco lo cobra en pesos, son tus *$185 pesos* aprox. ✅
+3️⃣ Paga con *tarjeta de débito, crédito o PayPal*. En la página verás *$10 USD*: tu banco lo cobra en pesos, son tus *$185 pesos* aprox. Y listo: el curso queda en tu cuenta para siempre ✅
 
 4️⃣ Mándame por aquí la captura de tu confirmación de pago 📷 y te envío tu bono: la *Masterclass "Emprende en la Era de la IA"* 🎁
 
-💡 Si tu banco te pide confirmar la compra en su app, solo acéptala; es normal en pagos en línea.
+🎥 Te dejo este video con el paso a paso para que lo hagas en 2 minutos 👇
+[VIDEO ADJUNTO]
+
+💡 Si tu banco te pide confirmar la compra en su app, solo acéptala; es normal en pagos en línea. Y si tu tarjeta no pasa, puedes pagar con *PayPal*.
+
+¿Te quedó alguna duda? Aquí estoy para ayudarte 🙌
+
+--------------------------------------------------
+3.2 plantilla_video_inscripcion (YA NO SE USA)
+--------------------------------------------------
+El video ahora va dentro de la plantilla_checkout. Desactiva el disparador de tiempo de 2 minutos para no enviar el video dos veces.
 
 --------------------------------------------------
 3.3 plantilla_confirmacion_comprobante
@@ -583,8 +568,8 @@ Y si más adelante quieres aprender a comprar, vender y cobrar para que tu negoc
 ##################################################
 
 Primer mensaje del contacto ................. plantilla_bienvenida (imagen + texto corto + audio + texto completo)
-"LO QUIERO" ................................. el BOT manda el paso a paso + link (y pone etiqueta CHECKOUT_ENVIADO)
-+2 min después del link ...................... plantilla_video_inscripcion
+"LO QUIERO" ................................. el BOT dispara plantilla_checkout (pasos + link + video) → etiqueta CHECKOUT_ENVIADO
+Dudas antes o después del pago .............. responde el BOT (entrenamiento)
 Recibió link y no pagó (+1–2 h) .............. plantilla_rescate_pago
 Envía captura de pago ........................ el BOT responde → tú verificas → etiqueta CLIENTE → plantilla_entregable
 No dijo "LO QUIERO" (+1–2 h) ................. plantilla_remarketing_1 (testimonios)
