@@ -468,95 +468,107 @@ Si tienes cualquier duda con tu acceso, escríbenos a atencion@fundacione.org
 --------------------------------------------------
 3.5 plantilla_rescate_pago
 --------------------------------------------------
-CUÁNDO: 1 a 2 horas después de enviar el link, si NO tiene la etiqueta CLIENTE.
+CUÁNDO: 1 a 2 horas después de la plantilla_checkout, si NO tiene la etiqueta CLIENTE (es para quien sí dijo LO QUIERO pero no terminó de pagar).
 
-Hola de nuevo 👋 ¿Pudiste hacer tu inscripción al *MÉTODO 4x4*?
+Hola de nuevo 👋 ¿Pudiste completar tu inscripción al *MÉTODO 4x4*?
 
 A veces el registro o el pago dan lata 😅 Si te atoraste en algún paso, dime en cuál y te ayudo en un minuto.
 
-Recuerda que puedes pagar con *tarjeta de débito, crédito o PayPal*, y que al mandarme tu captura te envío tu bono: la *Masterclass "Emprende en la Era de la IA"* 🎁
+💡 Si tu tarjeta no pasa, intenta con *PayPal* o revisa que esté habilitada para compras en línea.
 
-¿Te ayudo a terminar tu inscripción?
+Y en cuanto me mandes la captura de tu pago, te envío tu Masterclass *"Emprende en la Era de la IA"* 🎁
 
 --------------------------------------------------
 3.6 plantilla_remarketing_1 – TESTIMONIOS
 --------------------------------------------------
 CUÁNDO: 1 a 2 horas después de la bienvenida, si NO respondió "LO QUIERO".
-ADJUNTOS: [CAPTURAS_TESTIMONIOS] (luego, el video de testimonios).
+ADJUNTOS: 2 o 3 capturas de testimonios (primero las imágenes, después el texto). Cuando tengas el video de testimonios, úsalo en lugar de las capturas.
 
 Hola de nuevo 👋 Soy Ana, de *My 4x4 Academy*.
 
-Antes de que decidas, quiero que veas lo que dicen personas que ya se capacitaron con nosotros en otros talleres de la academia 👇
+¿Alcanzaste a escuchar el audio de Sam? 🎧
 
-[CAPTURAS_TESTIMONIOS]
+Mira lo que nos comparten personas que ya se capacitaron con nosotros en otros talleres de la academia 👆
 
-Como ellos, tú también puedes empezar a tomar mejores decisiones en tu negocio con el *MÉTODO 4x4: COMPRA, VENDE Y COBRA* de Sam González 🚙
+Ellos ya dieron el paso. Ahora te toca a ti tapar las *3 fugas de dinero* que frenan tu negocio con el *MÉTODO 4x4: COMPRA, VENDE Y COBRA* 🚙
 
-📘 Lecciones en video, a tu ritmo
+✅ Vender a crédito sin que te dejen de pagar
+✅ Comprar cuidando tu margen
+✅ Lograr que te elijan a ti y no a la competencia
+
+📱 Lecciones cortas en video, desde tu celular
 ♾️ Acceso de por vida
-🎁 Masterclass *"Emprende en la Era de la IA"* de regalo
+🎁 De regalo: Masterclass *"Emprende en la Era de la IA"*
 🔥 Pago único de *$185 pesos*
 
-¿Te gustaría ser el siguiente? Respóndeme *LO QUIERO* y te envío el link 👇
+¿Te sumas? Respóndeme *LO QUIERO* y te mando los pasos para inscribirte, con un video que te guía 👇
 
 --------------------------------------------------
-3.7 plantilla_remarketing_2 – OFERTA + PAGO SEGURO
+3.7 plantilla_remarketing_2 – LAS 3 DUDAS + PAGO SEGURO
 --------------------------------------------------
 CUÁNDO: 20 a 22 horas después de la bienvenida (antes de que cierre la ventana de 24 h).
-ADJUNTO: opcional, el mockup.
+ADJUNTO: la imagen del mockup (mockup-bienvenida-metodo-4x4-whatsapp.jpg).
 
 Hola 👋 Soy Ana, de *My 4x4 Academy*.
 
-Te escribo porque el *MÉTODO 4x4: COMPRA, VENDE Y COBRA* es de las decisiones más fáciles que puedes tomar hoy por tu negocio 👇
+Muchas personas me dicen que les interesa el *MÉTODO 4x4*, pero algo las frena. Casi siempre es una de estas 3 dudas 👇
 
-📘 *Lo que te llevas:*
-✅ Entender dónde se gana y dónde se pierde el dinero en tu negocio
-✅ Comprar bien, crear tu propuesta de valor y vender con estrategia
-✅ Vender a crédito sin que te dejen de pagar
-♾️ Acceso de por vida: lo ves cuantas veces quieras
-🎁 De regalo: la Masterclass *"Emprende en la Era de la IA"* de Sam González
+*A)* "¿Me va a servir?"
+Sí, si tienes una idea y no sabes por dónde empezar, o si ya vendes pero la ganancia no se ve. Son las bases que Sam González ha enseñado durante más de 30 años.
 
-💰 *Todo por solo $185 pesos*, menos de lo que cuesta una pizza 🍕
+*B)* "No tengo tiempo"
+Son 6 temas cortos en video. Con uno al día, en menos de una semana tienes las bases. Y el acceso es de por vida, así que vas a tu ritmo.
 
-🔒 *Tu pago es seguro:*
-• Lo haces dentro de la plataforma oficial de My 4x4 Academy
-• Puedes pagar con tarjeta de débito, crédito o *PayPal*
-• Nunca te pediremos datos de tu tarjeta por WhatsApp
+*C)* "¿Es seguro pagar?"
+Pagas dentro de la plataforma oficial de My 4x4 Academy con tarjeta de débito, crédito o *PayPal*. Nunca te pediremos datos de tu tarjeta por WhatsApp 🔒
 
-Por $185 pesos el riesgo es mínimo… lo caro es seguir un año más igual 😉
+Todo por un pago único de *$185 pesos*, con la Masterclass *"Emprende en la Era de la IA"* de regalo 🎁
 
-¿Le damos? Respóndeme *LO QUIERO* y te envío el link 👇
+¿Cuál es tu duda: *A, B o C*? Y si ya no tienes ninguna, respóndeme *LO QUIERO* y te mando los pasos 👇
 
 --------------------------------------------------
 3.8 plantilla_remarketing_3 – RECORDATORIO (plantilla aprobada por Meta)
 --------------------------------------------------
-CUÁNDO: 48 horas después.
+CUÁNDO: 48 horas después de la bienvenida.
+CATEGORÍA EN META: Marketing · Idioma: Español (MEX)
+ENCABEZADO: imagen del mockup.
+VARIABLE {{1}}: nombre del contacto (ejemplo para Meta: "Laura"). Si SellerChat no puede llenar el nombre, quita {{1}} y deja solo "Hola 👋".
+BOTONES (respuesta rápida): "LO QUIERO" y "Tengo una duda".
+PIE DE PÁGINA: My 4x4 Academy
 
-Hola {{1}} 👋 Soy Ana, de *My 4x4 Academy*.
+Hola {{1}} 👋 Soy Ana, de My 4x4 Academy.
 
-Te recuerdo que sigue disponible el *MÉTODO 4x4: COMPRA, VENDE Y COBRA* de Sam González: aprende a comprar, vender y cobrar para que tu negocio deje de perder dinero 💰
+Hace unos días te interesó el *MÉTODO 4x4: COMPRA, VENDE Y COBRA* de Sam González, y quería recordarte que sigue disponible.
 
-Pago único de *$185 pesos*, acceso de por vida y la Masterclass *"Emprende en la Era de la IA"* de regalo 🎁
+Aprendes a comprar bien, vender con estrategia y cobrar sin que te dejen de pagar, para que tu negocio deje de perder dinero 💰
 
-¿Te mando el link? Respóndeme *LO QUIERO* 👇
+📱 6 lecciones cortas en video, a tu ritmo
+♾️ Acceso de por vida
+🎁 Masterclass "Emprende en la Era de la IA" de regalo
+🔥 Pago único de $185 pesos
+
+¿Empezamos? Toca *LO QUIERO* y te envío los pasos para inscribirte 👇
 
 --------------------------------------------------
 3.9 plantilla_remarketing_4 – DESPEDIDA + CURSOS GRATUITOS (plantilla aprobada por Meta)
 --------------------------------------------------
-CUÁNDO: 4 a 5 días después. Último mensaje. Si no responde → etiqueta NO_INTERESADO.
-ADJUNTO: collage con 3 o 4 portadas de los cursos gratuitos.
+CUÁNDO: 4 a 5 días después de la bienvenida. Es el último mensaje. Si no responde → etiqueta NO_INTERESADO.
+CATEGORÍA EN META: Marketing · Idioma: Español (MEX)
+ENCABEZADO: collage con 3 o 4 portadas de los cursos gratuitos de Economía Alfa.
+VARIABLE {{1}}: nombre del contacto (ejemplo para Meta: "Laura").
+BOTONES: URL "Ver cursos gratuitos" → https://www.my4x4academy.com/cursos · respuesta rápida "LO QUIERO".
+PIE DE PÁGINA: My 4x4 Academy
 
-Hola 👋 Soy Ana, de *My 4x4 Academy*.
+Hola {{1}} 👋 Soy Ana, de My 4x4 Academy.
 
 Este es mi último mensaje y no me quiero despedir sin dejarte un regalo 🎁
 
 En la academia tenemos *cursos gratuitos* de la serie *Economía Alfa*, donde descubres las oportunidades de negocio en los estados de México con más potencial para emprender: Chiapas, Campeche, Chihuahua, Aguascalientes, Baja California y Baja California Sur 🇲🇽
 
 Aunque no vivas ahí, te sirven para detectar tendencias y nuevas ideas de negocio. Solo te registras y listo, sin pagar nada 👇
+https://www.my4x4academy.com/cursos
 
-🔗 https://www.my4x4academy.com/cursos
-
-Y si más adelante quieres aprender a comprar, vender y cobrar para que tu negocio deje de perder dinero, aquí sigo: solo escríbeme *LO QUIERO* 🙌
+Y si más adelante quieres tapar las fugas de dinero de tu negocio con el *MÉTODO 4x4*, aquí sigo: solo toca *LO QUIERO* 🙌
 
 ¡Mucho éxito en tu camino emprendedor! 🚙
 
@@ -568,10 +580,10 @@ Y si más adelante quieres aprender a comprar, vender y cobrar para que tu negoc
 Primer mensaje del contacto ................. bienvenida automática de SellerChat (imagen + texto corto + audio + texto completo)
 "LO QUIERO" ................................. el BOT dispara plantilla_checkout (pasos + link + video) → etiqueta CHECKOUT_ENVIADO
 Dudas antes o después del pago .............. responde el BOT (entrenamiento)
-Recibió link y no pagó (+1–2 h) .............. plantilla_rescate_pago
+Recibió checkout y no pagó (+1–2 h) .......... plantilla_rescate_pago
 Envía captura de pago ........................ el BOT responde → tú verificas → etiqueta CLIENTE → plantilla_entregable
 No dijo "LO QUIERO" (+1–2 h) ................. plantilla_remarketing_1 (testimonios)
-Sin compra (+20–22 h) ........................ plantilla_remarketing_2 (oferta + pago seguro)
+Sin compra (+20–22 h) ........................ plantilla_remarketing_2 (las 3 dudas + pago seguro)
 Sin compra (+48 h) ........................... plantilla_remarketing_3 (recordatorio)
 Sin compra (+4–5 días) ....................... plantilla_remarketing_4 (despedida + cursos gratuitos)
 

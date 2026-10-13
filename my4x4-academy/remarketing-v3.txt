@@ -1,0 +1,134 @@
+FLUJO DE REMARKETING v3 – MÉTODO 4x4: COMPRA, VENDE Y COBRA
+My 4x4 Academy · $185 pesos · Bono: Masterclass "Emprende en la Era de la IA"
+
+Reglas generales del flujo:
+- Solo para quien recibió la bienvenida y NO ha comprado.
+- NO se envían a contactos con etiqueta CLIENTE o NO_INTERESADO.
+- Si la persona responde a cualquier remarketing, el bot (entrenamiento) toma la conversación.
+- Si responde "LO QUIERO", el bot dispara la plantilla_checkout (pasos + link + video).
+- Remarketing 1 y 2 salen dentro de la ventana de 24 h (mensaje normal de SellerChat).
+- Remarketing 3 y 4 salen después de 24 h: deben ser plantillas de Meta aprobadas (categoría MARKETING).
+
+
+--------------------------------------------------
+REMARKETING 1 – TESTIMONIOS (plantilla_remarketing_1)
+--------------------------------------------------
+CUÁNDO: 1 a 2 horas después de la bienvenida, si NO respondió "LO QUIERO".
+ADJUNTOS: 2 o 3 capturas de testimonios (primero las imágenes, después el texto). Cuando tengas el video de testimonios, úsalo en lugar de las capturas.
+
+Hola de nuevo 👋 Soy Ana, de *My 4x4 Academy*.
+
+¿Alcanzaste a escuchar el audio de Sam? 🎧
+
+Mira lo que nos comparten personas que ya se capacitaron con nosotros en otros talleres de la academia 👆
+
+Ellos ya dieron el paso. Ahora te toca a ti tapar las *3 fugas de dinero* que frenan tu negocio con el *MÉTODO 4x4: COMPRA, VENDE Y COBRA* 🚙
+
+✅ Vender a crédito sin que te dejen de pagar
+✅ Comprar cuidando tu margen
+✅ Lograr que te elijan a ti y no a la competencia
+
+📱 Lecciones cortas en video, desde tu celular
+♾️ Acceso de por vida
+🎁 De regalo: Masterclass *"Emprende en la Era de la IA"*
+🔥 Pago único de *$185 pesos*
+
+¿Te sumas? Respóndeme *LO QUIERO* y te mando los pasos para inscribirte, con un video que te guía 👇
+
+
+--------------------------------------------------
+REMARKETING 2 – LAS 3 DUDAS + PAGO SEGURO (plantilla_remarketing_2)
+--------------------------------------------------
+CUÁNDO: 20 a 22 horas después de la bienvenida (antes de que cierre la ventana de 24 h).
+ADJUNTO: la imagen del mockup (mockup-bienvenida-metodo-4x4-whatsapp.jpg).
+
+Hola 👋 Soy Ana, de *My 4x4 Academy*.
+
+Muchas personas me dicen que les interesa el *MÉTODO 4x4*, pero algo las frena. Casi siempre es una de estas 3 dudas 👇
+
+*A)* "¿Me va a servir?"
+Sí, si tienes una idea y no sabes por dónde empezar, o si ya vendes pero la ganancia no se ve. Son las bases que Sam González ha enseñado durante más de 30 años.
+
+*B)* "No tengo tiempo"
+Son 6 temas cortos en video. Con uno al día, en menos de una semana tienes las bases. Y el acceso es de por vida, así que vas a tu ritmo.
+
+*C)* "¿Es seguro pagar?"
+Pagas dentro de la plataforma oficial de My 4x4 Academy con tarjeta de débito, crédito o *PayPal*. Nunca te pediremos datos de tu tarjeta por WhatsApp 🔒
+
+Todo por un pago único de *$185 pesos*, con la Masterclass *"Emprende en la Era de la IA"* de regalo 🎁
+
+¿Cuál es tu duda: *A, B o C*? Y si ya no tienes ninguna, respóndeme *LO QUIERO* y te mando los pasos 👇
+
+
+--------------------------------------------------
+REMARKETING 3 – RECORDATORIO (plantilla de Meta: plantilla_remarketing_3)
+--------------------------------------------------
+CUÁNDO: 48 horas después de la bienvenida.
+CATEGORÍA EN META: Marketing · Idioma: Español (MEX)
+ENCABEZADO: imagen del mockup.
+VARIABLE {{1}}: nombre del contacto (ejemplo para Meta: "Laura"). Si SellerChat no puede llenar el nombre, quita {{1}} y deja solo "Hola 👋".
+BOTONES (respuesta rápida): "LO QUIERO" y "Tengo una duda".
+PIE DE PÁGINA: My 4x4 Academy
+
+Hola {{1}} 👋 Soy Ana, de My 4x4 Academy.
+
+Hace unos días te interesó el *MÉTODO 4x4: COMPRA, VENDE Y COBRA* de Sam González, y quería recordarte que sigue disponible.
+
+Aprendes a comprar bien, vender con estrategia y cobrar sin que te dejen de pagar, para que tu negocio deje de perder dinero 💰
+
+📱 6 lecciones cortas en video, a tu ritmo
+♾️ Acceso de por vida
+🎁 Masterclass "Emprende en la Era de la IA" de regalo
+🔥 Pago único de $185 pesos
+
+¿Empezamos? Toca *LO QUIERO* y te envío los pasos para inscribirte 👇
+
+
+--------------------------------------------------
+REMARKETING 4 – DESPEDIDA + CURSOS GRATUITOS (plantilla de Meta: plantilla_remarketing_4)
+--------------------------------------------------
+CUÁNDO: 4 a 5 días después de la bienvenida. Es el último mensaje. Si no responde → etiqueta NO_INTERESADO.
+CATEGORÍA EN META: Marketing · Idioma: Español (MEX)
+ENCABEZADO: collage con 3 o 4 portadas de los cursos gratuitos de Economía Alfa.
+VARIABLE {{1}}: nombre del contacto (ejemplo para Meta: "Laura").
+BOTONES: URL "Ver cursos gratuitos" → https://www.my4x4academy.com/cursos · respuesta rápida "LO QUIERO".
+PIE DE PÁGINA: My 4x4 Academy
+
+Hola {{1}} 👋 Soy Ana, de My 4x4 Academy.
+
+Este es mi último mensaje y no me quiero despedir sin dejarte un regalo 🎁
+
+En la academia tenemos *cursos gratuitos* de la serie *Economía Alfa*, donde descubres las oportunidades de negocio en los estados de México con más potencial para emprender: Chiapas, Campeche, Chihuahua, Aguascalientes, Baja California y Baja California Sur 🇲🇽
+
+Aunque no vivas ahí, te sirven para detectar tendencias y nuevas ideas de negocio. Solo te registras y listo, sin pagar nada 👇
+https://www.my4x4academy.com/cursos
+
+Y si más adelante quieres tapar las fugas de dinero de tu negocio con el *MÉTODO 4x4*, aquí sigo: solo toca *LO QUIERO* 🙌
+
+¡Mucho éxito en tu camino emprendedor! 🚙
+
+
+--------------------------------------------------
+EXTRA – RESCATE DE PAGO (plantilla_rescate_pago)
+--------------------------------------------------
+CUÁNDO: 1 a 2 horas después de la plantilla_checkout, si NO tiene la etiqueta CLIENTE (es para quien sí dijo LO QUIERO pero no terminó de pagar).
+
+Hola de nuevo 👋 ¿Pudiste completar tu inscripción al *MÉTODO 4x4*?
+
+A veces el registro o el pago dan lata 😅 Si te atoraste en algún paso, dime en cuál y te ayudo en un minuto.
+
+💡 Si tu tarjeta no pasa, intenta con *PayPal* o revisa que esté habilitada para compras en línea.
+
+Y en cuanto me mandes la captura de tu pago, te envío tu Masterclass *"Emprende en la Era de la IA"* 🎁
+
+
+--------------------------------------------------
+LÍNEA DEL TIEMPO
+--------------------------------------------------
+Bienvenida (automática)
+  ├─ Dice LO QUIERO → plantilla_checkout → (+1–2 h sin pagar) plantilla_rescate_pago
+  └─ No dice LO QUIERO:
+       +1–2 h ........ Remarketing 1 – Testimonios
+       +20–22 h ...... Remarketing 2 – Las 3 dudas + pago seguro
+       +48 h ......... Remarketing 3 – Recordatorio (plantilla Meta)
+       +4–5 días ..... Remarketing 4 – Despedida + cursos gratuitos (plantilla Meta) → NO_INTERESADO si no responde
