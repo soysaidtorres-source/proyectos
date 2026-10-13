@@ -1,0 +1,251 @@
+PROMPTS PARA NUEVOS ANUNCIOS v2 – Gemini (Nano Banana)
+My 4x4 Academy · MÉTODO 4x4: COMPRA, VENDE Y COBRA · $185 pesos
+
+==================================================
+LO QUE APRENDIMOS (en esto se basan los 6 prompts)
+==================================================
+
+De tu anuncio ganador ("El error #1 que quiebra negocios", 52 conversaciones a $0.87 USD):
+- Sam grande, mirando a cámara, con un objeto que cuenta la historia (la libreta de fiados).
+- Un dolor concreto de negocio pequeño: fiar sin control / dinero que se pierde.
+- Titular gigante en 3D, pastilla "CURSO ONLINE · MY 4X4 ACADEMY", cinta, sello de precio y botón verde.
+
+De los anuncios de ejemplo que me compartiste (libro, mapas, guía imprimible):
+- El producto se VE (pantallas, cajas, regalo).
+- Íconos con números ("6 lecciones", "acceso de por vida").
+- Precio grande en pesos, en amarillo/rojo para que resalte.
+- Botón "PÍDELO POR WHATSAPP".
+
+Del embudo:
+- La bienvenida responde "las 3 fugas de dinero" y "cómo evitar el error que quiebra negocios". Por eso los 6 anuncios hablan de DINERO QUE SE PIERDE en el negocio: lo que promete el anuncio lo cumple la bienvenida. (Anuncios de "tengo una idea y no arranco" quedan para después, con su propia bienvenida.)
+- El precio "$185 PESOS" va visible: el mensaje cuesta un poco más, pero escribe gente que sí puede pagar.
+- Nada de garantías, "antes $X", ganancias prometidas ni testimonios inventados.
+
+
+==================================================
+CÓMO USARLOS
+==================================================
+
+1. Abre un chat NUEVO en Gemini (o tu Gem) y pega primero el bloque "CONTEXTO v2" de abajo. Reemplaza lo que diga el contexto anterior ($10 USD, "Desbloquea el Secreto…", anuncio de velas).
+2. En cada prompt adjunta las imágenes EN ESTE ORDEN:
+   IMAGEN 1 = la foto de Sam que indica el prompt
+   IMAGEN 2 = tu anuncio ganador (Sam con la libreta de fiados) → solo referencia de estilo
+   IMAGEN 3 = mockup-bienvenida-metodo-4x4.png → solo en los prompts que lo piden
+3. Copia y pega el prompt completo.
+4. Formato: 4:5 (feed). Para historias/reels usa la corrección "Versión 9:16" del final.
+5. Fotos de Sam: sam-sueter-negro-sonriendo.jpg · sam-oficina-brazos-cruzados.jpg · sam-estudio-letras-sam.jpg (NO usar la del restaurante).
+
+
+==================================================
+CONTEXTO v2 (pegar primero en el chat)
+==================================================
+
+Eres el director creativo de My 4x4 Academy. Vas a crear anuncios estáticos FINALES (foto hiperrealista + tipografía integrada), listos para publicar en Facebook e Instagram, para campañas de mensajes a WhatsApp.
+Producto: curso en línea "MÉTODO 4x4: COMPRA, VENDE Y COBRA" de Sam González (más de 30 años formando emprendedores). Enseña a comprar bien, vender con estrategia y cobrar sin que te dejen de pagar, para que un negocio pequeño deje de perder dinero. 6 lecciones en video, acceso de por vida, 100% en línea. Bono: Masterclass "Emprende en la Era de la IA". Precio: $185 pesos, pago único.
+Público: dueños de negocios pequeños en México (tiendita, comida, venta por catálogo, servicios), 28 a 55 años.
+Paleta: azul marino #0B1660, turquesa #00B3AD, azul #0068A0, blanco. Verde WhatsApp #25D366 solo en el botón. El sello de precio puede ir en amarillo #FFC629 con texto azul marino para que resalte.
+Reglas siempre: Sam es el ÚNICO modelo humano y conserva su rostro exacto; sin logos ni marcas; ningún texto en la imagen que no esté en el prompt; objetos sin texto legible (salvo lo que el prompt indique); acentos correctos; legible en celular en 1 segundo.
+Responde "Listo" y espera mis prompts.
+
+
+==================================================
+PROMPT 1 – "EL ERROR #1" v2 (el ganador, actualizado)
+==================================================
+Foto de Sam: sam-oficina-brazos-cruzados.jpg + sam-sueter-negro-sonriendo.jpg (las dos, para asegurar su cara)
+Para qué: refrescar el ganador con precio en pesos y botón de compra. Es el primero que debes lanzar.
+
+Te adjunto imágenes. Úsalas así:
+FOTOS DE SAM = MODELO HUMANO. Es Sam González, el ÚNICO modelo humano del anuncio. Conserva exactamente su rostro, rasgos, edad, tono de piel, cabello corto negro, barba de candado y lentes sin armazón. No lo cambies por otra persona, no lo rejuvenezcas ni lo adelgaces.
+ANUNCIO DE REFERENCIA = SOLO ESTILO. Copia la estructura (pastilla arriba, titular 3D gigante, cinta, sello de precio y botón abajo). No copies su foto ni su composición exacta.
+
+CREA: un anuncio vertical 4:5, final y listo para publicar, con tipografía integrada. SIN logo.
+
+ESCENA (fotografía hiperrealista, estilo documental): Sam, con camisa blanca arremangada, dentro de una pequeña tienda de abarrotes mexicana. Sostiene frente a la cámara una libreta vieja de "fiados" abierta, llena de anotaciones y nombres tachados (letras borrosas, NO legibles). Con la otra mano levanta el dedo índice en señal de advertencia. Mira directo a la cámara con expresión seria pero cercana. Anaqueles con productos genéricos SIN marcas. Luz cálida de tarde. Su cara es grande (al menos 30% del anuncio). Degradado azul marino semitransparente arriba para el texto.
+
+TEXTOS (escríbelos EXACTAMENTE así, con acentos y signos):
+- Pastilla pequeña arriba, blanca con texto azul marino #0B1660: "CURSO ONLINE · MY 4X4 ACADEMY"
+- Pre-titular, blanco con extrusión 3D azul marino: "⚠️ EL ERROR #1 QUE"
+- Titular gigante en 2 líneas, blanco ultra grueso con extrusión 3D azul marino profunda: "QUIEBRA NEGOCIOS"
+- Cinta con degradado turquesa #00B3AD a azul #0068A0, texto blanco condensado: "FIAR SIN CONTROL Y VENDER SIN ESTRATEGIA"
+- Sello circular amarillo #FFC629 con borde blanco, girado, junto a Sam, texto azul marino en 2 líneas: "SOLO" / "$185 PESOS"
+- Botón inferior verde WhatsApp #25D366 redondeado con brillo, ícono de WhatsApp a la izquierda, texto negro en negrita: "PÍDELO POR WHATSAPP"
+
+REGLAS: ningún otro texto en la imagen, ningún logo. Contraste extremo, legible en celular en 1 segundo.
+
+Variante B del botón (para probar contra la A): "ESCRÍBENOS Y TE DECIMOS CÓMO EVITARLO"
+Título Meta: El error que quiebra negocios ⚠️
+Descripción Meta: Curso online · $185 pesos
+
+
+==================================================
+PROMPT 2 – "¿CUÁNTO DINERO TIENES EN LA CALLE?"
+==================================================
+Foto de Sam: sam-sueter-negro-sonriendo.jpg
+Para qué: mismo dolor del ganador (fiados) con un gancho de pregunta que obliga a pensar en su propio negocio.
+
+Te adjunto imágenes. Úsalas así:
+IMAGEN 1 = MODELO HUMANO. Es Sam González, el ÚNICO modelo humano del anuncio. Conserva exactamente su rostro, rasgos, edad, tono de piel, cabello corto negro, barba de candado y sonrisa. No lo cambies por otra persona.
+IMAGEN 2 = SOLO REFERENCIA DE ESTILO. Copia la estructura y el estilo gráfico, no su foto.
+
+CREA: un anuncio vertical 4:5, final y listo para publicar, con tipografía integrada. SIN logo.
+
+ESCENA (fotografía hiperrealista): Sam, con suéter negro de cuello alto, detrás del mostrador de una tiendita mexicana. En una mano sostiene una libreta de "fiados" abierta (letras borrosas, NO legibles); en la otra, unos pocos billetes mexicanos arrugados y monedas, mostrándolos a la cámara. Expresión de pregunta seria, una ceja levantada, como diciendo "¿y el resto?". Sobre el mostrador, más notas de deudas sueltas. Luz cálida. Su cara ocupa al menos el 30% del anuncio. Degradado azul marino semitransparente arriba.
+
+TEXTOS (EXACTOS):
+- Pastilla pequeña arriba, blanca con texto azul marino: "CURSO ONLINE · MY 4X4 ACADEMY"
+- Pre-titular, blanco con extrusión 3D azul marino: "¿CUÁNTO DINERO"
+- Titular gigante en 2 líneas, blanco ultra grueso con extrusión 3D azul marino profunda: "TIENES EN LA CALLE?"
+- Cinta con degradado turquesa a azul, texto blanco condensado: "APRENDE A VENDER A CRÉDITO SIN QUE TE DEJEN DE PAGAR"
+- Sello circular amarillo #FFC629 con borde blanco, girado, texto azul marino: "SOLO" / "$185 PESOS"
+- Botón inferior verde WhatsApp #25D366 con ícono y brillo, texto negro en negrita: "PÍDELO POR WHATSAPP"
+
+REGLAS: ningún otro texto, ningún logo. Contraste extremo.
+
+Título Meta: ¿Cuánto dinero tienes en la calle?
+Descripción Meta: Curso de Sam · $185 pesos
+
+
+==================================================
+PROMPT 3 – "LAS 3 FUGAS DE DINERO" (igual que la bienvenida)
+==================================================
+Foto de Sam: sam-oficina-brazos-cruzados.jpg
+Para qué: es el anuncio más alineado con el embudo: promete las 3 fugas y la bienvenida las explica.
+
+Te adjunto imágenes. Úsalas así:
+IMAGEN 1 = MODELO HUMANO. Es Sam González, el ÚNICO modelo humano del anuncio. Conserva exactamente su rostro, rasgos, edad, tono de piel, cabello corto negro, barba de candado y lentes sin armazón. No lo cambies por otra persona.
+IMAGEN 2 = SOLO REFERENCIA DE ESTILO. Copia la estructura y el estilo gráfico, no su foto.
+
+CREA: un anuncio vertical 4:5, final y listo para publicar, con tipografía integrada. SIN logo.
+
+ESCENA: Sam, con camisa blanca y lentes, a la derecha del anuncio, de la cintura hacia arriba, señalando con la mano izquierda hacia 3 tarjetas que flotan a su lado. Fondo azul marino #0B1660 con un ligero brillo turquesa detrás de él. Las 3 tarjetas son rectángulos redondeados blancos, apilados en vertical, cada uno con un círculo turquesa numerado y un ícono simple: (1) una libreta, (2) un carrito de compras, (3) una estrella. Encima de las tarjetas, gotas/monedas doradas que "se escapan" hacia abajo, como una fuga. Su cara es grande y nítida.
+
+TEXTOS (EXACTOS):
+- Pastilla pequeña arriba, blanca con texto azul marino: "CURSO ONLINE · MY 4X4 ACADEMY"
+- Pre-titular, blanco con extrusión 3D: "LAS 3 FUGAS QUE"
+- Titular gigante, blanco ultra grueso con extrusión 3D azul marino y borde turquesa: "VACÍAN TU NEGOCIO"
+- Tarjeta 1 (texto azul marino en negrita): "1  FIAR SIN CONTROL"
+- Tarjeta 2: "2  COMPRAR SIN CUIDAR TU MARGEN"
+- Tarjeta 3: "3  VENDER SIN UNA RAZÓN PARA QUE TE ELIJAN"
+- Sello circular amarillo #FFC629 con borde blanco, girado: "SOLO" / "$185 PESOS"
+- Botón inferior verde WhatsApp #25D366 con ícono y brillo, texto negro en negrita en 2 líneas: "ESCRÍBENOS Y TE DECIMOS CÓMO TAPARLAS"
+
+REGLAS: ningún otro texto, ningún logo. Las tarjetas deben leerse en celular.
+
+Título Meta: Las 3 fugas que vacían tu negocio
+Descripción Meta: Curso online · $185 pesos
+
+
+==================================================
+PROMPT 4 – "3 FRASES QUE QUIEBRAN TU NEGOCIO"
+==================================================
+Foto de Sam: sam-sueter-negro-sonriendo.jpg
+Para qué: usa frases que el dueño de negocio reconoce al instante (identificación inmediata).
+
+Te adjunto imágenes. Úsalas así:
+IMAGEN 1 = MODELO HUMANO. Es Sam González, el ÚNICO modelo humano del anuncio. Conserva exactamente su rostro, rasgos, edad, tono de piel, cabello corto negro y barba de candado. No lo cambies por otra persona.
+IMAGEN 2 = SOLO REFERENCIA DE ESTILO. Copia la estructura y el estilo gráfico, no su foto.
+
+CREA: un anuncio vertical 4:5, final y listo para publicar, con tipografía integrada. SIN logo.
+
+ESCENA (fotografía hiperrealista): Sam, con suéter negro de cuello alto, en el pasillo de una tiendita mexicana, mirando a la cámara con media sonrisa de "ya me la sé" y moviendo el dedo índice de lado a lado en señal de "no". A su alrededor flotan 3 globos de diálogo blancos estilo WhatsApp, con sombra suave, como si clientes invisibles le hablaran. Anaqueles con productos genéricos SIN marcas, luz cálida. Su cara ocupa al menos el 30% del anuncio. Degradado azul marino semitransparente arriba.
+
+TEXTOS (EXACTOS):
+- Pastilla pequeña arriba, blanca con texto azul marino: "CURSO ONLINE · MY 4X4 ACADEMY"
+- Titular gigante en 2 líneas, blanco ultra grueso con extrusión 3D azul marino: "3 FRASES QUE" / "QUIEBRAN TU NEGOCIO"
+- Globo 1 (texto negro): "Al ratito te pago 🙏"
+- Globo 2: "Es de confianza, es mi comadre"
+- Globo 3: "Luego te lo doy, ¿sí?"
+- Cinta con degradado turquesa a azul, texto blanco condensado: "APRENDE A VENDER Y COBRAR CON ORDEN"
+- Sello circular amarillo #FFC629 con borde blanco, girado: "SOLO" / "$185 PESOS"
+- Botón inferior verde WhatsApp #25D366 con ícono y brillo, texto negro en negrita: "PÍDELO POR WHATSAPP"
+
+REGLAS: ningún otro texto, ningún logo. Los globos no deben tapar la cara de Sam.
+
+Título Meta: 3 frases que quiebran tu negocio 🚫
+Descripción Meta: Curso online · $185 pesos
+
+
+==================================================
+PROMPT 5 – "VENDER NO ES LO MISMO QUE COBRAR"
+==================================================
+Foto de Sam: sam-oficina-brazos-cruzados.jpg
+Para qué: contradice una creencia ("si vendo, gano") para que se detengan a leer.
+
+Te adjunto imágenes. Úsalas así:
+IMAGEN 1 = MODELO HUMANO. Es Sam González, el ÚNICO modelo humano del anuncio. Conserva exactamente su rostro, rasgos, edad, tono de piel, cabello corto negro, barba de candado y lentes sin armazón. No lo cambies por otra persona.
+IMAGEN 2 = SOLO REFERENCIA DE ESTILO. Copia la estructura y el estilo gráfico, no su foto.
+
+CREA: un anuncio vertical 4:5, final y listo para publicar, con tipografía integrada. SIN logo.
+
+ESCENA (fotografía hiperrealista): Sam, con camisa blanca arremangada y lentes, detrás del mostrador de un negocio pequeño bien surtido. Abre hacia la cámara el cajón de una caja registradora CASI VACÍA (solo unas monedas) y mira a la cámara con una ceja levantada y media sonrisa irónica. Sobre el mostrador, un rollo largo de tickets de venta que cae hasta el piso (muchas ventas). Productos genéricos SIN marcas. Luz cálida. Su cara ocupa al menos el 30% del anuncio. Degradado azul marino semitransparente arriba.
+
+TEXTOS (EXACTOS):
+- Pastilla pequeña arriba, blanca con texto azul marino: "CURSO ONLINE · MY 4X4 ACADEMY"
+- Pre-titular, blanco con extrusión 3D: "VENDER NO ES"
+- Titular gigante en 2 líneas, blanco ultra grueso con extrusión 3D azul marino profunda: "LO MISMO QUE COBRAR"
+- Cinta con degradado turquesa a azul, texto blanco condensado: "COMPRA, VENDE Y COBRA PARA QUE TU NEGOCIO DEJE DE PERDER DINERO"
+- Sello circular amarillo #FFC629 con borde blanco, girado: "SOLO" / "$185 PESOS"
+- Botón inferior verde WhatsApp #25D366 con ícono y brillo, texto negro en negrita en 2 líneas: "ESCRÍBENOS Y TE DECIMOS DÓNDE SE VA TU DINERO"
+
+REGLAS: ningún otro texto, ningún logo. Contraste extremo.
+
+Título Meta: Vender no es lo mismo que cobrar ⚠️
+Descripción Meta: Curso de Sam · $185 pesos
+
+
+==================================================
+PROMPT 6 – "TODO LO QUE INCLUYE" (producto visible, estilo de tus ejemplos)
+==================================================
+Fotos: sam-estudio-letras-sam.jpg (IMAGEN 1) + tu anuncio ganador (IMAGEN 2) + mockup-bienvenida-metodo-4x4.png (IMAGEN 3)
+Para qué: vender el producto tangible con precio grande, como los anuncios de libro/mapas/guía. Ideal para remarketing (gente que ya escribió o vio videos de Sam) y para probar en frío.
+
+Te adjunto 3 imágenes. Úsalas así:
+IMAGEN 1 = MODELO HUMANO. Es Sam González, el ÚNICO modelo humano del anuncio. Conserva exactamente su rostro, rasgos, edad, tono de piel, cabello corto negro, barba de candado y lentes. No lo cambies por otra persona.
+IMAGEN 2 = SOLO REFERENCIA DE ESTILO (titular 3D, pastilla, botón).
+IMAGEN 3 = REFERENCIA DEL PRODUCTO. Reproduce el producto tal como aparece: una laptop con la portada "MÉTODO 4x4 – COMPRA · VENDE Y COBRA", un celular con la lista de lecciones, 5 cajas azul marino numeradas 01 a 05 ("CICLO COMERCIAL", "COMPRAS INTELIGENTES", "PROPUESTA DE VALOR", "VENTAS QUE CIERRAN", "CRÉDITO SIN RIESGO") y una caja de regalo amarilla con la etiqueta "BONO · MASTERCLASS EMPRENDE EN LA ERA DE LA IA".
+
+CREA: un anuncio vertical 4:5, final y listo para publicar, con tipografía integrada. SIN logo.
+
+ESCENA: fondo azul marino #0B1660 con rayos de luz que salen del centro. En la parte de abajo, sobre una mesa de madera, el producto de la IMAGEN 3 (laptop al centro, celular a la derecha, las 5 cajas y la caja de regalo al frente), con iluminación de estudio y reflejos suaves. A la izquierda, Sam de la cintura hacia arriba, sonriendo a la cámara y señalando el producto con la mano abierta. Composición limpia y ordenada.
+
+TEXTOS (EXACTOS):
+- Pastilla pequeña arriba, blanca con texto azul marino: "CURSO ONLINE · MY 4X4 ACADEMY"
+- Titular gigante, blanco ultra grueso con extrusión 3D azul marino: "QUE TU NEGOCIO DEJE DE PERDER DINERO"
+- Subtítulo turquesa #00B3AD: "Aprende a comprar, vender y cobrar con Sam González"
+- Fila de 3 íconos circulares turquesa con texto blanco: "6 LECCIONES EN VIDEO" · "ACCESO DE POR VIDA" · "MASTERCLASS DE REGALO"
+- Sello grande tipo estallido amarillo #FFC629 con borde rojo, texto azul marino: "PAGO ÚNICO" / "$185 PESOS"
+- Botón inferior verde WhatsApp #25D366 con ícono y brillo, texto negro en negrita: "PÍDELO POR WHATSAPP"
+
+REGLAS: solo los textos indicados y los del producto de la IMAGEN 3 (escritos correctamente). Ningún logo. Legible en celular.
+
+Título Meta: Curso Método 4x4 · Solo $185 pesos
+Descripción Meta: Acceso de por vida + bono
+
+
+==================================================
+CORRECCIONES RÁPIDAS (en el mismo chat)
+==================================================
+
+Si le cambia la cara a Sam:
+"La persona no se parece a Sam González. Vuelve a generar el anuncio usando EXACTAMENTE el rostro de la IMAGEN 1: mismos rasgos, misma barba de candado, mismos lentes, misma edad. No cambies nada más."
+
+Si a los 2 intentos sigue sin parecerse:
+"Usa la foto real de Sam de la IMAGEN 1 tal cual, recortada, sin regenerar su cara, y construye el diseño (fondo, textos, sello y botón) alrededor de ella."
+
+Si hay letras mal escritas o textos inventados:
+"Corrige solo los textos: deben decir EXACTAMENTE lo que te indiqué, con acentos. Elimina cualquier otro texto que no te pedí. No cambies la escena."
+
+Versión 9:16 (historias y reels):
+"Haz este mismo anuncio en formato vertical 9:16. Deja libre el 14% de arriba y el 20% de abajo (zona de la interfaz de Instagram): titular debajo de esa franja superior y botón por encima de la franja inferior."
+
+
+==================================================
+CÓMO LANZARLOS
+==================================================
+
+1. Primero el PROMPT 1 (ganador actualizado) junto al original, sin apagar el original.
+2. Luego PROMPT 3 y PROMPT 2 (los más alineados con la bienvenida).
+3. PROMPT 4, 5 y 6 en una segunda tanda.
+- Mismo conjunto de anuncios, 3 o 4 creativos a la vez, mismo texto principal (el del anuncio ganador con $185 pesos, sección 5 del paquete).
+- Texto principal alternativo: las variantes 4B, 4C y 4D de copys-anuncios-meta.txt combinan con los prompts 2, 4 y 5 (cambia "Desbloquea el Secreto del Emprendimiento" por "MÉTODO 4x4: COMPRA, VENDE Y COBRA" y agrega "🔥 Pago único de $185 pesos").
+- A los 3 o 4 días compara por anuncio: costo por mensaje, % que responde la bienvenida, LO QUIERO y ventas (etiqueta CLIENTE). Gana el que trae VENTAS, no solo mensajes baratos.
