@@ -1,0 +1,96 @@
+PROPUESTA PARA APROBACIÓN DE SAM
+Pack "MÉTODO 4x4: TU NEGOCIO EN 7 DÍAS" – My 4x4 Academy
+
+==================================================
+1. LA OFERTA
+==================================================
+
+Idea central (lo que comunicamos):
+"Antes de arriesgar tus ahorros, arma y prueba tu idea de negocio en 7 días con el Método 4x4 de Sam González."
+
+Para quién: personas de 25 a 45 años que tienen una idea de negocio (o lo acaban de arrancar) y no saben por dónde empezar ni si su idea va a funcionar.
+
+Qué se lleva (todo con un solo pago en la plataforma de My 4x4 Academy):
+
+1. GUÍA DE TRABAJO "Tu Negocio en 7 Días" (PDF, unas 50 páginas)
+   Un día por tema, con explicaciones cortas, ejemplos y plantillas para llenar. Se entrega por WhatsApp al confirmar el pago.
+2. CLASES EN VIDEO PASO A PASO (el curso actual, en la plataforma, acceso de por vida)
+   Cada día de la guía indica qué clase ver.
+3. BONO 1: CALCULADORA DE COSTOS, PRECIO Y PUNTO DE EQUILIBRIO (Google Sheets)
+   Responde la pregunta clave: "¿mi idea deja dinero?". Se entrega por WhatsApp.
+4. BONO 2: MASTERCLASS "EMPRENDE EN LA ERA DE LA IA"
+   Se entrega por WhatsApp.
+
+Nombre comercial (opciones):
+A) MÉTODO 4x4: TU NEGOCIO EN 7 DÍAS (recomendado: concreto y fácil de recordar)
+B) PLAN 4x4: ARMA Y VALIDA TU NEGOCIO EN 7 DÍAS
+C) MÉTODO 4x4: DE LA IDEA AL NEGOCIO EN 7 DÍAS
+
+Precio: lo define la plataforma. Recomendación: subirlo a $15 USD (unos $275 pesos) porque el paquete ahora vale más. Si se queda en $10 USD, también se puede probar.
+
+Forma de pago: solo dentro de la plataforma (Stripe, convierte a pesos automáticamente).
+
+Ajuste necesario en la plataforma: que la página del curso use el mismo nombre del pack (o al menos lo mencione) y liste lo que incluye: "Clases en video + Guía de 7 días + Calculadora + Masterclass (la guía y los bonos se entregan por WhatsApp)". Si el comprador ve solo "Desbloquea el Secreto del Emprendimiento", duda de si recibirá la guía.
+
+
+==================================================
+2. ÍNDICE PROPUESTO DE LA GUÍA (unas 50 páginas)
+==================================================
+
+INTRODUCCIÓN (4 páginas)
+- Carta de Sam: por qué validar antes de invertir.
+- Cómo usar esta guía: 1 día = 1 tema = 1 clase en video + 1 plantilla.
+- El Método 4x4 (aquí va el marco real del libro "4x4 Emprendedores Todo Terreno"; Sam debe compartirnos sus conceptos clave para usarlos tal cual).
+
+DÍA 1 – TU IDEA Y TU CLIENTE (6 páginas)
+- Qué problema resuelves y a quién.
+- Tu cliente ideal en una hoja.
+- Plantilla: "Ficha de mi idea".
+
+DÍA 2 – INVESTIGA TU MERCADO SIN GASTAR (7 páginas)
+- Cómo revisar a tu competencia y sus precios (redes, Google Maps, Mercado Libre).
+- 10 conversaciones con posibles clientes: guion de preguntas.
+- Plantillas: "Tabla de competidores" y "Guion de entrevista".
+
+DÍA 3 – TU PROPUESTA DE VALOR (6 páginas)
+- Por qué te elegirían a ti y no al de enfrente.
+- Plantilla: "Lienzo de propuesta de valor".
+- Clase en video: Propuesta de valor.
+
+DÍA 4 – EL CICLO COMERCIAL Y TUS COMPRAS (6 páginas)
+- Cómo entra y sale el dinero de un negocio.
+- Proveedores, inventario mínimo y margen.
+- Clases en video: Ciclo comercial y Compras.
+
+DÍA 5 – TUS NÚMEROS: ¿DA O NO DA? (7 páginas)
+- Costos fijos y variables, precio y punto de equilibrio.
+- Cuánto necesitas para arrancar.
+- Uso de la Calculadora (Bono 1).
+
+DÍA 6 – PRUEBA TU IDEA ANTES DE INVERTIR (7 páginas)
+- Preventa, prueba piloto o producto mínimo.
+- Cómo hacer tus primeras ventas y reglas para vender a crédito sin riesgo.
+- Criterios para decidir si la prueba funcionó.
+- Clases en video: Estrategias de ventas y Ventas a crédito.
+
+DÍA 7 – TU PLAN DE LANZAMIENTO (6 páginas)
+- Semáforo de decisión: lanzar / ajustar / descartar.
+- Tu negocio en una página (lienzo 4x4).
+- Plan de tus primeros 30 días.
+
+ANEXOS (3 páginas)
+- 3 ejemplos completos: negocio de comida, venta por catálogo y servicio.
+- Checklist final y glosario.
+
+
+==================================================
+3. LO QUE NECESITAMOS DE SAM
+==================================================
+
+1. Aprobar la oferta, el nombre y el índice.
+2. Compartir los conceptos clave del Método 4x4 (del libro o de sus talleres) para que la guía use su metodología real, no una genérica.
+3. Revisar la guía terminada antes de venderla.
+4. Decidir el precio en la plataforma y actualizar la página del curso con lo que incluye el pack.
+5. (Opcional) Una o dos frases suyas para la carta de introducción.
+
+Regla de comunicación: la guía ayuda a reducir el riesgo y a decidir con datos. No promete que el negocio vaya a funcionar ni ganancias.
