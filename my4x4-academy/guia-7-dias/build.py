@@ -25,7 +25,13 @@ body=shift(body)
 toc=[(t,p+1 if p>=3 else p) for t,p in toc]
 rows=''.join(f'<div class="toc-r{" day" if t.startswith("Día") else ""}"><span>{t}</span><i></i><b>{p}</b></div>' for t,p in toc)
 tocpage=f'''<section class="page"><div class="kicker">Tu ruta de 7 días</div><h1 class="pt">Contenido</h1><div class="toc">{rows}</div>
-<div class="tip" style="margin-top:18px"><div class="t">TUS BONOS</div><strong>Bono 1:</strong> Calculadora de costos, precio y punto de equilibrio (la usarás el Día 4). <strong>Bono 2:</strong> Masterclass "Emprende en la Era de la IA" de Sam González.</div>
+<h3 style="margin-top:18px">Tus bonos y cuándo usarlos</h3>
+<table class="grid tight" style="font-size:9pt">
+<tr><td class="lab" style="width:34%">Bono 1 · Calculadora 4x4</td><td>Costos, precio y punto de equilibrio. <strong>Úsala en los Días 4 y 5.</strong></td></tr>
+<tr><td class="lab">Bono 2 · Kit Vende por WhatsApp</td><td>25 mensajes listos para copiar y pegar. <strong>Úsalo en el Día 2</strong> (para pedir conversaciones) y <strong>en el Día 6</strong> (para ofrecer, dar seguimiento, pedir anticipo y cobrar).</td></tr>
+<tr><td class="lab">Bono 3 · Plan de 30 días</td><td>Tus primeros 10 clientes. <strong>Empiézalo al terminar el Día 7.</strong></td></tr>
+<tr><td class="lab">Bono de acción rápida</td><td>Masterclass "Emprende en la Era de la IA" de Sam González, para quienes se inscribieron el mismo día. <strong>Véla al final, cuando termines la guía.</strong></td></tr>
+</table>
 <div class="pf"><span><b>TU NEGOCIO EN 7 DÍAS</b> · Método 4x4</span><span class="n">3</span></div></section>'''
 body=body.replace(toc_ph,tocpage)
 html=f'<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><title>Tu Negocio en 7 Días · Método 4x4</title><link rel="stylesheet" href="guia.css"></head><body>{body}</body></html>'
