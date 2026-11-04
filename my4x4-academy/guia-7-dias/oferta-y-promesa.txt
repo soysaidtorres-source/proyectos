@@ -49,5 +49,14 @@ DATOS DE ENTREGA Y PAGO (para bienvenida, bot, checkout y entrega)
   https://drive.google.com/drive/folders/1b-qEaWZS60msR38203VDop874XhLF8y3?usp=sharing
 - Transferencia: SOLO dar la CLABE (no dar número de cuenta ni RFC).
   Banco: BBVA · Titular: Fundación Educación para Emprendedores AC · CLABE: 012180001445363714
-- Depósito en OXXO: se hace con el NÚMERO DE TARJETA de débito BBVA (16 dígitos) + banco BBVA.
-  PENDIENTE: el usuario debe compartir el número de tarjeta (el estado de cuenta solo muestra cuenta y CLABE).
+- Depósito en efectivo en OXXO: "depósito a tarjeta Spin" con el código de 16 dígitos de la tarjeta Spin by OXXO
+  que Said presta para esta oferta (el número NO se guarda en el repositorio; está en el chat y en las plantillas de SellerChat).
+  Se envía también la imagen del QR ("Muestra este QR en caja o dicta el número").
+  Mencionar en una línea, sin énfasis, que OXXO cobra una comisión por el depósito (sin monto, porque puede cambiar).
+- Formato de plantillas de pago (como en otros embudos del usuario): mensaje de datos + número/CLABE solo en un mensaje aparte (fácil de copiar) + "envíame tu comprobante por aquí 📸".
+- Disparadores: ya los tiene el usuario en SellerChat; solo hay que actualizar entrenamiento y plantillas.
+
+DECISIONES DEL USUARIO (para el embudo)
+- Bono de acción rápida (Masterclass): solo si paga dentro de las 24 horas siguientes a recibir los datos de pago.
+- Upsell del curso en video: mensaje 1–2 días después de la entrega, al precio de la plataforma ($10 USD ≈ $185 pesos, tarjeta o PayPal).
+- Sin garantía por ahora: no mencionar devoluciones.
