@@ -39,3 +39,15 @@ LÍMITES DE HONESTIDAD
 - "Primeros 10 clientes" es el nombre del plan, no una garantía.
 - Nada de "valor real $X" inventado; anclar con comparaciones reales.
 - Urgencia solo real (el bono de acción rápida por pagar hoy).
+
+DATOS DE ENTREGA Y PAGO (para bienvenida, bot, checkout y entrega)
+- Carpeta de entregables (guía + bonos 1, 2 y 3), pública con enlace (lector):
+  https://drive.google.com/drive/folders/1XTOKdscecVVAVzQFlxWklcyIbkDPtnL6?usp=sharing
+- Calculadora (link directo para hacer copia):
+  https://docs.google.com/spreadsheets/d/1QeYI4985BJr844BhBTGbornSt3OeHjZWahaPG-jNie4/copy
+- Masterclass "Emprende en la Era de la IA" (SOLO bono de acción rápida, carpeta aparte, pública con enlace):
+  https://drive.google.com/drive/folders/1b-qEaWZS60msR38203VDop874XhLF8y3?usp=sharing
+- Transferencia: SOLO dar la CLABE (no dar número de cuenta ni RFC).
+  Banco: BBVA · Titular: Fundación Educación para Emprendedores AC · CLABE: 012180001445363714
+- Depósito en OXXO: se hace con el NÚMERO DE TARJETA de débito BBVA (16 dígitos) + banco BBVA.
+  PENDIENTE: el usuario debe compartir el número de tarjeta (el estado de cuenta solo muestra cuenta y CLABE).
