@@ -1,0 +1,64 @@
+<!DOCTYPE html><html><head><meta charset="utf-8">
+<style>
+@import url('../../fonts/local.css');
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:1080px;height:1080px;overflow:hidden;font-family:'Montserrat';background:#0B1660;position:relative;color:#fff}
+.rays{position:absolute;inset:0;background:repeating-conic-gradient(from 0deg at 50% 46%,rgba(255,255,255,.035) 0 6deg,transparent 6deg 14deg)}
+.glow{position:absolute;left:50%;top:48%;width:900px;height:900px;transform:translate(-50%,-50%);background:radial-gradient(circle,rgba(0,179,173,.38),transparent 62%)}
+.top{position:absolute;top:44px;left:0;right:0;text-align:center}
+.pill{display:inline-block;background:#fff;color:#0B1660;font-weight:800;font-size:19px;letter-spacing:.14em;border-radius:40px;padding:9px 24px}
+.t1{font-family:'Anton';font-size:92px;line-height:1;margin-top:16px;text-transform:uppercase;letter-spacing:.01em;text-shadow:0 6px 0 rgba(0,0,0,.25)}
+.t1 span{color:#00B3AD}
+.t2{font-size:25px;font-weight:700;color:#cfe9ff;margin-top:10px}
+.stage{position:absolute;left:0;right:0;top:290px;height:560px}
+.card{position:absolute;border-radius:10px;overflow:hidden;box-shadow:0 22px 50px rgba(0,0,0,.5)}
+.card img{display:block;width:100%}
+.guide{width:330px;left:375px;top:10px;z-index:5;transform:rotate(-2deg)}
+.kit{width:230px;left:135px;top:70px;z-index:3;transform:rotate(-8deg)}
+.plan{width:230px;left:715px;top:70px;z-index:3;transform:rotate(8deg)}
+.calc{position:absolute;left:150px;top:330px;width:260px;z-index:6;background:#fff;border-radius:12px;box-shadow:0 18px 40px rgba(0,0,0,.45);overflow:hidden;transform:rotate(-4deg);color:#0B1660}
+.calc .h{background:#0F9D58;color:#fff;font-weight:800;font-size:15px;padding:9px 12px}
+.calc .r{display:flex;justify-content:space-between;font-size:13px;padding:6px 12px;border-bottom:1px solid #e3e7ef;font-weight:600}
+.calc .r b{background:#EAF7F6;padding:0 6px;border-radius:4px}
+.calc .r.y b{background:#FFF4CC}
+.tag{position:absolute;z-index:8;background:#FFC629;color:#0B1660;font-weight:900;font-size:15px;letter-spacing:.06em;border-radius:8px;padding:5px 10px}
+.mc{position:absolute;left:690px;top:345px;z-index:6;width:250px;background:linear-gradient(135deg,#00B3AD,#0068A0);border-radius:14px;padding:16px 16px;box-shadow:0 18px 40px rgba(0,0,0,.45);transform:rotate(4deg)}
+.mc small{display:block;font-weight:900;font-size:13px;letter-spacing:.12em;color:#FFC629}
+.mc b{display:block;font-family:'Anton';font-weight:400;font-size:27px;line-height:1.05;margin-top:4px;text-transform:uppercase}
+.mc span{display:block;font-size:13px;font-weight:700;margin-top:6px;color:#e6fffd}
+.price{position:absolute;left:430px;top:745px;z-index:9;width:220px;height:220px;border-radius:50%;background:#FFC629;color:#0B1660;display:flex;flex-direction:column;align-items:center;justify-content:center;border:7px solid #fff;transform:rotate(-6deg);box-shadow:0 14px 30px rgba(0,0,0,.4)}
+.price small{font-weight:900;font-size:17px;letter-spacing:.08em}
+.price b{font-family:'Anton';font-weight:400;font-size:70px;line-height:.95}
+.price span{font-weight:900;font-size:22px}
+.bar{position:absolute;left:46px;right:46px;bottom:40px;background:rgba(255,255,255,.08);border:2px solid rgba(0,179,173,.7);border-radius:20px;display:flex;justify-content:space-around;padding:18px 10px}
+.bar div{text-align:center;font-weight:900;font-size:19px;letter-spacing:.03em;line-height:1.2}
+.bar div span{display:block;font-weight:600;font-size:15px;color:#cfe9ff;letter-spacing:0}
+</style></head><body>
+<div class="rays"></div><div class="glow"></div>
+<div class="top">
+  <div class="pill">GUÍA DIGITAL · MY 4X4 ACADEMY</div>
+  <div class="t1">Tu negocio en <span>7 días</span></div>
+  <div class="t2">Arma, prueba y lanza tu idea antes de arriesgar tus ahorros</div>
+</div>
+<div class="price"><small>TODO POR</small><b>$100</b><span>PESOS</span></div>
+<div class="stage">
+  <div class="card kit"><img src="src/kit-1.png"></div>
+  <div class="card plan"><img src="src/plan-1.png"></div>
+  <div class="card guide"><img src="src/guia-01.png"></div>
+  <div class="calc"><div class="h">📊 Calculadora 4x4</div>
+    <div class="r y"><span>Precio de venta</span><b>$350</b></div>
+    <div class="r"><span>Me queda por unidad</span><b>$200</b></div>
+    <div class="r"><span>Punto de equilibrio</span><b>45</b></div>
+    <div class="r"><span>¿Es viable?</span><b>✅ Sí</b></div>
+  </div>
+  <div class="tag" style="left:140px;top:300px">BONO 1</div>
+  <div class="tag" style="left:150px;top:40px">BONO 2</div>
+  <div class="tag" style="left:860px;top:52px">BONO 3</div>
+  <div class="mc"><small>⚡ BONO DE ACCIÓN RÁPIDA</small><b>Masterclass Emprende en la Era de la IA</b><span>Si pagas en las primeras 24 horas</span></div>
+</div>
+<div class="bar">
+  <div>GUÍA DE 44 PÁGINAS<span>18 hojas de trabajo</span></div>
+  <div>3 BONOS INCLUIDOS<span>Calculadora · Kit · Plan 30 días</span></div>
+  <div>TE LLEGA POR WHATSAPP<span>Transferencia u OXXO</span></div>
+</div>
+</body></html>
